@@ -1,8 +1,13 @@
 # Prabhupada Vani
 
-An Android app (with a Windows desktop version) for listening to **Srila Prabhupada's lectures** with the full transcript alongside the audio.
+<p><a href="https://github.com/shivam1234-hub/prabhupad-vani-app/releases/latest/download/PrabhupadaVani.apk"><b>⬇️ Download APK</b></a> · <a href="https://github.com/shivam1234-hub/prabhupad-vani-app/releases/latest">all versions</a><br><sub>Android: open the downloaded file and tap Install. You may need to allow installs from your browser first.</sub></p>
 
-**Download:** the latest APK is on the [Releases page](../../releases/latest). Install it on an Android phone. You may need to allow installs from your browser or file manager.
+## Screenshots
+
+<table><tr><td align="center"><img src="docs/screenshots/pv-home.jpg" width="200"><br><sub>Home</sub></td><td align="center"><img src="docs/screenshots/pv-library.jpg" width="200"><br><sub>Library</sub></td><td align="center"><img src="docs/screenshots/pv-category.jpg" width="200"><br><sub>Bhagavad-gita lectures</sub></td><td align="center"><img src="docs/screenshots/pv-lecture.jpg" width="200"><br><sub>Lecture with transcript</sub></td></tr></table>
+
+
+An Android app (with a Windows desktop version) for listening to **Srila Prabhupada's lectures** with the full transcript alongside the audio.
 
 ## Features
 
