@@ -1,0 +1,5 @@
+# Expo web export, rebuilt by `npm run export`
+web/
+# electron-builder output (installers)
+release/
+node_modules/

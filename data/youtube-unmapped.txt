@@ -1,0 +1,750 @@
+Lectures with no slide-format YouTube video, as of the last run of
+scripts/map-youtube.js. Regenerate by re-running that script.
+
+660311bgnyc   1966-03-11  02.13                  New York           Bhagavad-gita
+660713bgnyc   1966-07-13  04.03-6                New York           Bhagavad-gita
+660722bgnyc   1966-07-22  04.11                  New York           Bhagavad-gita
+660826bgnyc   1966-08-26  05.07-13               New York           Bhagavad-gita
+660829bgnyc   1966-08-29  05.14-22               New York           Bhagavad-gita
+660831bgnyc   1966-08-31  05.22-29               New York           Bhagavad-gita
+670103bgnyc   1967-01-03  10.03                  New York           Bhagavad-gita
+680522bgbos   1968-05-22  08.05                  Boston             Bhagavad-gita
+680610bgmon   1968-06-10  04.05                  Montreal           Bhagavad-gita
+680614bgmon   1968-06-14  04.08                  Montreal           Bhagavad-gita
+680910bgsf    1968-09-10  07.01                  San Francisco      Bhagavad-gita
+681025bgmon   1968-10-25  13.06-7                Montreal           Bhagavad-gita
+690103bgla    1969-01-03  04.01-6                Los Angeles        Bhagavad-gita
+690222bgla    1969-02-22  07.01                  Los Angeles        Bhagavad-gita
+690509bgcolu  1969-05-09  04.01-2                Columbus           Bhagavad-gita
+710329bgbom   1971-03-29  07.03                  Bombay             Bhagavad-gita
+710330bgbom   1971-03-30  07.04-5                Bombay             Bhagavad-gita
+720328bgbom   1972-03-28  07.01 Hindi            Bombay             Bhagavad-gita
+720329bgbom   1972-03-29  07.01 Hindi            Bombay             Bhagavad-gita
+720630bgsand  1972-06-30  07.01 & Initiation     San Diego          Bhagavad-gita
+720908bgpitt  1972-09-08  02.13                  Pittsburgh         Bhagavad-gita
+721219bgbom   1972-12-19  07.04                  Bombay             Bhagavad-gita
+730101bgbom   1973-01-01  07.13 Hindi            Bombay             Bhagavad-gita
+730226bgjaka  1973-02-26  02.12 Hindi            Jakarta            Bhagavad-gita
+730811bgpar   1973-08-11  13.03                  Paris              Bhagavad-gita
+730812bgpar   1973-08-12  13.04                  Paris              Bhagavad-gita
+730817bglon   1973-08-17  02.11                  London             Bhagavad-gita
+730821bglon   1973-08-21  02.15                  London             Bhagavad-gita
+730907bgsto   1973-09-07  13.01 to Uppsala University Faculty Stockholm          Bhagavad-gita
+731026bgbom   1973-10-26  07.01 Hindi            Bombay             Bhagavad-gita
+731029bgvrn   1973-10-29  07.01 Hindi            Vrndavana          Bhagavad-gita
+731030bgvrn   1973-10-30  07.02 Hindi            Vrndavana          Bhagavad-gita
+740212bgvrn   1974-02-12  04.04                  Vrndavana          Bhagavad-gita
+740219bgbom   1974-02-19  07.04                  Bombay             Bhagavad-gita
+740401bgbom   1974-04-01  04.12 Appearance Day, Lord Ramacandra Bombay             Bhagavad-gita
+740703bghaw   1974-07-03  17.1-3                 Honolulu           Bhagavad-gita
+740813bgvrn   1974-08-13  07.07                  Vrndavana          Bhagavad-gita
+750217bgmexi  1975-02-17  02.17                  Mexico             Bhagavad-gita
+750310bglon   1975-03-10  07.02                  London             Bhagavad-gita
+750524bgfiji  1975-05-24  07.01                  Fiji               Bhagavad-gita
+750826bgvrn   1975-08-26  07.01 Hindi            Vrndavana          Bhagavad-gita
+750829bgvrn   1975-08-29  Hindi                  Vrndavana          Bhagavad-gita
+750830bgvrn   1975-08-30  07.03 Hindi            Vrndavana          Bhagavad-gita
+750925bgahm   1975-09-25  07.01 Hindi            Ahmedabad          Bhagavad-gita
+751009bgdur   1975-10-09  07.01                  Durban             Bhagavad-gita
+751031bgnbi   1975-10-31  07.04                  Nairobi            Bhagavad-gita
+751101bgnbi   1975-11-01  07.05                  Nairobi            Bhagavad-gita
+751228bgsana  1975-12-28  07.02 Hindi            Sanand             Bhagavad-gita
+760822bghyd   1976-08-22  07.01                  Hyderabad          Bhagavad-gita
+760825bghyd   1976-08-25  01.01 Hindi            Hyderabad          Bhagavad-gita
+760903bgvrn   1976-09-03  07.15 Arrival          Vrndavana          Bhagavad-gita
+761015bgchd   1976-10-15  07.01 Hindi            Chandigarh         Bhagavad-gita
+761016bgchd   1976-10-16  09.03 Hindi            Chandigarh         Bhagavad-gita
+761018bghind  1976-10-18  13.08                  12 Hindi - Chandigarh Bhagavad-gita
+761211bghyd   1976-12-11  07.06                  Hyderabad          Bhagavad-gita
+761212bghyd   1976-12-12  02.12                  Hyderabad          Bhagavad-gita
+761213bghyd   1976-12-13  16.06                  Hyderabad          Bhagavad-gita
+761214bghyd   1976-12-14  16.07                  Hyderabad          Bhagavad-gita
+761215bghyd   1976-12-15  16.07                  Hyderabad          Bhagavad-gita
+761216bghyd   1976-12-16  16.08                  Hyderabad          Bhagavad-gita
+770122bgbhu   1977-01-22  07.01                  Bhuvanesvara       Bhagavad-gita
+770129bgbhu   1977-01-29  07.01                  Bhuvanesvara       Bhagavad-gita
+670303sbsf    1967-03-03  07.06.01               San Francisco      Srimad-Bhagavatam
+670310sbsf    1967-03-10  07.06.22-26            San Francisco      Srimad-Bhagavatam
+670313sbsf    1967-03-13  07.07.25-28            San Francisco      Srimad-Bhagavatam
+670315sbsf    1967-03-15  07.07.29-30            San Francisco      Srimad-Bhagavatam
+670317sbsf    1967-03-17  07.07.32-35            San Francisco      Srimad-Bhagavatam
+670320sbsf    1967-03-20  07.07.40-44            San Francisco      Srimad-Bhagavatam
+670322sbsf    1967-03-22  07.07.46               San Francisco      Srimad-Bhagavatam
+670326sbandi  1967-03-26  01.02.12               14 and Installation of Jagannatha Deities - San Francisco Srimad-Bhagavatam
+670327sbsf    1967-03-27  01.02.14-16            San Francisco      Srimad-Bhagavatam
+670329sbsf    1967-03-29  01.02.17               San Francisco      Srimad-Bhagavatam
+680110sbla    1968-01-10  01.05.02               Los Angeles        Srimad-Bhagavatam
+680306sbsf    1968-03-06  07.06.01               San Francisco      Srimad-Bhagavatam
+680309sbsf    1968-03-09  07.06.03-4             San Francisco      Srimad-Bhagavatam
+680315sbsf    1968-03-15  07.06.01               San Francisco      Srimad-Bhagavatam
+680318sbsf    1968-03-18  12.02.01               San Francisco      Srimad-Bhagavatam
+680328sbsf    1968-03-28  01.03.01-3             San Francisco      Srimad-Bhagavatam
+680504sbbos   1968-05-04  05.05.01-3             Boston             Srimad-Bhagavatam
+680508sbbos   1968-05-08  07.06.01               Boston             Srimad-Bhagavatam
+680610sbmon   1968-06-10  07.06.01               Montreal           Srimad-Bhagavatam
+680612sbmon   1968-06-12  07.06.01               Montreal           Srimad-Bhagavatam
+680616sbmon   1968-06-16  07.06.03               Montreal           Srimad-Bhagavatam
+680623sbmon   1968-06-23  07.06.06-9             Montreal           Srimad-Bhagavatam
+680701sbmon   1968-07-01  07.09.08               Montreal           Srimad-Bhagavatam
+680702sbmon   1968-07-02  07.09.08               Montreal           Srimad-Bhagavatam
+680704sbmon   1968-07-04  07.09.09               Montreal           Srimad-Bhagavatam
+680706sbmon   1968-07-06  07.09.09               Montreal           Srimad-Bhagavatam
+680709sbmon   1968-07-09  07.09.10               Montreal           Srimad-Bhagavatam
+680710sbmon   1968-07-10  07.09.10               Montreal           Srimad-Bhagavatam
+680712sbmon   1968-07-12  07.09.10               Montreal           Srimad-Bhagavatam
+680802sbmon   1968-08-02  01.02.05               Montreal           Srimad-Bhagavatam
+680803sbmon   1968-08-03  01.02.06               Montreal           Srimad-Bhagavatam
+680814sbmon   1968-08-14  07.09.10-11            Montreal           Srimad-Bhagavatam
+680817sbmon   1968-08-17  07.09.11               Montreal           Srimad-Bhagavatam
+680818sbmon   1968-08-18  07.09.12               Montreal           Srimad-Bhagavatam
+680819sbmon   1968-08-19  07.09.12               Montreal           Srimad-Bhagavatam
+680820sbmon   1968-08-20  07.09.12-13            Montreal           Srimad-Bhagavatam
+680821sbmon   1968-08-21  07.09.13               Montreal           Srimad-Bhagavatam
+680829sbmon   1968-08-29  07.09.13-14            Montreal           Srimad-Bhagavatam
+680910sbsf    1968-09-10  06.01.07               San Francisco      Srimad-Bhagavatam
+680912sbsf    1968-09-12  06.01.06-15            San Francisco      Srimad-Bhagavatam
+681021sbsea   1968-10-21  07.09.08               Seattle            Srimad-Bhagavatam
+681023sbmon   1968-10-23  02.01.02-5             Montreal           Srimad-Bhagavatam
+681110sbla    1968-11-10  03.25.13               Los Angeles        Srimad-Bhagavatam
+681202sbla    1968-12-02  02.02.05               Los Angeles        Srimad-Bhagavatam
+690120sbla    1969-01-20  05.05.01               Los Angeles        Srimad-Bhagavatam
+690309sbhaw   1969-03-09  07.09.08               Hawaii             Srimad-Bhagavatam
+690310sbhaw   1969-03-10  07.09.08-10            Hawaii             Srimad-Bhagavatam
+690311sbhaw   1969-03-11  07.09.10               Hawaii             Srimad-Bhagavatam
+690319sbhaw   1969-03-19  07.09.08-11            Hawaii             Srimad-Bhagavatam
+690324sbhaw   1969-03-24  07.09.11-13            Hawaii             Srimad-Bhagavatam
+690328sbhaw   1969-03-28  01.02.06               Hawaii             Srimad-Bhagavatam
+690331sbsf    1969-03-31  07.06.09-17            San Francisco      Srimad-Bhagavatam
+690409sbnyc   1969-04-09  07.06.01               New York           Srimad-Bhagavatam
+690410sbnyc   1969-04-10  02.01.01-4             New York           Srimad-Bhagavatam
+690411sbnyc   1969-04-11  Excerpt                New York           Srimad-Bhagavatam
+690413sbnyc   1969-04-13  11.03.21 and Initiations New York           Srimad-Bhagavatam
+690428sbbos   1969-04-28  05.05.02               Boston             Srimad-Bhagavatam
+690610sbnewv  1969-06-10  01.05.11-12            New Vrindaban, USA Srimad-Bhagavatam
+690613sbnewv  1969-06-13  01.05.13               New Vrindaban, USA Srimad-Bhagavatam
+690616sbnewv  1969-06-16  01.05.13               New Vrindaban, USA Srimad-Bhagavatam
+690907sbham   1969-09-07  07.09.19               Hamburg            Srimad-Bhagavatam
+690912sbtitt  1969-09-12  05.05.01               Tittenhurst        Srimad-Bhagavatam
+690913sbtitt  1969-09-13  05.05.01-2             Tittenhurst        Srimad-Bhagavatam
+690914sblon   1969-09-14  05.05.02               London             Srimad-Bhagavatam
+690917sblon   1969-09-17  05.05.02               London             Srimad-Bhagavatam
+691222sbbos   1969-12-22  02.01.01-5             Boston             Srimad-Bhagavatam
+700103sbla    1970-01-03  06.01.06               Los Angeles        Srimad-Bhagavatam
+700109sbla    1970-01-09  06.01.15               Los Angeles        Srimad-Bhagavatam
+700115sbla    1970-01-15  06.01.19               Los Angeles        Srimad-Bhagavatam
+700117sbla    1970-01-17  06.01.21               Los Angeles        Srimad-Bhagavatam
+700630sbla    1970-06-30  02.01.01               Los Angeles        Srimad-Bhagavatam
+700701sbla    1970-07-01  02.01.01               Los Angeles        Srimad-Bhagavatam
+700702sbpart  1970-07-02  02.01.01-4             Partial Recording - Los Angeles Srimad-Bhagavatam
+700703sbpart  1970-07-03  02.01.01-6             Partial Recording - Los Angeles Srimad-Bhagavatam
+700801sbla    1970-08-01  02.01.11               Los Angeles        Srimad-Bhagavatam
+701106sbbom   1970-11-06  06.01.06               Bombay             Srimad-Bhagavatam
+701110sbbom   1970-11-10  06.01.14               Bombay             Srimad-Bhagavatam
+701115sbbom   1970-11-15  06.01.19               Bombay             Srimad-Bhagavatam
+701212sbindo  1970-12-12  06.01.21 and Conversation Indore             Srimad-Bhagavatam
+701213sbindo  1970-12-13  06.01.22-25            Indore             Srimad-Bhagavatam
+701215sbindo  1970-12-15  06.01.27               Indore             Srimad-Bhagavatam
+701216sbsur   1970-12-16  06.01.27-34            Surat              Srimad-Bhagavatam
+701217sbsur   1970-12-17  06.01.32-33            Surat              Srimad-Bhagavatam
+701219sbsur   1970-12-19  06.01.34-39            Surat              Srimad-Bhagavatam
+701220sbsur   1970-12-20  06.01.38               Surat              Srimad-Bhagavatam
+701221sbsur   1970-12-21  06.01.39-40            Surat              Srimad-Bhagavatam
+701222sbsur   1970-12-22  06.01.40               Surat              Srimad-Bhagavatam
+701223sbsur   1970-12-23  06.01.41-42            Surat              Srimad-Bhagavatam
+701224sbsur   1970-12-24  06.01.42-43            Surat              Srimad-Bhagavatam
+701225sbsur   1970-12-25  06.01.44               Surat              Srimad-Bhagavatam
+701226sbsur   1970-12-26  06.01.44               Surat              Srimad-Bhagavatam
+701231sbsur   1970-12-31  06.01.45-50            Surat              Srimad-Bhagavatam
+710103sbsur   1971-01-03  06.01.56-62            Surat              Srimad-Bhagavatam
+710106sbcal   1971-01-06  06.02.01-5             Calcutta           Srimad-Bhagavatam
+710110sbcal   1971-01-10  06.02.05-8             Calcutta           Srimad-Bhagavatam
+710115sball   1971-01-15  06.02.09-10            Allahabad          Srimad-Bhagavatam
+710116sball   1971-01-16  06.02.11               Allahabad          Srimad-Bhagavatam
+710117sball   1971-01-17  06.02.12-14            Allahabad          Srimad-Bhagavatam
+710129sball   1971-01-29  06.02.45               Allahabad          Srimad-Bhagavatam
+710130sball   1971-01-30  06.02.46               Allahabad          Srimad-Bhagavatam
+710131sball   1971-01-31  06.02.48               Allahabad          Srimad-Bhagavatam
+710201sball   1971-02-01  06.03.1-11             Allahabad          Srimad-Bhagavatam
+710202sball   1971-02-02  06.03.11-12            Allahabad          Srimad-Bhagavatam
+710203sbgor   1971-02-03  06.03.12               Gorakhpur          Srimad-Bhagavatam
+710204sbgor   1971-02-04  06.03.12-15            Gorakhpur          Srimad-Bhagavatam
+710206sbgor   1971-02-06  06.03.16-17            Gorakhpur          Srimad-Bhagavatam
+710211sbgor   1971-02-11  06.03.18               Gorakhpur          Srimad-Bhagavatam
+710212sbgor   1971-02-12  06.03.18-19            Gorakhpur          Srimad-Bhagavatam
+710214sbgor   1971-02-14  06.03.20-23            Gorakhpur          Srimad-Bhagavatam
+710217sbgor   1971-02-17  11.03.27               Gorakhpur          Srimad-Bhagavatam
+710218sbgor   1971-02-18  06.03.25-26            Gorakhpur          Srimad-Bhagavatam
+710220sbgor   1971-02-20  06.03.27-28            Gorakhpur          Srimad-Bhagavatam
+710221sbgor   1971-02-21  06.03.28-29            Gorakhpur          Srimad-Bhagavatam
+710222sbgor   1971-02-22  06.03.30-31            Gorakhpur          Srimad-Bhagavatam
+710223sbgor   1971-02-23  06.03.32-33            Gorakhpur          Srimad-Bhagavatam
+710307sbcal   1971-03-07  07.06.19-21            Calcutta           Srimad-Bhagavatam
+710308sbcal   1971-03-08  07.06.22-25            Calcutta           Srimad-Bhagavatam
+710314sbbom   1971-03-14  07.06.24-30            Bombay             Srimad-Bhagavatam
+710315sbbom   1971-03-15  07.06.29-07.07.09      Bombay             Srimad-Bhagavatam
+710316sbbom   1971-03-16  07.07.10-15            Bombay             Srimad-Bhagavatam
+710317sbbom   1971-03-17  07.07.14-18            Bombay             Srimad-Bhagavatam
+710318sbbom   1971-03-18  07.07.19-20            Bombay             Srimad-Bhagavatam
+710319sbbom   1971-03-19  07.07.22-25            Bombay             Srimad-Bhagavatam
+710320sbbom   1971-03-20  07.07.25-29            Bombay             Srimad-Bhagavatam
+710321sbbom   1971-03-21  07.07.29-30            Bombay             Srimad-Bhagavatam
+710409sbbom   1971-04-09  01.08.18-19            Bombay             Srimad-Bhagavatam
+710710sbla    1971-07-10  05.18.12               Los Angeles        Srimad-Bhagavatam
+710721sbnyc   1971-07-21  06.01.06-8             New York           Srimad-Bhagavatam
+710722sbnyc   1971-07-22  06.01.08               New York           Srimad-Bhagavatam
+710724sbnyc   1971-07-24  06.01.08-13            New York           Srimad-Bhagavatam
+710725sbnyc   1971-07-25  06.01.11               New York           Srimad-Bhagavatam
+710727sbnyc   1971-07-27  06.01.13-14            New York           Srimad-Bhagavatam
+710801sbnyc   1971-08-01  06.01.15               New York           Srimad-Bhagavatam
+710802sbnyc   1971-08-02  06.01.16-20            New York           Srimad-Bhagavatam
+710803sblon   1971-08-03  06.01.15               London             Srimad-Bhagavatam
+710806sblon   1971-08-06  01.01.01               London             Srimad-Bhagavatam
+710807sblon   1971-08-07  01.01.01               London             Srimad-Bhagavatam
+710810sblon   1971-08-10  01.02.02               London             Srimad-Bhagavatam
+710815sblon   1971-08-15  01.01.02               London             Srimad-Bhagavatam
+710816sblon   1971-08-16  01.01.02               London             Srimad-Bhagavatam
+710817sblon   1971-08-17  01.01.02               London             Srimad-Bhagavatam
+710819sblon   1971-08-19  01.01.03               London             Srimad-Bhagavatam
+710820sblon   1971-08-20  01.01.03               London             Srimad-Bhagavatam
+710824sblon   1971-08-24  01.02.03               London             Srimad-Bhagavatam
+710826sblon   1971-08-26  01.02.06               London             Srimad-Bhagavatam
+710827sblon   1971-08-27  01.02.06               London             Srimad-Bhagavatam
+710903sblon   1971-09-03  05.05.05               London             Srimad-Bhagavatam
+710908sblon   1971-09-08  07.05.22-30            London             Srimad-Bhagavatam
+710909sblon   1971-09-09  07.05.30               London             Srimad-Bhagavatam
+710912sbmomb  1971-09-12  07.07.30-31            Mombasa            Srimad-Bhagavatam
+710913sbmomb  1971-09-13  02.01.02               Mombasa            Srimad-Bhagavatam
+710915sbmomb  1971-09-15  07 Canto               Mombasa            Srimad-Bhagavatam
+710917sbmomb  1971-09-17  01.02.06               Mombasa            Srimad-Bhagavatam
+711115sbdel   1971-11-15  07.06.01               Delhi              Srimad-Bhagavatam
+711116sbdel   1971-11-16  04.14.14               Delhi              Srimad-Bhagavatam
+711210sbdel   1971-12-10  10.84.13               Delhi              Srimad-Bhagavatam
+720200sbla    1972-02-00  01.01.01               Los Angeles        Srimad-Bhagavatam
+720220sbvisa  1972-02-20  01.02.05               Visakhapatnam      Srimad-Bhagavatam
+720222sbvisa  1972-02-22  07.09.43               Visakhapatnam      Srimad-Bhagavatam
+720223sbcal   1972-02-23  01.02.06               Calcutta           Srimad-Bhagavatam
+720305sbcal   1972-03-05  07.09.08               Calcutta           Srimad-Bhagavatam
+720306sbcal   1972-03-06  07.09.08-9             Calcutta           Srimad-Bhagavatam
+720307sbcal   1972-03-07  07.09.09               Calcutta           Srimad-Bhagavatam
+720321sbbom   1972-03-21  01.01.01               Bombay             Srimad-Bhagavatam
+720322sbbom   1972-03-22  01.01.01-2             Bombay             Srimad-Bhagavatam
+720325sbbom   1972-03-25  01.02.05               Bombay             Srimad-Bhagavatam
+720326sbbom   1972-03-26  01.02.06               Bombay             Srimad-Bhagavatam
+720403sbsyd   1972-04-03  01.02.05               Sydney             Srimad-Bhagavatam
+720420sbhkg   1972-04-20  07.06.01               Hong Kong          Srimad-Bhagavatam
+720422sbtok   1972-04-22  02.09.02               Tokyo              Srimad-Bhagavatam
+720423sbtok   1972-04-23  02.09.01               Tokyo              Srimad-Bhagavatam
+720511sbhaw   1972-05-11  02.07.02-4             Honolulu           Srimad-Bhagavatam
+720519sbla    1972-05-19  02.03.01               Los Angeles        Srimad-Bhagavatam
+720520sbla    1972-05-20  02.03.01-2             Los Angeles        Srimad-Bhagavatam
+720522sbla    1972-05-22  02.03.01-3             Los Angeles        Srimad-Bhagavatam
+720525sbla    1972-05-25  02.03.08 and Initiation Los Angeles        Srimad-Bhagavatam
+720527sbfest  1972-05-27  07.05.22               32 Festival Nrsimha-caturdasi - Los Angeles Srimad-Bhagavatam
+720601sbla    1972-06-01  02.03.15               Los Angeles        Srimad-Bhagavatam
+720608sbla    1972-06-08  Excerpt                Los Angeles        Srimad-Bhagavatam
+720614sbla    1972-06-14  02.03.19               Los Angeles        Srimad-Bhagavatam
+720615sbla    1972-06-15  02.03.19               Los Angeles        Srimad-Bhagavatam
+720616sbla    1972-06-16  02.03.20               Los Angeles        Srimad-Bhagavatam
+720618sbla    1972-06-18  02.03.21               Los Angeles        Srimad-Bhagavatam
+720625sbla    1972-06-25  02.04.02               Los Angeles        Srimad-Bhagavatam
+720626sbla    1972-06-26  02.04.02               Los Angeles        Srimad-Bhagavatam
+720628sbandi  1972-06-28  02.04.03               4 and Initiation - Los Angeles Srimad-Bhagavatam
+720706sblon   1972-07-06  01.01.01               London             Srimad-Bhagavatam
+720707sblon   1972-07-07  01.01.02               London             Srimad-Bhagavatam
+720714sblon   1972-07-14  01.01.04               London             Srimad-Bhagavatam
+720720sblon   1972-07-20  01.01.10               London             Srimad-Bhagavatam
+720731sbglas  1972-07-31  01.02.05               Glasgow            Srimad-Bhagavatam
+720802sblon   1972-08-02  01.02.23               London             Srimad-Bhagavatam
+720803sblon   1972-08-03  05.05.01               London             Srimad-Bhagavatam
+720809sblon   1972-08-09  01.02.11               London             Srimad-Bhagavatam
+720810sblon   1972-08-10  01.02.11-12            London             Srimad-Bhagavatam
+720816sbla    1972-08-16  01.02.13               Los Angeles        Srimad-Bhagavatam
+720824sbla    1972-08-24  01.02.21 and Initiations Los Angeles        Srimad-Bhagavatam
+720827sbla    1972-08-27  01.02.24               Los Angeles        Srimad-Bhagavatam
+720903sbnewv  1972-09-03  01.02.05               New Vrindaban, USA Srimad-Bhagavatam
+720904sbnewv  1972-09-04  01.02.06               New Vrindaban, USA Srimad-Bhagavatam
+720905sbnewv  1972-09-05  01.02.07               New Vrindaban, USA Srimad-Bhagavatam
+720906sbnewv  1972-09-06  01.02.08               New Vrindaban, USA Srimad-Bhagavatam
+720907sbnewv  1972-09-07  01.02.09               New Vrindaban, USA Srimad-Bhagavatam
+720911sbdal   1972-09-11  02.01.02               Dallas             Srimad-Bhagavatam
+720912sbdal   1972-09-12  02.01.01               Dallas             Srimad-Bhagavatam
+720915sbla    1972-09-15  01.03.09               Los Angeles        Srimad-Bhagavatam
+720921sbla    1972-09-21  01.03.16 and Initiation Los Angeles        Srimad-Bhagavatam
+720923sbla    1972-09-23  01.03.18               Los Angeles        Srimad-Bhagavatam
+721016sbvrn   1972-10-16  01.02.05               Vrndavana          Srimad-Bhagavatam
+721017sbvrn   1972-10-17  01.02.06               Vrndavana          Srimad-Bhagavatam
+721018sbvrn   1972-10-18  01.02.07               Vrndavana          Srimad-Bhagavatam
+721019sbvrn   1972-10-19  01.02.08               Vrndavana          Srimad-Bhagavatam
+721020sbvrn   1972-10-20  01.02.09               Vrndavana          Srimad-Bhagavatam
+721023sbvrn   1972-10-23  01.02.12               Vrndavana          Srimad-Bhagavatam
+721026sbvrn   1972-10-26  01.02.15               Vrndavana          Srimad-Bhagavatam
+721027sbvrn   1972-10-27  01.02.16               Vrndavana          Srimad-Bhagavatam
+721028sbvrn   1972-10-28  01.02.17               Vrndavana          Srimad-Bhagavatam
+721029sbvrn   1972-10-29  01.02.18               Vrndavana          Srimad-Bhagavatam
+721030sbvrn   1972-10-30  01.02.19               Vrndavana          Srimad-Bhagavatam
+721031sbvrn   1972-10-31  01.02.20               Vrndavana          Srimad-Bhagavatam
+721102sbvrn   1972-11-02  01.02.22               Vrndavana          Srimad-Bhagavatam
+721103sbvrn   1972-11-03  01.02.23               Vrndavana          Srimad-Bhagavatam
+721105sbvrn   1972-11-05  01.02.25               Vrndavana          Srimad-Bhagavatam
+721126sbhyd   1972-11-26  01.02.06               Hyderabad          Srimad-Bhagavatam
+721226sbbom   1972-12-26  01.02.08               Bombay             Srimad-Bhagavatam
+721228sbbom   1972-12-28  01.02.10               Bombay             Srimad-Bhagavatam
+721229sbbom   1972-12-29  Hindi                  Bombay             Srimad-Bhagavatam
+730108sbbom   1973-01-08  01.02.06 Hindi         Bombay             Srimad-Bhagavatam
+730112sbbom   1973-01-12  07.05.01               Bombay             Srimad-Bhagavatam
+730217sbsyd   1973-02-17  06.01.06               Sydney             Srimad-Bhagavatam
+730221sbauk   1973-02-21  06.01.13-15            Auckland           Srimad-Bhagavatam
+730222sbauk   1973-02-22  06.01.15-17            Auckland           Srimad-Bhagavatam
+730406sbnyc   1973-04-06  02.01.01-2             New York           Srimad-Bhagavatam
+730414sbla    1973-04-14  01.08.22               Los Angeles        Srimad-Bhagavatam
+730424sbla    1973-04-24  01.08.32               Los Angeles        Srimad-Bhagavatam
+730514sbla    1973-05-14  01.08.52               Los Angeles        Srimad-Bhagavatam
+730619sbmay   1973-06-19  01.10.04               Mayapur            Srimad-Bhagavatam
+730620sbmay   1973-06-20  01.10.05               Mayapur            Srimad-Bhagavatam
+730723sblon   1973-07-23  01.02.06               London             Srimad-Bhagavatam
+730812sbpar   1973-08-12  05.05.01-2             Paris              Srimad-Bhagavatam
+730827sblon   1973-08-27  01.01.04               London             Srimad-Bhagavatam
+730906sbsto   1973-09-06  05.05.01-8             Stockholm          Srimad-Bhagavatam
+730907sbsto   1973-09-07  05.05.01-2             Stockholm          Srimad-Bhagavatam
+730908sbsto   1973-09-08  05.05.01               Stockholm          Srimad-Bhagavatam
+730909sbsto   1973-09-09  05.05.03               Stockholm          Srimad-Bhagavatam
+730910sbsto   1973-09-10  05.05.05               Stockholm          Srimad-Bhagavatam
+730912sblon   1973-09-12  01.05.11               London             Srimad-Bhagavatam
+731104sbdel   1973-11-04  02.01.01               Delhi              Srimad-Bhagavatam
+731106sbdel   1973-11-06  02.01.03               Delhi              Srimad-Bhagavatam
+731108sbdel   1973-11-08  02.01.05               Delhi              Srimad-Bhagavatam
+731111sbdel   1973-11-11  01.02.06               Delhi              Srimad-Bhagavatam
+731112sbdel   1973-11-12  01.02.06               Delhi              Srimad-Bhagavatam
+731114sbdel   1973-11-14  01.02.09-10            Delhi              Srimad-Bhagavatam
+731115sbdel   1973-11-15  01.02.10 Hindi         Delhi              Srimad-Bhagavatam
+731118sbdel   1973-11-18  01.02.12               Delhi              Srimad-Bhagavatam
+740107sbla    1974-01-07  01.16.10               Los Angeles        Srimad-Bhagavatam
+740115sbhaw   1974-01-15  01.16.19               Honolulu           Srimad-Bhagavatam
+740116sbhaw   1974-01-16  01.16.20               Honolulu           Srimad-Bhagavatam
+740117sbhaw   1974-01-17  01.16.21               Honolulu           Srimad-Bhagavatam
+740118sbhaw   1974-01-18  01.16.22               Honolulu           Srimad-Bhagavatam
+740119sbhaw   1974-01-19  01.16.23               Honolulu           Srimad-Bhagavatam
+740120sbhaw   1974-01-20  01.16.24               Honolulu           Srimad-Bhagavatam
+740123sbhaw   1974-01-23  01.16.26-30            Honolulu           Srimad-Bhagavatam
+740227sbcal   1974-02-27  01.02.06               Calcutta           Srimad-Bhagavatam
+740316sbvrn   1974-03-16  02.01.01               Vrndavana          Srimad-Bhagavatam
+740317sbvrn   1974-03-17  02.01.02               Vrndavana          Srimad-Bhagavatam
+740318sbvrn   1974-03-18  02.01.03               Vrndavana          Srimad-Bhagavatam
+740319sbvrn   1974-03-19  02.01.04               Vrndavana          Srimad-Bhagavatam
+740418sbhyd   1974-04-18  01.02.06               Hyderabad          Srimad-Bhagavatam
+740421sbhyd   1974-04-21  01.02.07               Hyderabad          Srimad-Bhagavatam
+740422sbhyd   1974-04-22  01.02.08               Hyderabad          Srimad-Bhagavatam
+740423sbhyd   1974-04-23  01.02.09               Hyderabad          Srimad-Bhagavatam
+740424sbhyd   1974-04-24  01.02.10               Hyderabad          Srimad-Bhagavatam
+740426sbtir   1974-04-26  01.02.11               Tirupati           Srimad-Bhagavatam
+740524sbrom   1974-05-24  01.02.06               Rome               Srimad-Bhagavatam
+740603sbgen   1974-06-03  01.13.12               Geneva             Srimad-Bhagavatam
+740626sbmel   1974-06-26  02.01.01-5             Melbourne          Srimad-Bhagavatam
+740704sbchi   1974-07-04  01.08.18               Chicago            Srimad-Bhagavatam
+740705sbchi   1974-07-05  01.08.19               Chicago            Srimad-Bhagavatam
+740718sbnewv  1974-07-18  01.02.17               New Vrindaban, USA Srimad-Bhagavatam
+740719sbnewv  1974-07-19  01.02.18               New Vrindaban, USA Srimad-Bhagavatam
+740721sbnewv  1974-07-21  01.02.19               New Vrindaban, USA Srimad-Bhagavatam
+740724sbnyc   1974-07-24  01.02.20               New York           Srimad-Bhagavatam
+740817sbvrn   1974-08-17  01.05.36               Vrndavana          Srimad-Bhagavatam
+740926sbcal   1974-09-26  01.02.18               Calcutta           Srimad-Bhagavatam
+740927sbcal   1974-09-27  01.02.19               Calcutta           Srimad-Bhagavatam
+740928sbmay   1974-09-28  01.08.18               Mayapur            Srimad-Bhagavatam
+740930sbmay   1974-09-30  01.08.20               Mayapur            Srimad-Bhagavatam
+741001sbmay   1974-10-01  01.08.21               Mayapur            Srimad-Bhagavatam
+741003sbmay   1974-10-03  01.08.23               Mayapur            Srimad-Bhagavatam
+741004sbmay   1974-10-04  01.08.24               Mayapur            Srimad-Bhagavatam
+741005sbmay   1974-10-05  01.08.25               Mayapur            Srimad-Bhagavatam
+741006sbmay   1974-10-06  01.08.26               Mayapur            Srimad-Bhagavatam
+741008sbmay   1974-10-08  01.08.28               Mayapur            Srimad-Bhagavatam
+741009sbmay   1974-10-09  01.08.29               Mayapur            Srimad-Bhagavatam
+741010sbmay   1974-10-10  01.08.30               Mayapur            Srimad-Bhagavatam
+741011sbmay   1974-10-11  01.08.31               Mayapur            Srimad-Bhagavatam
+741012sbmay   1974-10-12  01.08.32               Mayapur            Srimad-Bhagavatam
+741013sbmay   1974-10-13  01.08.33               Mayapur            Srimad-Bhagavatam
+741014sbmay   1974-10-14  01.08.34               Mayapur            Srimad-Bhagavatam
+741015sbmay   1974-10-15  01.08.35               Mayapur            Srimad-Bhagavatam
+741016sbmay   1974-10-16  01.08.36               Mayapur            Srimad-Bhagavatam
+741019sbmay   1974-10-19  01.08.39               Mayapur            Srimad-Bhagavatam
+741020sbmay   1974-10-20  01.08.40               Mayapur            Srimad-Bhagavatam
+741021sbmay   1974-10-21  01.08.41               Mayapur            Srimad-Bhagavatam
+741022sbmay   1974-10-22  01.08.42               Mayapur            Srimad-Bhagavatam
+741023sbmay   1974-10-23  01.08.43               Mayapur            Srimad-Bhagavatam
+741024sbmay   1974-10-24  01.08.44               Mayapur            Srimad-Bhagavatam
+741025sbmay   1974-10-25  01.08.45               Mayapur            Srimad-Bhagavatam
+741026sbmay   1974-10-26  01.08.46               Mayapur            Srimad-Bhagavatam
+741027sbmay   1974-10-27  01.08.47               Mayapur            Srimad-Bhagavatam
+741028sbmay   1974-10-28  01.08.48               Mayapur            Srimad-Bhagavatam
+741107sbbom   1974-11-07  03.25.07               Bombay             Srimad-Bhagavatam
+741108sbbom   1974-11-08  03.25.08               Bombay             Srimad-Bhagavatam
+741109sbbom   1974-11-09  03.25.09               Bombay             Srimad-Bhagavatam
+741110sbbom   1974-11-10  03.25.10               Bombay             Srimad-Bhagavatam
+741111sbbom   1974-11-11  03.25.11               Bombay             Srimad-Bhagavatam
+741112sbbom   1974-11-12  03.25.12               Bombay             Srimad-Bhagavatam
+741113sbbom   1974-11-13  03.25.13               Bombay             Srimad-Bhagavatam
+741114sbbom   1974-11-14  03.25.14               Bombay             Srimad-Bhagavatam
+741115sbbom   1974-11-15  03.25.15               Bombay             Srimad-Bhagavatam
+741116sbbom   1974-11-16  03.25.16               Bombay             Srimad-Bhagavatam
+741117sbbom   1974-11-17  03.25.17               Bombay             Srimad-Bhagavatam
+741118sbbom   1974-11-18  03.25.18               Bombay             Srimad-Bhagavatam
+741119sbbom   1974-11-19  03.25.19               Bombay             Srimad-Bhagavatam
+741120sbbom   1974-11-20  03.25.20               Bombay             Srimad-Bhagavatam
+741121sbbom   1974-11-21  03.25.21               Bombay             Srimad-Bhagavatam
+741122sbbom   1974-11-22  03.25.22               Bombay             Srimad-Bhagavatam
+741123sbbom   1974-11-23  03.25.23               Bombay             Srimad-Bhagavatam
+741124sbbom   1974-11-24  03.25.24               Bombay             Srimad-Bhagavatam
+741125sbbom   1974-11-25  03.25.25               Bombay             Srimad-Bhagavatam
+741126sbbom   1974-11-26  03.25.26               Bombay             Srimad-Bhagavatam
+741127sbbom   1974-11-27  03.25.27               Bombay             Srimad-Bhagavatam
+741128sbbom   1974-11-28  03.25.28               Bombay             Srimad-Bhagavatam
+741129sbbom   1974-11-29  03.25.29               Bombay             Srimad-Bhagavatam
+741130sbbom   1974-11-30  03.25.30               Bombay             Srimad-Bhagavatam
+741201sbbom   1974-12-01  03.25.31               Bombay             Srimad-Bhagavatam
+741202sbbom   1974-12-02  03.25.32               Bombay             Srimad-Bhagavatam
+741203sbbom   1974-12-03  03.25.33-34            Bombay             Srimad-Bhagavatam
+741204sbbom   1974-12-04  03.25.35               Bombay             Srimad-Bhagavatam
+741205sbbom   1974-12-05  03.25.36               Bombay             Srimad-Bhagavatam
+741206sbbom   1974-12-06  03.25.37               Bombay             Srimad-Bhagavatam
+741207sbbom   1974-12-07  03.25.38               Bombay             Srimad-Bhagavatam
+741208sbbom   1974-12-08  03.25.39-40            Bombay             Srimad-Bhagavatam
+741209sbbom   1974-12-09  03.25.41               Bombay             Srimad-Bhagavatam
+741210sbbom   1974-12-10  03.25.42               Bombay             Srimad-Bhagavatam
+741211sbbom   1974-12-11  03.25.43               Bombay             Srimad-Bhagavatam
+741212sbbom   1974-12-12  03.25.44               Bombay             Srimad-Bhagavatam
+741213sbbom   1974-12-13  03.26.01               Bombay             Srimad-Bhagavatam
+741214sbbom   1974-12-14  03.26.02               Bombay             Srimad-Bhagavatam
+741215sbbom   1974-12-15  03.26.03               Bombay             Srimad-Bhagavatam
+741216sbbom   1974-12-16  03.26.04               Bombay             Srimad-Bhagavatam
+741217sbbom   1974-12-17  03.26.05               Bombay             Srimad-Bhagavatam
+741218sbbom   1974-12-18  03.26.06               Bombay             Srimad-Bhagavatam
+741219sbbom   1974-12-19  03.26.07               Bombay             Srimad-Bhagavatam
+741220sbbom   1974-12-20  03.26.08               Bombay             Srimad-Bhagavatam
+741221sbbom   1974-12-21  03.26.09               Bombay             Srimad-Bhagavatam
+741222sbbom   1974-12-22  03.26.10               Bombay             Srimad-Bhagavatam
+741223sbbom   1974-12-23  03.26.11-14            Bombay             Srimad-Bhagavatam
+741224sbbom   1974-12-24  03.26.15               Bombay             Srimad-Bhagavatam
+741225sbbom   1974-12-25  03.26.16               Bombay             Srimad-Bhagavatam
+741226sbbom   1974-12-26  03.26.17               Bombay             Srimad-Bhagavatam
+741227sbbom   1974-12-27  03.26.18               Bombay             Srimad-Bhagavatam
+741228sbbom   1974-12-28  03.26.19               Bombay             Srimad-Bhagavatam
+741229sbbom   1974-12-29  03.26.20               Bombay             Srimad-Bhagavatam
+741230sbbom   1974-12-30  03.26.21               Bombay             Srimad-Bhagavatam
+741231sbbom   1974-12-31  03.26.22               Bombay             Srimad-Bhagavatam
+750101sbbom   1975-01-01  03.26.23-4             Bombay             Srimad-Bhagavatam
+750102sbbom   1975-01-02  03.26.25               Bombay             Srimad-Bhagavatam
+750103sbbom   1975-01-03  03.26.26               Bombay             Srimad-Bhagavatam
+750104sbbom   1975-01-04  03.26.27               Bombay             Srimad-Bhagavatam
+750105sbbom   1975-01-05  03.26.28               Bombay             Srimad-Bhagavatam
+750106sbbom   1975-01-06  03.26.29               Bombay             Srimad-Bhagavatam
+750107sbbom   1975-01-07  03.26.30               Bombay             Srimad-Bhagavatam
+750108sbbom   1975-01-08  03.26.31               Bombay             Srimad-Bhagavatam
+750109sbbom   1975-01-09  03.26.32               Bombay             Srimad-Bhagavatam
+750111sbbom   1975-01-11  03.26.34               Bombay             Srimad-Bhagavatam
+750112sbbom   1975-01-12  03.26.35-36            Bombay             Srimad-Bhagavatam
+750114sbbom   1975-01-14  03.26.39               Bombay             Srimad-Bhagavatam
+750115sbbom   1975-01-15  03.26.40               Bombay             Srimad-Bhagavatam
+750116sbbom   1975-01-16  03.26.41               Bombay             Srimad-Bhagavatam
+750117sbbom   1975-01-17  03.26.42               Bombay             Srimad-Bhagavatam
+750118sbbom   1975-01-18  03.26.43               Bombay             Srimad-Bhagavatam
+750119sbbom   1975-01-19  03.26.44               Bombay             Srimad-Bhagavatam
+750120sbbom   1975-01-20  03.26.45               Bombay             Srimad-Bhagavatam
+750121sbbom   1975-01-21  03.26.46               Bombay             Srimad-Bhagavatam
+750122sbbom   1975-01-22  03.26.47               Bombay             Srimad-Bhagavatam
+750220sbcar   1975-02-20  01.01.01               Caracas            Srimad-Bhagavatam
+750221sbcar   1975-02-21  01.01.01               Caracas            Srimad-Bhagavatam
+750307sbnyc   1975-03-07  Q&A                    New York           Srimad-Bhagavatam
+750321sbcal   1975-03-21  01.02.06 Hindi         Calcutta           Srimad-Bhagavatam
+750322sbcal   1975-03-22  01.02.07 Hindi         Calcutta           Srimad-Bhagavatam
+750323sbcal   1975-03-23  01.02.08 Hindi and Bengali Calcutta           Srimad-Bhagavatam
+750410sbhyd   1975-04-10  05.05.01               Hyderabad          Srimad-Bhagavatam
+750411sbhyd   1975-04-11  05.05.02               Hyderabad          Srimad-Bhagavatam
+750412sbhyd   1975-04-12  05.05.02               Hyderabad          Srimad-Bhagavatam
+750413sbhyd   1975-04-13  05.05.02               Hyderabad          Srimad-Bhagavatam
+750415sbhyd   1975-04-15  05.05.03               Hyderabad          Srimad-Bhagavatam
+750418sbvrn   1975-04-18  01.07.06               Vrndavana          Srimad-Bhagavatam
+750423sbvrn   1975-04-23  01.07.06               Vrndavana          Srimad-Bhagavatam
+750424sbvrn   1975-04-24  01.07.07               Vrndavana          Srimad-Bhagavatam
+750520sbmel   1975-05-20  06.01.01-4             Melbourne          Srimad-Bhagavatam
+750521sbmel   1975-05-21  06.01.01               Melbourne          Srimad-Bhagavatam
+750522sbmel   1975-05-22  06.01.01-2             Melbourne          Srimad-Bhagavatam
+750601sbhaw   1975-06-01  03.28.01               Honolulu           Srimad-Bhagavatam
+750608sbhaw   1975-06-08  06.01.06-7             Honolulu           Srimad-Bhagavatam
+750615sbhaw   1975-06-15  06.01.07               Honolulu           Srimad-Bhagavatam
+750621sbla    1975-06-21  06.01.08               Los Angeles        Srimad-Bhagavatam
+750622sbla    1975-06-22  06.01.09               Los Angeles        Srimad-Bhagavatam
+750623sbla    1975-06-23  06.01.10               Los Angeles        Srimad-Bhagavatam
+750625sbla    1975-06-25  06.01.12               Los Angeles        Srimad-Bhagavatam
+750626sbla    1975-06-26  06.01.13-14            Los Angeles        Srimad-Bhagavatam
+750627sbla    1975-06-27  06.01.15               Los Angeles        Srimad-Bhagavatam
+750628sbden   1975-06-28  06.01.15               Denver             Srimad-Bhagavatam
+750629sbden   1975-06-29  01.02.06               Denver             Srimad-Bhagavatam
+750630sbden   1975-06-30  06.01.17               Denver             Srimad-Bhagavatam
+750701sbden   1975-07-01  06.01.18               Denver             Srimad-Bhagavatam
+750702sbden   1975-07-02  06.01.19               Denver             Srimad-Bhagavatam
+750704sbchi   1975-07-04  06.01.20               Chicago            Srimad-Bhagavatam
+750705sbchi   1975-07-05  06.01.21               Chicago            Srimad-Bhagavatam
+750706sbchi   1975-07-06  06.01.22               Chicago            Srimad-Bhagavatam
+750707sbchi   1975-07-07  06.01.23               Chicago            Srimad-Bhagavatam
+750708sbchi   1975-07-08  06.01.24               Chicago            Srimad-Bhagavatam
+750709sbchi   1975-07-09  06.01.25               Chicago            Srimad-Bhagavatam
+750711sbchi   1975-07-11  06.01.26               Chicago            Srimad-Bhagavatam
+750712sbphi   1975-07-12  06.01.26-27            Philadelphia       Srimad-Bhagavatam
+750713sbphi   1975-07-13  06.01.28-29            Philadelphia       Srimad-Bhagavatam
+750714sbphi   1975-07-14  06.01.30               Philadelphia       Srimad-Bhagavatam
+750716sbsf    1975-07-16  06.01.31               San Francisco      Srimad-Bhagavatam
+750717sbsf    1975-07-17  06.01.32               San Francisco      Srimad-Bhagavatam
+750718sbsf    1975-07-18  06.01.33               San Francisco      Srimad-Bhagavatam
+750719sbsf    1975-07-19  06.01.37               San Francisco      Srimad-Bhagavatam
+750720sbsf    1975-07-20  06.01.39               San Francisco      Srimad-Bhagavatam
+750721sbsf    1975-07-21  06.01.40               San Francisco      Srimad-Bhagavatam
+750722sbla    1975-07-22  06.01.41               Los Angeles        Srimad-Bhagavatam
+750723sbla    1975-07-23  06.01.42               Los Angeles        Srimad-Bhagavatam
+750724sbla    1975-07-24  06.01.43               Los Angeles        Srimad-Bhagavatam
+750725sbla    1975-07-25  06.01.44               Los Angeles        Srimad-Bhagavatam
+750726sblagu  1975-07-26  06.01.45               Laguna Beach       Srimad-Bhagavatam
+750727sbsand  1975-07-27  06.01.46               San Diego          Srimad-Bhagavatam
+750729sbdal   1975-07-29  06.01.47               Dallas             Srimad-Bhagavatam
+750730sbdal   1975-07-30  06.01.48               Dallas             Srimad-Bhagavatam
+750801sbnewo  1975-08-01  06.01.49               New Orleans Farm   Srimad-Bhagavatam
+750803sbdet   1975-08-03  01.02.09 at University Detroit            Srimad-Bhagavatam
+750804sbdet   1975-08-04  06.01.51               Detroit            Srimad-Bhagavatam
+750805sbdet   1975-08-05  06.01.52               Detroit            Srimad-Bhagavatam
+750811sbpar   1975-08-11  06.01.55               Paris              Srimad-Bhagavatam
+750813sblon   1975-08-13  06.01.55               London             Srimad-Bhagavatam
+750814sbbom   1975-08-14  06.01.56-57            Bombay             Srimad-Bhagavatam
+750819sbbom   1975-08-19  06.01.58 Hindi         Bombay             Srimad-Bhagavatam
+750828sbvrn   1975-08-28  06.01.61               Vrndavana          Srimad-Bhagavatam
+750829sbvrn   1975-08-29  06.01.62               Vrndavana          Srimad-Bhagavatam
+750830sbvrn   1975-08-30  06.01.63               Vrndavana          Srimad-Bhagavatam
+750901sbvrn   1975-09-01  06.01.64-65            Vrndavana          Srimad-Bhagavatam
+750902sbvrn   1975-09-02  06.01.66               Vrndavana          Srimad-Bhagavatam
+750903sbvrn   1975-09-03  06.01.67               Vrndavana          Srimad-Bhagavatam
+750904sbvrn   1975-09-04  06.01.68               Vrndavana          Srimad-Bhagavatam
+750905sbvrn   1975-09-05  06.02.01               Vrndavana          Srimad-Bhagavatam
+750906sbvrn   1975-09-06  06.02.02               Vrndavana          Srimad-Bhagavatam
+750907sbvrn   1975-09-07  06.02.03               Vrndavana          Srimad-Bhagavatam
+750908sbvrn   1975-09-08  06.02.04               Vrndavana          Srimad-Bhagavatam
+750909sbvrn   1975-09-09  06.02.05-6             Vrndavana          Srimad-Bhagavatam
+750910sbvrn   1975-09-10  06.02.07               Vrndavana          Srimad-Bhagavatam
+750911sbvrn   1975-09-11  06.02.08               Vrndavana          Srimad-Bhagavatam
+750913sbvrn   1975-09-13  06.02.11               Vrndavana          Srimad-Bhagavatam
+750915sbvrn   1975-09-15  06.02.13               Vrndavana          Srimad-Bhagavatam
+750917sbvrn   1975-09-17  06.02.14               Vrndavana          Srimad-Bhagavatam
+750918sbvrn   1975-09-18  06.02.15               Vrndavana          Srimad-Bhagavatam
+750919sbvrn   1975-09-19  06.02.16               Vrndavana          Srimad-Bhagavatam
+750920sbvrn   1975-09-20  06.02.17               Vrndavana          Srimad-Bhagavatam
+750927sbahm   1975-09-27  01.02.06 Hindi         Ahmedabad          Srimad-Bhagavatam
+751002sbmau   1975-10-02  07.05.30               Mauritius          Srimad-Bhagavatam
+751004sbmau   1975-10-04  07.05.31               Mauritius          Srimad-Bhagavatam
+751005sbmau   1975-10-05  01.02.06               Mauritius          Srimad-Bhagavatam
+751020sbjhb   1975-10-20  05.05.01               Johannesburg       Srimad-Bhagavatam
+751022sbjhb   1975-10-22  05.05.02               Johannesburg       Srimad-Bhagavatam
+751026sbnbi   1975-10-26  03.28.17               Nairobi            Srimad-Bhagavatam
+751027sbnbi   1975-10-27  03.28.18               Nairobi            Srimad-Bhagavatam
+751029sbnbi   1975-10-29  03.28.19               Nairobi            Srimad-Bhagavatam
+751030sbnbi   1975-10-30  03.28.20               Nairobi            Srimad-Bhagavatam
+751101sbnbi   1975-11-01  03.28.21               Nairobi            Srimad-Bhagavatam
+751114sbbom   1975-11-14  05.05.01 Hindi         Bombay             Srimad-Bhagavatam
+751128sbdel   1975-11-28  05.05.01               Delhi              Srimad-Bhagavatam
+751202sbvrn   1975-12-02  07.06.01               Vrndavana          Srimad-Bhagavatam
+751203sbvrn   1975-12-03  07.06.02               Vrndavana          Srimad-Bhagavatam
+751204sbvrn   1975-12-04  07.06.03               Vrndavana          Srimad-Bhagavatam
+751205sbvrn   1975-12-05  07.06.04               Vrndavana          Srimad-Bhagavatam
+751207sbvrn   1975-12-07  07.06.05               Vrndavana          Srimad-Bhagavatam
+751208sbvrn   1975-12-08  07.06.06               Vrndavana          Srimad-Bhagavatam
+751209sbvrn   1975-12-09  07.06.07               Vrndavana          Srimad-Bhagavatam
+751210sbvrn   1975-12-10  07.06.08               Vrndavana          Srimad-Bhagavatam
+751211sbvrn   1975-12-11  07.06.09               Vrndavana          Srimad-Bhagavatam
+751212sbvrn   1975-12-12  07.06.10               Vrndavana          Srimad-Bhagavatam
+751216sbbom   1975-12-16  07.06.01 at Birla House Bombay             Srimad-Bhagavatam
+760102sbmdr   1976-01-02  07.06.01               Madras             Srimad-Bhagavatam
+760105sbnel   1976-01-05  06.01.06               Nellore            Srimad-Bhagavatam
+760107sbnel   1976-01-07  06.01.09               Nellore            Srimad-Bhagavatam
+760108sbnel   1976-01-08  06.01.15               Nellore            Srimad-Bhagavatam
+760112sbbom   1976-01-12  05.05.01 Hindi         Bombay             Srimad-Bhagavatam
+760113sbcal   1976-01-13  05.05.02 Hindi         Calcutta           Srimad-Bhagavatam
+760114sbcal   1976-01-14  05.05.02 Hindi         Calcutta           Srimad-Bhagavatam
+760208sbmay   1976-02-08  07.09.01               Mayapur            Srimad-Bhagavatam
+760210sbmay   1976-02-10  07.09.03               Mayapur            Srimad-Bhagavatam
+760211sbmay   1976-02-11  07.09.04               Mayapur            Srimad-Bhagavatam
+760212sbmay   1976-02-12  07.09.05               Mayapur            Srimad-Bhagavatam
+760214sbmay   1976-02-14  07.09.07               Mayapur            Srimad-Bhagavatam
+760215sbmay   1976-02-15  07.09.08               Mayapur            Srimad-Bhagavatam
+760216sbmay   1976-02-16  07.09.09               Mayapur            Srimad-Bhagavatam
+760217sbmay   1976-02-17  07.09.10               Mayapur            Srimad-Bhagavatam
+760218sbmay   1976-02-18  07.09.11               Mayapur            Srimad-Bhagavatam
+760219sbmay   1976-02-19  07.09.12               Mayapur            Srimad-Bhagavatam
+760220sbmay   1976-02-20  07.09.13               Mayapur            Srimad-Bhagavatam
+760221sbmay   1976-02-21  07.09.14               Mayapur            Srimad-Bhagavatam
+760222sbmay   1976-02-22  07.09.15               Mayapur            Srimad-Bhagavatam
+760223sbmay   1976-02-23  07.09.16               Mayapur            Srimad-Bhagavatam
+760224sbmay   1976-02-24  07.09.17               Mayapur            Srimad-Bhagavatam
+760225sbmay   1976-02-25  07.09.18               Mayapur            Srimad-Bhagavatam
+760226sbmay   1976-02-26  07.09.19               Mayapur            Srimad-Bhagavatam
+760227sbmay   1976-02-27  07.09.20               Mayapur            Srimad-Bhagavatam
+760228sbmay   1976-02-28  07.09.21               Mayapur            Srimad-Bhagavatam
+760229sbmay   1976-02-29  07.09.22               Mayapur            Srimad-Bhagavatam
+760301sbmay   1976-03-01  07.09.23               Mayapur            Srimad-Bhagavatam
+760302sbmay   1976-03-02  07.09.24               Mayapur            Srimad-Bhagavatam
+760304sbmay   1976-03-04  07.09.26               Mayapur            Srimad-Bhagavatam
+760305sbmay   1976-03-05  07.09.27               Mayapur            Srimad-Bhagavatam
+760306sbmay   1976-03-06  07.09.28               Mayapur            Srimad-Bhagavatam
+760307sbmay   1976-03-07  07.09.29               Mayapur            Srimad-Bhagavatam
+760308sbmay   1976-03-08  07.09.30               Mayapur            Srimad-Bhagavatam
+760309sbmay   1976-03-09  07.09.31               Mayapur            Srimad-Bhagavatam
+760310sbmay   1976-03-10  07.09.32               Mayapur            Srimad-Bhagavatam
+760311sbmay   1976-03-11  07.09.33               Mayapur            Srimad-Bhagavatam
+760312sbmay   1976-03-12  07.09.34               Mayapur            Srimad-Bhagavatam
+760313sbmay   1976-03-13  07.09.35               Mayapur            Srimad-Bhagavatam
+760314sbmay   1976-03-14  07.09.36               Mayapur            Srimad-Bhagavatam
+760315sbmay   1976-03-15  07.09.37               Mayapur            Srimad-Bhagavatam
+760317sbmay   1976-03-17  07.09.39               Mayapur            Srimad-Bhagavatam
+760318sbmay   1976-03-18  07.09.40               Mayapur            Srimad-Bhagavatam
+760319sbmay   1976-03-19  07.09.41               Mayapur            Srimad-Bhagavatam
+760322sbmay   1976-03-22  07.09.42               Mayapur            Srimad-Bhagavatam
+760323sbcal   1976-03-23  07.09.43               Calcutta           Srimad-Bhagavatam
+760326sbdel   1976-03-26  07.09.44               Delhi              Srimad-Bhagavatam
+760331sbvrn   1976-03-31  07.05.23-24            Vrndavana          Srimad-Bhagavatam
+760401sbvrn   1976-04-01  07.09.46               Vrndavana          Srimad-Bhagavatam
+760402sbvrn   1976-04-02  07.09.47               Vrndavana          Srimad-Bhagavatam
+760403sbvrn   1976-04-03  07.09.48               Vrndavana          Srimad-Bhagavatam
+760404sbvrn   1976-04-04  07.09.49               Vrndavana          Srimad-Bhagavatam
+760405sbvrn   1976-04-05  07.09.50               Vrndavana          Srimad-Bhagavatam
+760406sbvrn   1976-04-06  07.09.51               Vrndavana          Srimad-Bhagavatam
+760407sbvrn   1976-04-07  07.09.52               Vrndavana          Srimad-Bhagavatam
+760408sbvrn   1976-04-08  07.09.53               Vrndavana          Srimad-Bhagavatam
+760409sbvrn   1976-04-09  07.09.54               Vrndavana          Srimad-Bhagavatam
+760410sbvrn   1976-04-10  07.09.55               Vrndavana          Srimad-Bhagavatam
+760412sbbom   1976-04-12  07.12.01               Bombay             Srimad-Bhagavatam
+760413sbbom   1976-04-13  07.12.02               Bombay             Srimad-Bhagavatam
+760414sbbom   1976-04-14  07.12.03               Bombay             Srimad-Bhagavatam
+760415sbbom   1976-04-15  07.12.04               Bombay             Srimad-Bhagavatam
+760416sbbom   1976-04-16  07.12.05               Bombay             Srimad-Bhagavatam
+760417sbbom   1976-04-17  07.12.06               Bombay             Srimad-Bhagavatam
+760505sbhaw   1976-05-05  06.01.01               Honolulu           Srimad-Bhagavatam
+760506sbhaw   1976-05-06  06.01.02               Honolulu           Srimad-Bhagavatam
+760507sbhaw   1976-05-07  06.01.06               Honolulu           Srimad-Bhagavatam
+760508sbhaw   1976-05-08  06.01.07               Honolulu           Srimad-Bhagavatam
+760509sbhaw   1976-05-09  06.01.08               Honolulu           Srimad-Bhagavatam
+760510sbhaw   1976-05-10  06.01.09               Honolulu           Srimad-Bhagavatam
+760511sbhaw   1976-05-11  06.01.10               Honolulu           Srimad-Bhagavatam
+760512sbhaw   1976-05-12  06.01.11               Honolulu           Srimad-Bhagavatam
+760513sbhaw   1976-05-13  06.01.12               Honolulu           Srimad-Bhagavatam
+760514sbhaw   1976-05-14  06.01.13-14            Honolulu           Srimad-Bhagavatam
+760515sbhaw   1976-05-15  06.01.15               Honolulu           Srimad-Bhagavatam
+760516sbhaw   1976-05-16  06.01.16               Honolulu           Srimad-Bhagavatam
+760517sbhaw   1976-05-17  06.01.17               Honolulu           Srimad-Bhagavatam
+760518sbhaw   1976-05-18  06.01.18               Honolulu           Srimad-Bhagavatam
+760519sbhaw   1976-05-19  06.01.19               Honolulu           Srimad-Bhagavatam
+760520sbhaw   1976-05-20  06.01.20               Honolulu           Srimad-Bhagavatam
+760521sbhaw   1976-05-21  06.01.21               Honolulu           Srimad-Bhagavatam
+760522sbhaw   1976-05-22  06.01.22               Honolulu           Srimad-Bhagavatam
+760523sbhaw   1976-05-23  06.01.23               Honolulu           Srimad-Bhagavatam
+760524sbhaw   1976-05-24  06.01.24               Honolulu           Srimad-Bhagavatam
+760525sbhaw   1976-05-25  06.01.25               Honolulu           Srimad-Bhagavatam
+760526sbhaw   1976-05-26  06.01.26               Honolulu           Srimad-Bhagavatam
+760527sbhaw   1976-05-27  06.01.27               Honolulu           Srimad-Bhagavatam
+760528sbhaw   1976-05-28  06.01.28-29            Honolulu           Srimad-Bhagavatam
+760529sbhaw   1976-05-29  06.01.30               Honolulu           Srimad-Bhagavatam
+760530sbhaw   1976-05-30  06.01.31               Honolulu           Srimad-Bhagavatam
+760531sbhaw   1976-05-31  06.01.32               Honolulu           Srimad-Bhagavatam
+760601sbhaw   1976-06-01  06.01.33               Honolulu           Srimad-Bhagavatam
+760602sbhaw   1976-06-02  06.01.34-36            Honolulu           Srimad-Bhagavatam
+760603sbla    1976-06-03  06.01.37               Los Angeles        Srimad-Bhagavatam
+760604sbla    1976-06-04  06.01.38               Los Angeles        Srimad-Bhagavatam
+760605sbla    1976-06-05  06.01.39               Los Angeles        Srimad-Bhagavatam
+760606sbla    1976-06-06  06.01.40               Los Angeles        Srimad-Bhagavatam
+760607sbla    1976-06-07  06.01.41               Los Angeles        Srimad-Bhagavatam
+760608sbla    1976-06-08  06.01.42               Los Angeles        Srimad-Bhagavatam
+760609sbla    1976-06-09  06.01.43               Los Angeles        Srimad-Bhagavatam
+760610sbla    1976-06-10  06.01.44               Los Angeles        Srimad-Bhagavatam
+760611sbla    1976-06-11  06.01.45               Los Angeles        Srimad-Bhagavatam
+760612sbdet   1976-06-12  06.01.46               Detroit            Srimad-Bhagavatam
+760613sbdet   1976-06-13  06.01.47               Detroit            Srimad-Bhagavatam
+760614sbdet   1976-06-14  06.01.48               Detroit            Srimad-Bhagavatam
+760615sbdet   1976-06-15  06.01.49               Detroit            Srimad-Bhagavatam
+760616sbdet   1976-06-16  06.01.50               Detroit            Srimad-Bhagavatam
+760617sbtor   1976-06-17  07.06.01 Excerpt       Toronto            Srimad-Bhagavatam
+760618sbtor   1976-06-18  07.06.02               Toronto            Srimad-Bhagavatam
+760619sbtor   1976-06-19  07.06.03               Toronto            Srimad-Bhagavatam
+760620sbtor   1976-06-20  07.06.04               Toronto            Srimad-Bhagavatam
+760621sbtor   1976-06-21  07.06.05               Toronto            Srimad-Bhagavatam
+760622sbnewv  1976-06-22  07.06.06               New Vrindaban, USA Srimad-Bhagavatam
+760624sbnewv  1976-06-24  07.06.08               New Vrindaban, USA Srimad-Bhagavatam
+760625sbnewv  1976-06-25  07.06.09               New Vrindaban, USA Srimad-Bhagavatam
+760626sbnewv  1976-06-26  07.06.10               New Vrindaban, USA Srimad-Bhagavatam
+760627sbnewv  1976-06-27  07.06.11-13            New Vrindaban, USA Srimad-Bhagavatam
+760628sbnewv  1976-06-28  07.06.14               New Vrindaban, USA Srimad-Bhagavatam
+760629sbnewv  1976-06-29  07.06.15               New Vrindaban, USA Srimad-Bhagavatam
+760630sbnewv  1976-06-30  07.06.16               New Vrindaban, USA Srimad-Bhagavatam
+760701sbnewv  1976-07-01  07.06.17-18            New Vrindaban, USA Srimad-Bhagavatam
+760702sbnewv  1976-07-02  07.06.19               New Vrindaban, USA Srimad-Bhagavatam
+760703sbwash  1976-07-03  07.06.20-23            Washington D.C.    Srimad-Bhagavatam
+760812sbteh   1976-08-12  03.22.22 and Initiation Tehran             Srimad-Bhagavatam
+760818sbhyd   1976-08-18  01.07.06               Hyderabad          Srimad-Bhagavatam
+760829sbdel   1976-08-29  05.05.01 Hindi         Delhi              Srimad-Bhagavatam
+760905sbvrn   1976-09-05  01.07.06               Vrndavana          Srimad-Bhagavatam
+760906sbvrn   1976-09-06  01.07.07               Vrndavana          Srimad-Bhagavatam
+760908sbvrn   1976-09-08  01.07.09 Excerpt       Vrndavana          Srimad-Bhagavatam
+760914sbvrn   1976-09-14  01.07.16               Vrndavana          Srimad-Bhagavatam
+761009sbalig  1976-10-09  01.02.05               Aligarh            Srimad-Bhagavatam
+761010sbalig  1976-10-10  01.02.06 Hindi         Aligarh            Srimad-Bhagavatam
+761022sbvrn   1976-10-22  05.05.01               Vrndavana          Srimad-Bhagavatam
+761023sbvrn   1976-10-23  05.05.01               Vrndavana          Srimad-Bhagavatam
+761024sbvrn   1976-10-24  05.05.02               Vrndavana          Srimad-Bhagavatam
+761025sbvrn   1976-10-25  05.05.03               Vrndavana          Srimad-Bhagavatam
+761026sbvrn   1976-10-26  05.05.04               Vrndavana          Srimad-Bhagavatam
+761027sbvrn   1976-10-27  05.05.05               Vrndavana          Srimad-Bhagavatam
+761028sbvrn   1976-10-28  05.05.06               Vrndavana          Srimad-Bhagavatam
+761029sbvrn   1976-10-29  05.05.07               Vrndavana          Srimad-Bhagavatam
+761030sbvrn   1976-10-30  05.05.08               Vrndavana          Srimad-Bhagavatam
+761031sbvrn   1976-10-31  05.05.09               Vrndavana          Srimad-Bhagavatam
+761101sbvrn   1976-11-01  05.05.10-13            Vrndavana          Srimad-Bhagavatam
+761102sbvrn   1976-11-02  05.05.14               Vrndavana          Srimad-Bhagavatam
+761103sbvrn   1976-11-03  05.05.15               Vrndavana          Srimad-Bhagavatam
+761104sbvrn   1976-11-04  05.05.16               Vrndavana          Srimad-Bhagavatam
+761105sbvrn   1976-11-05  05.05.17               Vrndavana          Srimad-Bhagavatam
+761106sbvrn   1976-11-06  05.05.18               Vrndavana          Srimad-Bhagavatam
+761107sbvrn   1976-11-07  05.05.19               Vrndavana          Srimad-Bhagavatam
+761108sbvrn   1976-11-08  05.05.20               Vrndavana          Srimad-Bhagavatam
+761109sbvrn   1976-11-09  05.05.21-22            Vrndavana          Srimad-Bhagavatam
+761110sbvrn   1976-11-10  05.05.23               Vrndavana          Srimad-Bhagavatam
+761111sbvrn   1976-11-11  05.05.24               Vrndavana          Srimad-Bhagavatam
+761112sbvrn   1976-11-12  05.05.25               Vrndavana          Srimad-Bhagavatam
+761113sbvrn   1976-11-13  05.05.26               Vrndavana          Srimad-Bhagavatam
+761114sbvrn   1976-11-14  05.05.27               Vrndavana          Srimad-Bhagavatam
+761115sbvrn   1976-11-15  05.05.28               Vrndavana          Srimad-Bhagavatam
+761116sbvrn   1976-11-16  05.05.29               Vrndavana          Srimad-Bhagavatam
+761117sbvrn   1976-11-17  05.05.30               Vrndavana          Srimad-Bhagavatam
+761118sbvrn   1976-11-18  05.05.31               Vrndavana          Srimad-Bhagavatam
+761119sbvrn   1976-11-19  05.05.32               Vrndavana          Srimad-Bhagavatam
+761120sbvrn   1976-11-20  05.05.33               Vrndavana          Srimad-Bhagavatam
+761121sbvrn   1976-11-21  05.05.34               Vrndavana          Srimad-Bhagavatam
+761122sbvrn   1976-11-22  05.05.35               Vrndavana          Srimad-Bhagavatam
+761123sbvrn   1976-11-23  05.06.01               Vrndavana          Srimad-Bhagavatam
+761124sbvrn   1976-11-24  05.06.02               Vrndavana          Srimad-Bhagavatam
+761125sbvrn   1976-11-25  05.06.03               Vrndavana          Srimad-Bhagavatam
+761126sbvrn   1976-11-26  05.06.04               Vrndavana          Srimad-Bhagavatam
+761127sbvrn   1976-11-27  05.06.05               Vrndavana          Srimad-Bhagavatam
+761128sbvrn   1976-11-28  05.06.06               Vrndavana          Srimad-Bhagavatam
+761129sbvrn   1976-11-29  05.06.07               Vrndavana          Srimad-Bhagavatam
+761130sbvrn   1976-11-30  05.06.08               Vrndavana          Srimad-Bhagavatam
+761224sbbom   1976-12-24  05.05.01 Hindi         Bombay             Srimad-Bhagavatam
+761225sbbom   1976-12-25  05.05.01               Bombay             Srimad-Bhagavatam
+761226sbbom   1976-12-26  05.05.02 Hindi         Bombay             Srimad-Bhagavatam
+761228sbbom   1976-12-28  05.06.10               Bombay             Srimad-Bhagavatam
+761229sbbom   1976-12-29  05.06.11               Bombay             Srimad-Bhagavatam
+770210sbmay   1977-02-10  07.09.01               Mayapur            Srimad-Bhagavatam
+770212sbmay   1977-02-12  07.09.02               Mayapur            Srimad-Bhagavatam
+770217sbmay   1977-02-17  07.09.03               Mayapur            Srimad-Bhagavatam
+770218sbmay   1977-02-18  07.09.04               Mayapur            Srimad-Bhagavatam
+770225sbmay   1977-02-25  07.09.05               Mayapur            Srimad-Bhagavatam
+770226sbmay   1977-02-26  07.09.06               Mayapur            Srimad-Bhagavatam
+770227sbmay   1977-02-27  07.09.07               Mayapur            Srimad-Bhagavatam
+770228sbmay   1977-02-28  07.09.08               Mayapur            Srimad-Bhagavatam
+770301sbmay   1977-03-01  07.09.09               Mayapur            Srimad-Bhagavatam
+770323sbatcr  1977-03-23  02.03.18               19 at Cross Maidan Pandal - Bombay Srimad-Bhagavatam
+770324sbbom   1977-03-24  02.03.20 at Cross Maidan Pandal Bombay             Srimad-Bhagavatam
+770325sbbom   1977-03-25  05.05.01-2             Bombay             Srimad-Bhagavatam
+770329sbbom   1977-03-29  05.05.03-4             Bombay             Srimad-Bhagavatam
+000000sbunkn  2000-00-00  02.01.05               Unknown            Srimad-Bhagavatam

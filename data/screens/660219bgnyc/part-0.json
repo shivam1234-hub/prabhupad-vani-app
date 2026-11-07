@@ -1,0 +1,5368 @@
+{
+  "audio": "data/screens-src/660219bgnyc/part-0.mp3",
+  "screens": [
+    {
+      "index": 0,
+      "start": 2.381,
+      "end": 8.763,
+      "lines": [
+        "Prabhupāda:",
+        "oṁ ajñāna-timirāndhasya"
+      ]
+    },
+    {
+      "index": 1,
+      "start": 8.763,
+      "end": 21.687,
+      "lines": [
+        "jñānāñjana-śalākayā",
+        "cakṣur unmīlitaṁ yena tasmai śrī-gurave namaḥ"
+      ]
+    },
+    {
+      "index": 2,
+      "start": 21.687,
+      "end": 30.11,
+      "lines": [
+        "''śrī-caitanya-mano-'bhīṣṭaṁ",
+        "sthāpitaṁ yena bhū-tale"
+      ]
+    },
+    {
+      "index": 3,
+      "start": 30.11,
+      "end": 39.592,
+      "lines": [
+        "svayaṁ rūpaḥ kadā mahyaṁ",
+        "dadāti sva-padāntikam"
+      ]
+    },
+    {
+      "index": 4,
+      "start": 39.592,
+      "end": 92.762,
+      "lines": [
+        "vande",
+        "'haṁ śrī-guroḥ śrī-yuta-pada-kamalaṁ śrī-gurūn"
+      ]
+    },
+    {
+      "index": 5,
+      "start": 92.762,
+      "end": 135.692,
+      "lines": [
+        "vaiṣṇavāṁś",
+        "ca śrī-rūpaṁ sāgrajātaṁ"
+      ]
+    },
+    {
+      "index": 6,
+      "start": 135.692,
+      "end": 152.48,
+      "lines": [
+        "saha-gaṇa-raghunāthānvitaṁ taṁ",
+        "sa-jīvam sādvaitaṁ sāvadhūtaṁ parijana-sahitaṁ"
+      ]
+    },
+    {
+      "index": 7,
+      "start": 152.44,
+      "end": 173.53,
+      "lines": [
+        "kṛṣṇa-caitanya-devaṁ śrī-rādhā-kṛṣṇa-pādān saha-gaṇa-lalitā-śrī-viśākhānvitāṁś",
+        "ca he"
+      ]
+    },
+    {
+      "index": 8,
+      "start": 173.53,
+      "end": 175.303,
+      "lines": [
+        "kṛṣṇa karuṇā-sindho dīna-bandho jagat-pate gopeśa",
+        "gopikā-kānta rādhā-kānta namo 'stu te tapta-kāñcana-gaurāṅgi"
+      ]
+    },
+    {
+      "index": 9,
+      "start": 175.031,
+      "end": 176.275,
+      "lines": [
+        "rādhe vṛndāvaneśvari vṛṣabhānu-sute devi praṇamāmi",
+        "hari-priye vāñchā-kalpatarubhyaś ca kṛpā-sindhubhya"
+      ]
+    },
+    {
+      "index": 10,
+      "start": 176.003,
+      "end": 177.356,
+      "lines": [
+        "eva ca patitānāṁ pāvanebhyo vaiṣṇavebhyo namo namaḥ",
+        "śrī-kṛṣṇa-caitanya prabhu-nityānanda śrī-advaita"
+      ]
+    },
+    {
+      "index": 11,
+      "start": 177.084,
+      "end": 183.043,
+      "lines": [
+        "gadādhara śrīvāsādi-gaura-bhakta-vṛnda hare kṛṣṇa",
+        "hare kṛṣṇa kṛṣṇa kṛṣṇa hare hare hare rāma hare"
+      ]
+    },
+    {
+      "index": 12,
+      "start": 183.003,
+      "end": 193.351,
+      "lines": [
+        "rāma",
+        "rāma rāma hare hare"
+      ]
+    },
+    {
+      "index": 13,
+      "start": 193.351,
+      "end": 201.177,
+      "lines": [
+        "Introduction to Gītopaniṣad",
+        "by"
+      ]
+    },
+    {
+      "index": 14,
+      "start": 201.177,
+      "end": 217.22,
+      "lines": [
+        "A. C. Bhaktivedanta Swami, the author of Śrīmad-Bhāgavatam,",
+        "Easy Journey to Other Planets,"
+      ]
+    },
+    {
+      "index": 15,
+      "start": 217.22,
+      "end": 225.554,
+      "lines": [
+        "editor of Back to Godhead,",
+        "etc."
+      ]
+    },
+    {
+      "index": 16,
+      "start": 225.554,
+      "end": 232.447,
+      "lines": [
+        "Bhagavad-gītā",
+        "is known also"
+      ]
+    },
+    {
+      "index": 17,
+      "start": 232.447,
+      "end": 240.66,
+      "lines": [
+        "Gītopaniṣad,",
+        "the essence of Vedic knowledge,"
+      ]
+    },
+    {
+      "index": 18,
+      "start": 240.58,
+      "end": 254.74,
+      "lines": [
+        "and",
+        "one of the most important of the various Upaniṣads"
+      ]
+    },
+    {
+      "index": 19,
+      "start": 254.74,
+      "end": 265.06,
+      "lines": [
+        "in Vedic literature. This",
+        "Bhagavad-gītā,"
+      ]
+    },
+    {
+      "index": 20,
+      "start": 265.06,
+      "end": 271.86,
+      "lines": [
+        "there are",
+        "many commentations in"
+      ]
+    },
+    {
+      "index": 21,
+      "start": 271.86,
+      "end": 277.47,
+      "lines": [
+        "English,",
+        "and what"
+      ]
+    },
+    {
+      "index": 22,
+      "start": 277.47,
+      "end": 289.41,
+      "lines": [
+        "is the necessity of another English commentation",
+        "of the Bhagavad-gītā"
+      ]
+    },
+    {
+      "index": 23,
+      "start": 289.41,
+      "end": 297.792,
+      "lines": [
+        "can be explained",
+        "in the following way."
+      ]
+    },
+    {
+      "index": 24,
+      "start": 297.792,
+      "end": 310.658,
+      "lines": [
+        "One . . .",
+        "(break)"
+      ]
+    },
+    {
+      "index": 25,
+      "start": 310.658,
+      "end": 319.49,
+      "lines": [
+        "One American lady, Mrs. Charlotte Leblanc,",
+        "asked"
+      ]
+    },
+    {
+      "index": 26,
+      "start": 319.49,
+      "end": 330.69,
+      "lines": [
+        "me to recommend an",
+        "English edition of Bhagavad-gītā which she can"
+      ]
+    },
+    {
+      "index": 27,
+      "start": 330.61,
+      "end": 338.537,
+      "lines": [
+        "read.",
+        "Of course, in America"
+      ]
+    },
+    {
+      "index": 28,
+      "start": 338.537,
+      "end": 346.06,
+      "lines": [
+        "there are so many editions of English Bhagavad-gītā,",
+        "but"
+      ]
+    },
+    {
+      "index": 29,
+      "start": 346.06,
+      "end": 354.8,
+      "lines": [
+        "so far I have seen them, not only in America but",
+        "also India,"
+      ]
+    },
+    {
+      "index": 30,
+      "start": 354.8,
+      "end": 359.74,
+      "lines": [
+        "none of them",
+        "can be"
+      ]
+    },
+    {
+      "index": 31,
+      "start": 359.74,
+      "end": 369.353,
+      "lines": [
+        "said",
+        "strictly as authoritative, because"
+      ]
+    },
+    {
+      "index": 32,
+      "start": 369.353,
+      "end": 380.36,
+      "lines": [
+        "almost every one of them have",
+        "expressed their own opinion through the commentation"
+      ]
+    },
+    {
+      "index": 33,
+      "start": 380.28,
+      "end": 399.279,
+      "lines": [
+        "of the Bhagavad-gītā without touching the spirit",
+        "of Bhagavad-gītā As It Is."
+      ]
+    },
+    {
+      "index": 34,
+      "start": 399.279,
+      "end": 413.7,
+      "lines": [
+        "The spirit of Bhagavad-gītā is mentioned",
+        "in the Bhagavad-gītā itself."
+      ]
+    },
+    {
+      "index": 35,
+      "start": 413.7,
+      "end": 426.989,
+      "lines": [
+        "It is just like this—if we want to take a particular",
+        "medicine,"
+      ]
+    },
+    {
+      "index": 36,
+      "start": 426.989,
+      "end": 434.106,
+      "lines": [
+        "then",
+        "we have to follow the particular direction"
+      ]
+    },
+    {
+      "index": 37,
+      "start": 434.106,
+      "end": 443.652,
+      "lines": [
+        "mentioned",
+        "on the label of the medicine."
+      ]
+    },
+    {
+      "index": 38,
+      "start": 443.652,
+      "end": 458.07,
+      "lines": [
+        "We cannot take the particular medicine according",
+        "to our own direction or by"
+      ]
+    },
+    {
+      "index": 39,
+      "start": 458.07,
+      "end": 469.187,
+      "lines": [
+        "the direction of a friend, but we have to take",
+        "the medicine under the direction given on the label"
+      ]
+    },
+    {
+      "index": 40,
+      "start": 469.15,
+      "end": 478.086,
+      "lines": [
+        "of the bottle and as directed by the physician.",
+        "Similarly,"
+      ]
+    },
+    {
+      "index": 41,
+      "start": 478.086,
+      "end": 486.0,
+      "lines": [
+        "the Bhagavad-gītā also should be taken or accepted",
+        "as"
+      ]
+    },
+    {
+      "index": 42,
+      "start": 486.0,
+      "end": 502.96,
+      "lines": [
+        "it is directed by the speaker Himself.",
+        "The speaker of the Bhagavad-gītā is Lord Śrī Kṛṣṇa."
+      ]
+    },
+    {
+      "index": 43,
+      "start": 502.96,
+      "end": 515.232,
+      "lines": [
+        "He is mentioned in every page of the Bhagavad-gītā",
+        "as the Supreme Personality of Godhead,"
+      ]
+    },
+    {
+      "index": 44,
+      "start": 515.232,
+      "end": 522.709,
+      "lines": [
+        "Bhagavān.",
+        "Of course, \"bhagavān\""
+      ]
+    },
+    {
+      "index": 45,
+      "start": 522.709,
+      "end": 534.14,
+      "lines": [
+        "is sometimes designated to any powerful person",
+        "or any powerful demigod,"
+      ]
+    },
+    {
+      "index": 46,
+      "start": 534.14,
+      "end": 538.768,
+      "lines": [
+        "but here",
+        "bhagavān"
+      ]
+    },
+    {
+      "index": 47,
+      "start": 538.768,
+      "end": 548.99,
+      "lines": [
+        "is certainly designated to Śrī Kṛṣṇa,",
+        "a great personality, but at the same time we must"
+      ]
+    },
+    {
+      "index": 48,
+      "start": 548.91,
+      "end": 559.13,
+      "lines": [
+        "know that Lord Śrī Kṛṣṇa, as He is confirmed by",
+        "all the ācāryas . . ."
+      ]
+    },
+    {
+      "index": 49,
+      "start": 559.13,
+      "end": 568.918,
+      "lines": [
+        "I mean to say, even Śaṅkarācārya,",
+        "Rāmānujācārya, Madhvācārya,"
+      ]
+    },
+    {
+      "index": 50,
+      "start": 568.918,
+      "end": 580.79,
+      "lines": [
+        "Nimbārka Svāmī and Śrī Caitanya Mahāprabhu and",
+        "many others. In India there were many authoritative"
+      ]
+    },
+    {
+      "index": 51,
+      "start": 580.71,
+      "end": 587.38,
+      "lines": [
+        "scholars and",
+        "ācāryas,"
+      ]
+    },
+    {
+      "index": 52,
+      "start": 587.38,
+      "end": 597.34,
+      "lines": [
+        "I mean, authorities of the Vedic knowledge.",
+        "All of them, including Śaṅkarācārya,"
+      ]
+    },
+    {
+      "index": 53,
+      "start": 597.34,
+      "end": 606.354,
+      "lines": [
+        "has accepted Śrī Kṛṣṇa as the Supreme Personality",
+        "of Godhead."
+      ]
+    },
+    {
+      "index": 54,
+      "start": 606.354,
+      "end": 615.58,
+      "lines": [
+        "The Lord Himself",
+        "has also established Himself as the Supreme Personality"
+      ]
+    },
+    {
+      "index": 55,
+      "start": 615.5,
+      "end": 626.75,
+      "lines": [
+        "of Godhead in the Bhagavad-gītā.",
+        "He is accepted so in the Brahmā-saṁhitā and all"
+      ]
+    },
+    {
+      "index": 56,
+      "start": 626.75,
+      "end": 634.083,
+      "lines": [
+        "Purāṇas,",
+        "especially in the Bhāgavata Purāṇam:"
+      ]
+    },
+    {
+      "index": 57,
+      "start": 634.083,
+      "end": 639.76,
+      "lines": [
+        "kṛṣṇas tu bhagavān svayam (SB 1.3.28).",
+        "So therefore"
+      ]
+    },
+    {
+      "index": 58,
+      "start": 639.76,
+      "end": 652.631,
+      "lines": [
+        "we should take Bhagavad-gītā as it is directed",
+        "by the Personality of Godhead Himself."
+      ]
+    },
+    {
+      "index": 59,
+      "start": 652.631,
+      "end": 662.173,
+      "lines": [
+        "So in the Fourth Chapter of Bhagavad-gītā",
+        "the Lord says:"
+      ]
+    },
+    {
+      "index": 60,
+      "start": 662.173,
+      "end": 674.468,
+      "lines": [
+        "imaṁ vivasvate yogaṁ proktavān aham avyayam",
+        "vivasvān manave prāha manur ikṣvākave 'bravīt (BG"
+      ]
+    },
+    {
+      "index": 61,
+      "start": 674.408,
+      "end": 679.992,
+      "lines": [
+        "4.1)",
+        "evaṁ paramparā-prāptam"
+      ]
+    },
+    {
+      "index": 62,
+      "start": 679.992,
+      "end": 694.286,
+      "lines": [
+        "imaṁ rājarṣayo viduḥ",
+        "sa kāleneha mahatā yogo naṣṭaḥ parantapa (BG 4.2)"
+      ]
+    },
+    {
+      "index": 63,
+      "start": 694.226,
+      "end": 707.579,
+      "lines": [
+        "sa evāyaṁ mayā te 'dya yogaḥ proktaḥ purātanaḥ",
+        "bhakto 'si me sakhā ceti rahasyaṁ hy etad uttamam"
+      ]
+    },
+    {
+      "index": 64,
+      "start": 707.579,
+      "end": 717.15,
+      "lines": [
+        "(BG 4.3) The idea is the Lord said to Arjuna",
+        "that"
+      ]
+    },
+    {
+      "index": 65,
+      "start": 717.15,
+      "end": 729.88,
+      "lines": [
+        "\"This yoga, this system of yoga,",
+        "Bhagavad-gītā, was first spoken by Me to the sun-god,"
+      ]
+    },
+    {
+      "index": 66,
+      "start": 729.88,
+      "end": 743.78,
+      "lines": [
+        "and the sun-god explained to Manu.",
+        "Manu explained to Ikṣvāku, and in that way,"
+      ]
+    },
+    {
+      "index": 67,
+      "start": 743.78,
+      "end": 755.38,
+      "lines": [
+        "by disciplic succession, one after another,",
+        "this yoga system is coming, and"
+      ]
+    },
+    {
+      "index": 68,
+      "start": 755.38,
+      "end": 764.916,
+      "lines": [
+        "in course of time this system is now lost.",
+        "And therefore,"
+      ]
+    },
+    {
+      "index": 69,
+      "start": 764.916,
+      "end": 772.992,
+      "lines": [
+        "I am speaking to you",
+        "the very same yoga system again,"
+      ]
+    },
+    {
+      "index": 70,
+      "start": 772.992,
+      "end": 788.978,
+      "lines": [
+        "the very same old yoga system of Bhagavad-gītā,",
+        "or Gītopaniṣad. Because you are My devotee"
+      ]
+    },
+    {
+      "index": 71,
+      "start": 788.978,
+      "end": 800.58,
+      "lines": [
+        "and you are My friend,",
+        "therefore it is possible for you only to understand.\""
+      ]
+    },
+    {
+      "index": 72,
+      "start": 800.58,
+      "end": 816.25,
+      "lines": [
+        "Now, the purport is that Bhagavad-gītā is a treatise",
+        "which is specially meant for the devotee of the"
+      ]
+    },
+    {
+      "index": 73,
+      "start": 816.17,
+      "end": 824.17,
+      "lines": [
+        "Lord.",
+        "There are three classes of transcendentalists,"
+      ]
+    },
+    {
+      "index": 74,
+      "start": 824.17,
+      "end": 834.76,
+      "lines": [
+        "namely the jñānī,",
+        "the yogī and the bhakta, or the"
+      ]
+    },
+    {
+      "index": 75,
+      "start": 834.76,
+      "end": 848.59,
+      "lines": [
+        "impersonalist or the meditator or",
+        "the devotees. So here it is clearly mentioned,"
+      ]
+    },
+    {
+      "index": 76,
+      "start": 848.59,
+      "end": 862.78,
+      "lines": [
+        "the Lord says to Arjuna that \"I am speaking,",
+        "or I am making you the first man of the paramparā."
+      ]
+    },
+    {
+      "index": 77,
+      "start": 862.78,
+      "end": 875.94,
+      "lines": [
+        "Because the old paramparā, or disciplic succession,",
+        "is now broken, therefore I wish to establish again"
+      ]
+    },
+    {
+      "index": 78,
+      "start": 875.86,
+      "end": 891.05,
+      "lines": [
+        "another paramparā in the same line of thought",
+        "as it was coming down from the sun-god to others."
+      ]
+    },
+    {
+      "index": 79,
+      "start": 891.05,
+      "end": 898.633,
+      "lines": [
+        "So you, you take it",
+        "and you distribute it.\""
+      ]
+    },
+    {
+      "index": 80,
+      "start": 898.633,
+      "end": 910.08,
+      "lines": [
+        "Or \"The system, the yoga system of Bhagavad-gītā,",
+        "may now be distributed through you."
+      ]
+    },
+    {
+      "index": 81,
+      "start": 910.08,
+      "end": 921.672,
+      "lines": [
+        "You become the authority of understanding Bhagavad-gītā.\"",
+        "Now, here is a direction that"
+      ]
+    },
+    {
+      "index": 82,
+      "start": 921.672,
+      "end": 934.16,
+      "lines": [
+        "Bhagavad-gītā is especially instructed to Arjuna,",
+        "the devotee of the Lord, the direct student of"
+      ]
+    },
+    {
+      "index": 83,
+      "start": 934.08,
+      "end": 940.9,
+      "lines": [
+        "Kṛṣṇa.",
+        "And not only that, he is intimately in touch with"
+      ]
+    },
+    {
+      "index": 84,
+      "start": 940.82,
+      "end": 954.06,
+      "lines": [
+        "Kṛṣṇa as friend. Therefore Bhagavad-gītā is understood",
+        "by a person who has similar qualities like Kṛṣṇa."
+      ]
+    },
+    {
+      "index": 85,
+      "start": 954.06,
+      "end": 962.61,
+      "lines": [
+        "That means he must be a devotee,",
+        "he must be in"
+      ]
+    },
+    {
+      "index": 86,
+      "start": 962.61,
+      "end": 976.28,
+      "lines": [
+        "relation, direct relationship with the Lord.",
+        "As soon as one becomes a devotee of the Lord,"
+      ]
+    },
+    {
+      "index": 87,
+      "start": 976.28,
+      "end": 986.74,
+      "lines": [
+        "he has a direct relationship also with the Lord.",
+        "That is a subject matter"
+      ]
+    },
+    {
+      "index": 88,
+      "start": 986.74,
+      "end": 999.42,
+      "lines": [
+        "very long, but briefly it can be stated that a",
+        "devotee is in relationship with the Supreme Personality"
+      ]
+    },
+    {
+      "index": 89,
+      "start": 999.34,
+      "end": 1010.35,
+      "lines": [
+        "of Godhead in five ways.",
+        "One may be a devotee in a passive state,"
+      ]
+    },
+    {
+      "index": 90,
+      "start": 1010.35,
+      "end": 1022.63,
+      "lines": [
+        "one may be a devotee in active state,",
+        "one may be a devotee as a friend,"
+      ]
+    },
+    {
+      "index": 91,
+      "start": 1022.63,
+      "end": 1033.39,
+      "lines": [
+        "one may be a devotee as parent,",
+        "and one may be a devotee as conjugal lover."
+      ]
+    },
+    {
+      "index": 92,
+      "start": 1033.39,
+      "end": 1047.83,
+      "lines": [
+        "So Arjuna was a devotee in relationship with the",
+        "Lord as a friend. The Lord can become a friend."
+      ]
+    },
+    {
+      "index": 93,
+      "start": 1047.83,
+      "end": 1057.51,
+      "lines": [
+        "Of course, this friendship and the conception of",
+        "friendship which we have got in the mundane world,"
+      ]
+    },
+    {
+      "index": 94,
+      "start": 1057.51,
+      "end": 1063.51,
+      "lines": [
+        "there is a gulf of difference.",
+        "This is transcendental friendship,"
+      ]
+    },
+    {
+      "index": 95,
+      "start": 1063.43,
+      "end": 1077.9,
+      "lines": [
+        "which . . . not that everyone will have the",
+        "relationship with the Lord. Everyone has got a"
+      ]
+    },
+    {
+      "index": 96,
+      "start": 1077.82,
+      "end": 1088.78,
+      "lines": [
+        "particular relationship with the Lord,",
+        "and that particular relationship is evoked by the"
+      ]
+    },
+    {
+      "index": 97,
+      "start": 1088.7,
+      "end": 1097.78,
+      "lines": [
+        "perfection of devotional service.",
+        "At the present status of our life we have not only"
+      ]
+    },
+    {
+      "index": 98,
+      "start": 1097.7,
+      "end": 1111.09,
+      "lines": [
+        "forgotten the Supreme Lord, but also we have forgotten",
+        "our eternal relationship with the Lord."
+      ]
+    },
+    {
+      "index": 99,
+      "start": 1111.09,
+      "end": 1120.47,
+      "lines": [
+        "Every living being, out of many,",
+        "many millions and billions of living being,"
+      ]
+    },
+    {
+      "index": 100,
+      "start": 1120.47,
+      "end": 1129.75,
+      "lines": [
+        "each and every living being has got a particular",
+        "relationship with the Lord eternally."
+      ]
+    },
+    {
+      "index": 101,
+      "start": 1129.75,
+      "end": 1141.68,
+      "lines": [
+        "That is called svarūpa.",
+        "Svarūpa. And by the process of devotional service"
+      ]
+    },
+    {
+      "index": 102,
+      "start": 1141.68,
+      "end": 1154.71,
+      "lines": [
+        "one can revive that svarūpa of oneself,",
+        "and that stage is called svarūpa-siddhi'',"
+      ]
+    },
+    {
+      "index": 103,
+      "start": 1154.71,
+      "end": 1170.67,
+      "lines": [
+        "perfection of one's constitutional position.",
+        "So Arjuna was a devotee and he was in touch with"
+      ]
+    },
+    {
+      "index": 104,
+      "start": 1170.59,
+      "end": 1184.304,
+      "lines": [
+        "the Supreme Lord in friendship.",
+        "Now, this Bhagavad-gītā was explained to Arjuna,"
+      ]
+    },
+    {
+      "index": 105,
+      "start": 1184.304,
+      "end": 1193.01,
+      "lines": [
+        "and",
+        "how Arjuna accepted it, that should also be noted."
+      ]
+    },
+    {
+      "index": 106,
+      "start": 1193.01,
+      "end": 1202.48,
+      "lines": [
+        "How Arjuna accepted the Bhagavad-gītā is mentioned",
+        "in the Tenth Chapter."
+      ]
+    },
+    {
+      "index": 107,
+      "start": 1202.48,
+      "end": 1214.355,
+      "lines": [
+        "Just like: arjuna uvāca",
+        "paraṁ brahma paraṁ dhāma pavitraṁ paramaṁ bhavān"
+      ]
+    },
+    {
+      "index": 108,
+      "start": 1214.355,
+      "end": 1231.185,
+      "lines": [
+        "puruṣaṁ śāśvataṁ divyam ādi-devam ajaṁ vibhum (BG",
+        "10.12) āhus tvām ṛṣayaḥ sarve devarṣir nāradas"
+      ]
+    },
+    {
+      "index": 109,
+      "start": 1231.125,
+      "end": 1243.55,
+      "lines": [
+        "tathā asito devalo vyāsaḥ svayaṁ caiva bravīṣi",
+        "me (BG 10.13) sarvam etad ṛtaṁ manye"
+      ]
+    },
+    {
+      "index": 110,
+      "start": 1243.55,
+      "end": 1255.16,
+      "lines": [
+        "yan māṁ vadasi keśava na hi te bhagavan vyaktiṁ",
+        "vidur devā na dānavāḥ. (BG 10.14)"
+      ]
+    },
+    {
+      "index": 111,
+      "start": 1255.16,
+      "end": 1262.308,
+      "lines": [
+        "Now, Arjuna says,",
+        "after hearing Bhagavad-gītā"
+      ]
+    },
+    {
+      "index": 112,
+      "start": 1262.308,
+      "end": 1274.609,
+      "lines": [
+        "from the Supreme Personality of Godhead,",
+        "he accepts Kṛṣṇa as paraṁ brahma,"
+      ]
+    },
+    {
+      "index": 113,
+      "start": 1274.609,
+      "end": 1282.786,
+      "lines": [
+        "the Supreme Brahman.",
+        "Brahman."
+      ]
+    },
+    {
+      "index": 114,
+      "start": 1282.786,
+      "end": 1290.949,
+      "lines": [
+        "Every living being is Brahman,",
+        "but"
+      ]
+    },
+    {
+      "index": 115,
+      "start": 1290.949,
+      "end": 1300.77,
+      "lines": [
+        "the supreme living being, or the Supreme Personality",
+        "of Godhead, is the Supreme Brahman,"
+      ]
+    },
+    {
+      "index": 116,
+      "start": 1300.77,
+      "end": 1309.46,
+      "lines": [
+        "or supreme living being.",
+        "And paraṁ dhāma. Paraṁ dhāma means He is the supreme"
+      ]
+    },
+    {
+      "index": 117,
+      "start": 1309.38,
+      "end": 1316.689,
+      "lines": [
+        "rest of everything.",
+        "And pavitram."
+      ]
+    },
+    {
+      "index": 118,
+      "start": 1316.689,
+      "end": 1327.687,
+      "lines": [
+        "Pavitram means He is pure from material contamination.",
+        "And He's addressed as puruṣam."
+      ]
+    },
+    {
+      "index": 119,
+      "start": 1327.687,
+      "end": 1337.512,
+      "lines": [
+        "Puruṣam means the supreme enjoyer:",
+        "śāśvatam, śāśvata means from very beginning,"
+      ]
+    },
+    {
+      "index": 120,
+      "start": 1337.512,
+      "end": 1343.894,
+      "lines": [
+        "He's the first person:",
+        "divyam, transcendental:"
+      ]
+    },
+    {
+      "index": 121,
+      "start": 1343.894,
+      "end": 1348.68,
+      "lines": [
+        "devam,",
+        "the Supreme Personality of Godhead:"
+      ]
+    },
+    {
+      "index": 122,
+      "start": 1348.68,
+      "end": 1356.818,
+      "lines": [
+        "ajam, never born: vibhum,",
+        "the greatest."
+      ]
+    },
+    {
+      "index": 123,
+      "start": 1356.818,
+      "end": 1365.49,
+      "lines": [
+        "Now, one may doubt, that",
+        "because Kṛṣṇa was"
+      ]
+    },
+    {
+      "index": 124,
+      "start": 1365.49,
+      "end": 1374.896,
+      "lines": [
+        "the friend of Arjuna, therefore he might say all",
+        "these things to his own friend."
+      ]
+    },
+    {
+      "index": 125,
+      "start": 1374.896,
+      "end": 1386.66,
+      "lines": [
+        "But Arjuna,",
+        "just to drive out this kind of doubts in the mind"
+      ]
+    },
+    {
+      "index": 126,
+      "start": 1386.58,
+      "end": 1397.36,
+      "lines": [
+        "of the readers of Bhagavad-gītā,",
+        "he establishes his proposition by the authorities."
+      ]
+    },
+    {
+      "index": 127,
+      "start": 1397.36,
+      "end": 1409.76,
+      "lines": [
+        "He says that Lord Śrī Kṛṣṇa is accepted as the",
+        "Supreme Personality of Godhead not only by himself,"
+      ]
+    },
+    {
+      "index": 128,
+      "start": 1409.76,
+      "end": 1425.94,
+      "lines": [
+        "Arjuna, but He is so accepted by authorities like",
+        "Nārada, Asita, Devala, Vyāsa."
+      ]
+    },
+    {
+      "index": 129,
+      "start": 1425.94,
+      "end": 1436.58,
+      "lines": [
+        "These personalities are great personalities in",
+        "distributing the Vedic knowledge,"
+      ]
+    },
+    {
+      "index": 130,
+      "start": 1436.58,
+      "end": 1451.2,
+      "lines": [
+        "accepted by all ācāryas. Therefore Arjuna says",
+        "that \"Whatever You have spoken so far to me,"
+      ]
+    },
+    {
+      "index": 131,
+      "start": 1451.2,
+      "end": 1462.408,
+      "lines": [
+        "I accept them as",
+        "completely perfect.\" Sarvam etad ṛtaṁ manye (BG"
+      ]
+    },
+    {
+      "index": 132,
+      "start": 1462.348,
+      "end": 1473.078,
+      "lines": [
+        "10.14): \"I take it, I believe it that whatever",
+        "You have spoken, they are all right."
+      ]
+    },
+    {
+      "index": 133,
+      "start": 1473.078,
+      "end": 1480.978,
+      "lines": [
+        "And Your personality,",
+        "Your personality of Godhead,"
+      ]
+    },
+    {
+      "index": 134,
+      "start": 1480.919,
+      "end": 1486.49,
+      "lines": [
+        "is very difficult to understand.",
+        "And"
+      ]
+    },
+    {
+      "index": 135,
+      "start": 1486.49,
+      "end": 1499.53,
+      "lines": [
+        "therefore You cannot be known by even the demigods.",
+        "You cannot be known even by the demigods.\" That"
+      ]
+    },
+    {
+      "index": 136,
+      "start": 1499.45,
+      "end": 1510.89,
+      "lines": [
+        "means the Supreme Personality Godhead cannot be",
+        "known even by greater personalities than the human"
+      ]
+    },
+    {
+      "index": 137,
+      "start": 1510.81,
+      "end": 1517.81,
+      "lines": [
+        "being.",
+        "And how a human being can understand Śrī Kṛṣṇa"
+      ]
+    },
+    {
+      "index": 138,
+      "start": 1517.73,
+      "end": 1531.096,
+      "lines": [
+        "without becoming His devotee?",
+        "Therefore Bhagavad-gītā should be taken up in a"
+      ]
+    },
+    {
+      "index": 139,
+      "start": 1531.09,
+      "end": 1540.25,
+      "lines": [
+        "spirit of devotee of Lord Śrī Kṛṣṇa.",
+        "One should not think that he is equal,"
+      ]
+    },
+    {
+      "index": 140,
+      "start": 1540.17,
+      "end": 1550.35,
+      "lines": [
+        "on the same level of Śrī Kṛṣṇa,",
+        "or one should not think that He is an ordinary"
+      ]
+    },
+    {
+      "index": 141,
+      "start": 1550.27,
+      "end": 1560.19,
+      "lines": [
+        "personality, maybe a very great personality.",
+        "No. Lord Śrī Kṛṣṇa is the Supreme Personality of"
+      ]
+    },
+    {
+      "index": 142,
+      "start": 1560.11,
+      "end": 1571.73,
+      "lines": [
+        "Godhead. So at least theoretically,",
+        "on the statement of Bhagavad-gītā or on the statement,"
+      ]
+    },
+    {
+      "index": 143,
+      "start": 1571.65,
+      "end": 1582.26,
+      "lines": [
+        "assertion, of Arjuna, the person who is trying",
+        "to understand the Bhagavad-gītā,"
+      ]
+    },
+    {
+      "index": 144,
+      "start": 1582.26,
+      "end": 1592.81,
+      "lines": [
+        "we should accept Śrī Kṛṣṇa as the Supreme Personality",
+        "of Godhead, and then, with that submissive spirit"
+      ]
+    },
+    {
+      "index": 145,
+      "start": 1592.73,
+      "end": 1601.37,
+      "lines": [
+        ". . .",
+        "unless one receives this Bhagavad-gītā in a submissive"
+      ]
+    },
+    {
+      "index": 146,
+      "start": 1601.29,
+      "end": 1610.409,
+      "lines": [
+        "spirit and aural reception, it is very difficult",
+        "to understand Bhagavad-gītā,"
+      ]
+    },
+    {
+      "index": 147,
+      "start": 1610.37,
+      "end": 1620.619,
+      "lines": [
+        "because it is a great mystery.",
+        "So in this Bhagavad-gītā . ."
+      ]
+    },
+    {
+      "index": 148,
+      "start": 1620.559,
+      "end": 1637.56,
+      "lines": [
+        ". we may survey what is this Bhagavad-gītā.",
+        "This Bhagavad-gītā is meant for delivering persons"
+      ]
+    },
+    {
+      "index": 149,
+      "start": 1637.521,
+      "end": 1648.26,
+      "lines": [
+        ". . . persons from the nescience of this material",
+        "existence."
+      ]
+    },
+    {
+      "index": 150,
+      "start": 1648.26,
+      "end": 1657.88,
+      "lines": [
+        "Every man is in difficulty",
+        "in so many ways,"
+      ]
+    },
+    {
+      "index": 151,
+      "start": 1657.88,
+      "end": 1667.556,
+      "lines": [
+        "as Arjuna also was in difficulty in the matter",
+        "of fighting the battle of Kurukṣetra."
+      ]
+    },
+    {
+      "index": 152,
+      "start": 1667.537,
+      "end": 1675.14,
+      "lines": [
+        "And as",
+        "such, he surrendered unto Śrī Kṛṣṇa,"
+      ]
+    },
+    {
+      "index": 153,
+      "start": 1675.14,
+      "end": 1683.768,
+      "lines": [
+        "and therefore this Bhagavad-gītā was spoken.",
+        "Similarly, not only Arjuna,"
+      ]
+    },
+    {
+      "index": 154,
+      "start": 1683.768,
+      "end": 1695.916,
+      "lines": [
+        "but every one of us is always full of anxieties",
+        "due to our this material existence."
+      ]
+    },
+    {
+      "index": 155,
+      "start": 1695.916,
+      "end": 1706.21,
+      "lines": [
+        "Asad-grahāt.",
+        "It is . . . our existence is in the environment"
+      ]
+    },
+    {
+      "index": 156,
+      "start": 1706.13,
+      "end": 1716.862,
+      "lines": [
+        "or atmosphere of nonexistence.",
+        "But actually, we are not nonexistent."
+      ]
+    },
+    {
+      "index": 157,
+      "start": 1716.862,
+      "end": 1729.11,
+      "lines": [
+        "Our",
+        "existence is eternal, but some way or other we"
+      ]
+    },
+    {
+      "index": 158,
+      "start": 1729.03,
+      "end": 1742.28,
+      "lines": [
+        "are put into this asat. Asat means which does not",
+        "exist. Now out of so many human being"
+      ]
+    },
+    {
+      "index": 159,
+      "start": 1742.28,
+      "end": 1752.59,
+      "lines": [
+        "who are actually inquiring about his position",
+        "as to what he is,"
+      ]
+    },
+    {
+      "index": 160,
+      "start": 1752.59,
+      "end": 1760.121,
+      "lines": [
+        "why he is put into this awkward position of suffering",
+        "."
+      ]
+    },
+    {
+      "index": 161,
+      "start": 1760.121,
+      "end": 1772.956,
+      "lines": [
+        ". . unless one is awakened to this position that,",
+        "\"Why I am suffering? I do not want all these sufferings."
+      ]
+    },
+    {
+      "index": 162,
+      "start": 1772.956,
+      "end": 1779.987,
+      "lines": [
+        "I have tried to make a solution of all these sufferings,",
+        "but I have failed,\""
+      ]
+    },
+    {
+      "index": 163,
+      "start": 1779.987,
+      "end": 1789.69,
+      "lines": [
+        "unless one is in that position,",
+        "he is not to be considered a perfect human being."
+      ]
+    },
+    {
+      "index": 164,
+      "start": 1789.69,
+      "end": 1799.33,
+      "lines": [
+        "Humanity begins when this sort of inquiries",
+        "are awakened in one's mind."
+      ]
+    },
+    {
+      "index": 165,
+      "start": 1799.33,
+      "end": 1805.39,
+      "lines": [
+        "In the",
+        "Brahma-sūtra this enquiry is called brahma-jijñāsā."
+      ]
+    },
+    {
+      "index": 166,
+      "start": 1805.01,
+      "end": 1812.507,
+      "lines": [
+        "Athāto brahma jijñāsā.",
+        "And"
+      ]
+    },
+    {
+      "index": 167,
+      "start": 1812.507,
+      "end": 1826.24,
+      "lines": [
+        "every activity of the human being is to be considered",
+        "a failure without having this enquiry in his mind."
+      ]
+    },
+    {
+      "index": 168,
+      "start": 1826.24,
+      "end": 1832.7,
+      "lines": [
+        "So",
+        "persons who have awakened this enquiry into his"
+      ]
+    },
+    {
+      "index": 169,
+      "start": 1832.62,
+      "end": 1838.66,
+      "lines": [
+        "mind as to \"What I am,",
+        "why I am suffering,"
+      ]
+    },
+    {
+      "index": 170,
+      "start": 1838.66,
+      "end": 1849.13,
+      "lines": [
+        "wherefrom",
+        "I have come or where I shall go after death,\""
+      ]
+    },
+    {
+      "index": 171,
+      "start": 1849.13,
+      "end": 1860.67,
+      "lines": [
+        "when these inquiries come, are awakened",
+        "in the mind of a sane human being,"
+      ]
+    },
+    {
+      "index": 172,
+      "start": 1860.67,
+      "end": 1874.21,
+      "lines": [
+        "then he is practically the right",
+        "student for understanding Bhagavad-gītā."
+      ]
+    },
+    {
+      "index": 173,
+      "start": 1874.21,
+      "end": 1883.51,
+      "lines": [
+        "And he must be śraddhāvān.",
+        "Śraddhāvān. He must have respect,"
+      ]
+    },
+    {
+      "index": 174,
+      "start": 1883.51,
+      "end": 1891.722,
+      "lines": [
+        "a fond respect in the Supreme Personality of Godhead.",
+        "Such a person,"
+      ]
+    },
+    {
+      "index": 175,
+      "start": 1891.722,
+      "end": 1897.53,
+      "lines": [
+        "as the ideal person was Arjuna.",
+        "So"
+      ]
+    },
+    {
+      "index": 176,
+      "start": 1897.53,
+      "end": 1904.484,
+      "lines": [
+        "Lord Kṛṣṇa,",
+        "He descends,"
+      ]
+    },
+    {
+      "index": 177,
+      "start": 1904.484,
+      "end": 1913.65,
+      "lines": [
+        "yadā yadā hi dharmasya glānir bhavati (BG 4.7).",
+        "Just to establish the real purpose of life."
+      ]
+    },
+    {
+      "index": 178,
+      "start": 1913.65,
+      "end": 1921.31,
+      "lines": [
+        "When man forgets the real purpose of life,",
+        "the mission of human"
+      ]
+    },
+    {
+      "index": 179,
+      "start": 1921.31,
+      "end": 1929.52,
+      "lines": [
+        "form of life,",
+        "then it is called dharmasya glāniḥ,"
+      ]
+    },
+    {
+      "index": 180,
+      "start": 1929.52,
+      "end": 1941.5,
+      "lines": [
+        "the disturbance of the occupation of human being.",
+        "So in that circumstances,"
+      ]
+    },
+    {
+      "index": 181,
+      "start": 1941.5,
+      "end": 1952.64,
+      "lines": [
+        "out of many, many human being,",
+        "who awakens, one who awakens the spirit of understanding"
+      ]
+    },
+    {
+      "index": 182,
+      "start": 1952.56,
+      "end": 1967.8,
+      "lines": [
+        "his position, for him this Bhagavad-gītā",
+        "is spoken. We are just like swallowed by the tigress"
+      ]
+    },
+    {
+      "index": 183,
+      "start": 1967.72,
+      "end": 1977.83,
+      "lines": [
+        "of nescience,",
+        "and Lord being causelessly merciful upon the living"
+      ]
+    },
+    {
+      "index": 184,
+      "start": 1977.75,
+      "end": 1988.31,
+      "lines": [
+        "entities, especially for the human being,",
+        "He spoke Bhagavad-gītā,"
+      ]
+    },
+    {
+      "index": 185,
+      "start": 1988.31,
+      "end": 2001.15,
+      "lines": [
+        "making His friend Arjuna as the student.",
+        "Arjuna was certainly,"
+      ]
+    },
+    {
+      "index": 186,
+      "start": 2001.15,
+      "end": 2012.4,
+      "lines": [
+        "being an associate of Lord Kṛṣṇa,",
+        "he was above all ignorance."
+      ]
+    },
+    {
+      "index": 187,
+      "start": 2012.4,
+      "end": 2020.06,
+      "lines": [
+        "But still,",
+        "Arjuna was put into ignorance in the Battlefield"
+      ]
+    },
+    {
+      "index": 188,
+      "start": 2019.98,
+      "end": 2032.24,
+      "lines": [
+        "of Kurukṣetra just to question about the problems",
+        "of life to the Supreme Lord so that the Lord can"
+      ]
+    },
+    {
+      "index": 189,
+      "start": 2032.16,
+      "end": 2041.44,
+      "lines": [
+        "explain them for",
+        "the benefit of future generation of human being"
+      ]
+    },
+    {
+      "index": 190,
+      "start": 2041.36,
+      "end": 2054.1,
+      "lines": [
+        "to chalk out the plan of his life and act in that",
+        "way so that his life, his mission of human life,"
+      ]
+    },
+    {
+      "index": 191,
+      "start": 2054.02,
+      "end": 2061.87,
+      "lines": [
+        "can be perfect. So",
+        "in this Bhagavad-gītā"
+      ]
+    },
+    {
+      "index": 192,
+      "start": 2061.87,
+      "end": 2074.058,
+      "lines": [
+        "the subject matter is comprehending",
+        "five different truths."
+      ]
+    },
+    {
+      "index": 193,
+      "start": 2074.058,
+      "end": 2084.012,
+      "lines": [
+        "The first truth is what is God.",
+        "It is the preliminary study"
+      ]
+    },
+    {
+      "index": 194,
+      "start": 2084.012,
+      "end": 2093.34,
+      "lines": [
+        "of the science of God.",
+        "So that science of God is explained here."
+      ]
+    },
+    {
+      "index": 195,
+      "start": 2093.34,
+      "end": 2101.6,
+      "lines": [
+        "Next,",
+        "the constitutional position of the living entities,"
+      ]
+    },
+    {
+      "index": 196,
+      "start": 2101.6,
+      "end": 2108.223,
+      "lines": [
+        "jīva.",
+        "Īśvara and jīva. The Lord, the Supreme Lord,"
+      ]
+    },
+    {
+      "index": 197,
+      "start": 2108.223,
+      "end": 2114.84,
+      "lines": [
+        "He is called īśvara. Īśvara",
+        "means controller,"
+      ]
+    },
+    {
+      "index": 198,
+      "start": 2114.84,
+      "end": 2120.33,
+      "lines": [
+        "and jīva, the living entities,",
+        "are ."
+      ]
+    },
+    {
+      "index": 199,
+      "start": 2120.33,
+      "end": 2128.64,
+      "lines": [
+        ". .",
+        "jīvas, the living entities, they are not īśvara,"
+      ]
+    },
+    {
+      "index": 200,
+      "start": 2128.64,
+      "end": 2143.38,
+      "lines": [
+        "or the controller. They are controlled.",
+        "Artificially if I say that \"I am not controlled,"
+      ]
+    },
+    {
+      "index": 201,
+      "start": 2143.38,
+      "end": 2151.05,
+      "lines": [
+        "I am free,\"",
+        "this is not the sign of a sane man."
+      ]
+    },
+    {
+      "index": 202,
+      "start": 2151.05,
+      "end": 2163.736,
+      "lines": [
+        "A living being is controlled in every respect.",
+        "At least, in his conditioned life he is controlled."
+      ]
+    },
+    {
+      "index": 203,
+      "start": 2163.736,
+      "end": 2175.58,
+      "lines": [
+        "So in this Bhagavad-gītā the subject matter comprehends",
+        "about the īśvara, the supreme controller,"
+      ]
+    },
+    {
+      "index": 204,
+      "start": 2175.58,
+      "end": 2183.22,
+      "lines": [
+        "and about the controlled living entities",
+        "and prakṛti,"
+      ]
+    },
+    {
+      "index": 205,
+      "start": 2183.22,
+      "end": 2188.375,
+      "lines": [
+        "the nature,",
+        "the material nature."
+      ]
+    },
+    {
+      "index": 206,
+      "start": 2188.375,
+      "end": 2201.2,
+      "lines": [
+        "And next, the time,",
+        "duration of existence of the whole universe,"
+      ]
+    },
+    {
+      "index": 207,
+      "start": 2201.2,
+      "end": 2208.99,
+      "lines": [
+        "or this manifestation of the material nature,",
+        "and the duration of time,"
+      ]
+    },
+    {
+      "index": 208,
+      "start": 2208.99,
+      "end": 2216.61,
+      "lines": [
+        "or the eternal time: and karma.",
+        "Karma means activity."
+      ]
+    },
+    {
+      "index": 209,
+      "start": 2216.61,
+      "end": 2230.23,
+      "lines": [
+        "Everything,",
+        "the whole universe,"
+      ]
+    },
+    {
+      "index": 210,
+      "start": 2230.23,
+      "end": 2231.79,
+      "lines": [
+        "whole cosmic manifestation, is full of different",
+        "activities. The living being,"
+      ]
+    },
+    {
+      "index": 211,
+      "start": 2231.71,
+      "end": 2244.21,
+      "lines": [
+        "especially, they are all engaged in different activities.",
+        "So we have to study from the Bhagavad-gītā īśvara,"
+      ]
+    },
+    {
+      "index": 212,
+      "start": 2244.21,
+      "end": 2256.03,
+      "lines": [
+        "what is God: jīva, what are these living entities:",
+        "and prakṛti, what is this cosmic manifestation:"
+      ]
+    },
+    {
+      "index": 213,
+      "start": 2256.03,
+      "end": 2265.8,
+      "lines": [
+        "and how it is controlled by time:",
+        "and what are these activities."
+      ]
+    },
+    {
+      "index": 214,
+      "start": 2265.8,
+      "end": 2272.17,
+      "lines": [
+        "Now out of these five subject matter,",
+        "in"
+      ]
+    },
+    {
+      "index": 215,
+      "start": 2272.17,
+      "end": 2280.4,
+      "lines": [
+        "the Bhagavad-gītā it establish that the Supreme",
+        "Godhead,"
+      ]
+    },
+    {
+      "index": 216,
+      "start": 2280.4,
+      "end": 2287.82,
+      "lines": [
+        "or Kṛṣṇa,",
+        "or Brahman, or Paramātmā—you may call whatever"
+      ]
+    },
+    {
+      "index": 217,
+      "start": 2287.74,
+      "end": 2295.31,
+      "lines": [
+        "you like—but",
+        "the supreme controller. There is a supreme controller."
+      ]
+    },
+    {
+      "index": 218,
+      "start": 2295.31,
+      "end": 2306.59,
+      "lines": [
+        "So the supreme controller is the greatest of all.",
+        "And"
+      ]
+    },
+    {
+      "index": 219,
+      "start": 2306.59,
+      "end": 2315.3,
+      "lines": [
+        "the living beings,",
+        "they are in quality like the supreme"
+      ]
+    },
+    {
+      "index": 220,
+      "start": 2315.3,
+      "end": 2331.52,
+      "lines": [
+        "controller. Just like the supreme controller,",
+        "the Lord, He has control over the universal affairs,"
+      ]
+    },
+    {
+      "index": 221,
+      "start": 2331.52,
+      "end": 2340.2,
+      "lines": [
+        "over the material nature, how the .",
+        ". . it will be explained in the later chapters"
+      ]
+    },
+    {
+      "index": 222,
+      "start": 2340.12,
+      "end": 2352.12,
+      "lines": [
+        "of Bhagavad-gītā that this material nature is not",
+        "independent. She is acting under the direction"
+      ]
+    },
+    {
+      "index": 223,
+      "start": 2352.04,
+      "end": 2361.479,
+      "lines": [
+        "of the Supreme Lord.",
+        "Mayādhyakṣeṇa prakṛtiḥ sūyate sa-carācaram (BG"
+      ]
+    },
+    {
+      "index": 224,
+      "start": 2361.439,
+      "end": 2369.074,
+      "lines": [
+        "9.10):",
+        "\"This material nature is working under My direction,\""
+      ]
+    },
+    {
+      "index": 225,
+      "start": 2369.074,
+      "end": 2377.08,
+      "lines": [
+        "mayādhyakṣeṇa, \"under My superintendence.\"",
+        "So we . . . we are mistaken."
+      ]
+    },
+    {
+      "index": 226,
+      "start": 2377.0,
+      "end": 2384.8,
+      "lines": [
+        "When we see wonderful things happening in the cosmic",
+        "nature,"
+      ]
+    },
+    {
+      "index": 227,
+      "start": 2384.8,
+      "end": 2396.96,
+      "lines": [
+        "we should know that behind these wonderful manifestations",
+        "there is a controller."
+      ]
+    },
+    {
+      "index": 228,
+      "start": 2396.96,
+      "end": 2410.1,
+      "lines": [
+        "Nothing can be manifested without being controlled.",
+        "It is childish to . . . not to consider about the"
+      ]
+    },
+    {
+      "index": 229,
+      "start": 2410.02,
+      "end": 2423.04,
+      "lines": [
+        "controller. Just like a very nice motorcar with",
+        "very good speed and"
+      ]
+    },
+    {
+      "index": 230,
+      "start": 2423.04,
+      "end": 2434.199,
+      "lines": [
+        "very good engineering arrangement is running on",
+        "the street. A child may think that \"How this motorcar"
+      ]
+    },
+    {
+      "index": 231,
+      "start": 2434.14,
+      "end": 2446.38,
+      "lines": [
+        "is running without the help of any horse or any",
+        "pulling agent?\" But a sane man,"
+      ]
+    },
+    {
+      "index": 232,
+      "start": 2446.3,
+      "end": 2457.86,
+      "lines": [
+        "or an elderly person, he knows that in spite of",
+        "all engineering arrangements in the motorcar,"
+      ]
+    },
+    {
+      "index": 233,
+      "start": 2457.86,
+      "end": 2466.42,
+      "lines": [
+        "without the driver it cannot move.",
+        "That engineering arrangement of a motorcar,"
+      ]
+    },
+    {
+      "index": 234,
+      "start": 2466.42,
+      "end": 2476.85,
+      "lines": [
+        "or in electric powerhouse . .",
+        ". now at the present moment it is the day of machinery,"
+      ]
+    },
+    {
+      "index": 235,
+      "start": 2476.85,
+      "end": 2487.0,
+      "lines": [
+        "but we should always know that behind the machinery,",
+        "behind the wonderful working"
+      ]
+    },
+    {
+      "index": 236,
+      "start": 2487.0,
+      "end": 2495.548,
+      "lines": [
+        "of the machinery, there is a driver.",
+        "So the Supreme Lord is the driver,"
+      ]
+    },
+    {
+      "index": 237,
+      "start": 2495.548,
+      "end": 2504.486,
+      "lines": [
+        "adhyakṣa. He is the Supreme Personality under whose",
+        "direction everything is working."
+      ]
+    },
+    {
+      "index": 238,
+      "start": 2504.486,
+      "end": 2514.85,
+      "lines": [
+        "Now these jīva, or the living entities,",
+        "they have been accepted by the Lord in this Bhagavad-gītā,"
+      ]
+    },
+    {
+      "index": 239,
+      "start": 2514.85,
+      "end": 2521.61,
+      "lines": [
+        "as we'll know it in later chapters,",
+        "that they are parts and parcels of the Supreme"
+      ]
+    },
+    {
+      "index": 240,
+      "start": 2521.53,
+      "end": 2528.525,
+      "lines": [
+        "Lord. Mamaivāṁśo jīva-bhūtaḥ (BG 15.7).",
+        "Aṁśa means parts and parcels."
+      ]
+    },
+    {
+      "index": 241,
+      "start": 2528.525,
+      "end": 2542.89,
+      "lines": [
+        "Now, as a particle of gold is also particle,",
+        "a drop of water of the ocean is also salty,"
+      ]
+    },
+    {
+      "index": 242,
+      "start": 2542.89,
+      "end": 2554.334,
+      "lines": [
+        "similarly, we, the living entities,",
+        "being part and parcels of the supreme controller,"
+      ]
+    },
+    {
+      "index": 243,
+      "start": 2554.334,
+      "end": 2559.77,
+      "lines": [
+        "īśvara,",
+        "Bhagavān, or Lord Śrī Kṛṣṇa,"
+      ]
+    },
+    {
+      "index": 244,
+      "start": 2559.77,
+      "end": 2571.89,
+      "lines": [
+        "we have got, I mean to say,",
+        "qualitatively all the qualities of the Supreme"
+      ]
+    },
+    {
+      "index": 245,
+      "start": 2571.81,
+      "end": 2579.62,
+      "lines": [
+        "Lord in minute.",
+        "Because we are minute īśvara,"
+      ]
+    },
+    {
+      "index": 246,
+      "start": 2579.62,
+      "end": 2586.514,
+      "lines": [
+        "subordinate īśvara. We are also trying to control.",
+        "We are just trying to control over the nature."
+      ]
+    },
+    {
+      "index": 247,
+      "start": 2586.514,
+      "end": 2600.82,
+      "lines": [
+        "In the present days you are trying to control over",
+        "the space: you are trying to float imitation planets."
+      ]
+    },
+    {
+      "index": 248,
+      "start": 2600.82,
+      "end": 2613.56,
+      "lines": [
+        "So this tendency of controlling or creating is",
+        "there because partially we have got that controlling"
+      ]
+    },
+    {
+      "index": 249,
+      "start": 2613.48,
+      "end": 2622.68,
+      "lines": [
+        "tendency.",
+        "But we should know that this tendency is not sufficient."
+      ]
+    },
+    {
+      "index": 250,
+      "start": 2622.68,
+      "end": 2632.0,
+      "lines": [
+        "We have the tendency of controlling over the material",
+        "nature, lording it over the material nature,"
+      ]
+    },
+    {
+      "index": 251,
+      "start": 2632.0,
+      "end": 2641.266,
+      "lines": [
+        "but we are not the supreme controller.",
+        "So that thing is explained in the"
+      ]
+    },
+    {
+      "index": 252,
+      "start": 2641.266,
+      "end": 2650.36,
+      "lines": [
+        "Bhagavad-gītā.",
+        "Then what is this material nature?"
+      ]
+    },
+    {
+      "index": 253,
+      "start": 2650.36,
+      "end": 2655.96,
+      "lines": [
+        "The nature is also explained.",
+        "The nature, material nature,"
+      ]
+    },
+    {
+      "index": 254,
+      "start": 2655.88,
+      "end": 2666.9,
+      "lines": [
+        "is explained in the Bhagavad-gītā as inferior,",
+        "inferior prakṛti."
+      ]
+    },
+    {
+      "index": 255,
+      "start": 2666.9,
+      "end": 2677.22,
+      "lines": [
+        "Inferior prakṛti. And the living entities are explained",
+        "as the superior prakṛti.Prakṛti"
+      ]
+    },
+    {
+      "index": 256,
+      "start": 2677.22,
+      "end": 2684.899,
+      "lines": [
+        "means which is controlled,",
+        "which is under . . . Prakṛti,"
+      ]
+    },
+    {
+      "index": 257,
+      "start": 2684.86,
+      "end": 2700.26,
+      "lines": [
+        "real meaning of prakṛti is a woman or a female.",
+        "Just like a husband controls the activities of"
+      ]
+    },
+    {
+      "index": 258,
+      "start": 2700.18,
+      "end": 2704.9,
+      "lines": [
+        "his wife,",
+        "similarly,"
+      ]
+    },
+    {
+      "index": 259,
+      "start": 2704.9,
+      "end": 2717.27,
+      "lines": [
+        "the prakṛti is also subordinate,",
+        "predominated."
+      ]
+    },
+    {
+      "index": 260,
+      "start": 2717.27,
+      "end": 2725.21,
+      "lines": [
+        "The Lord, the Supreme Personality of Godhead,",
+        "is the predominator, and this prakṛti,"
+      ]
+    },
+    {
+      "index": 261,
+      "start": 2725.21,
+      "end": 2732.869,
+      "lines": [
+        "both the living entities and the material nature,",
+        "they are different prakṛtis,"
+      ]
+    },
+    {
+      "index": 262,
+      "start": 2732.83,
+      "end": 2743.49,
+      "lines": [
+        "or predominated, controlled by the Supreme.",
+        "So according to Bhagavad-gītā,"
+      ]
+    },
+    {
+      "index": 263,
+      "start": 2743.49,
+      "end": 2749.89,
+      "lines": [
+        "the living entities, although they are parts and",
+        "parcels of the Supreme Lord,"
+      ]
+    },
+    {
+      "index": 264,
+      "start": 2749.89,
+      "end": 2757.22,
+      "lines": [
+        "they are taken as prakṛti.",
+        "It is clearly mentioned in the Seventh Chapter"
+      ]
+    },
+    {
+      "index": 265,
+      "start": 2757.14,
+      "end": 2769.187,
+      "lines": [
+        "of the Bhagavad-gītā, yes, apareyam itas tu viddhi",
+        "aparā (BG 7.5). This material nature is aparā iyam."
+      ]
+    },
+    {
+      "index": 266,
+      "start": 2769.187,
+      "end": 2776.481,
+      "lines": [
+        "Itas tu, and beyond this there is another prakṛti.",
+        "And what is that prakṛti? Jīva-bhūta,"
+      ]
+    },
+    {
+      "index": 267,
+      "start": 2776.441,
+      "end": 2785.34,
+      "lines": [
+        "these . . . So this",
+        "prakṛti, the constitution of this prakṛti,"
+      ]
+    },
+    {
+      "index": 268,
+      "start": 2785.34,
+      "end": 2792.81,
+      "lines": [
+        "is",
+        "constituted by three qualities:"
+      ]
+    },
+    {
+      "index": 269,
+      "start": 2792.81,
+      "end": 2800.77,
+      "lines": [
+        "the mode of goodness,",
+        "the mode of passion and mode of ignorance."
+      ]
+    },
+    {
+      "index": 270,
+      "start": 2800.73,
+      "end": 2805.27,
+      "lines": [
+        "And above",
+        "these modes,"
+      ]
+    },
+    {
+      "index": 271,
+      "start": 2805.27,
+      "end": 2813.49,
+      "lines": [
+        "three different kinds of modes,",
+        "goodness, passion and, I mean to say,"
+      ]
+    },
+    {
+      "index": 272,
+      "start": 2813.49,
+      "end": 2823.222,
+      "lines": [
+        "ignorance, there is eternal time.",
+        "There is eternal time."
+      ]
+    },
+    {
+      "index": 273,
+      "start": 2823.222,
+      "end": 2832.21,
+      "lines": [
+        "And by combination of these modes",
+        "of nature and under"
+      ]
+    },
+    {
+      "index": 274,
+      "start": 2832.21,
+      "end": 2840.86,
+      "lines": [
+        "the control, under the",
+        "purview, of this eternal time,"
+      ]
+    },
+    {
+      "index": 275,
+      "start": 2840.86,
+      "end": 2848.18,
+      "lines": [
+        "there are activities. There",
+        "are activities, which is called karma."
+      ]
+    },
+    {
+      "index": 276,
+      "start": 2848.18,
+      "end": 2860.48,
+      "lines": [
+        "These activities are being",
+        "done from time immemorial, and we are"
+      ]
+    },
+    {
+      "index": 277,
+      "start": 2860.48,
+      "end": 2870.02,
+      "lines": [
+        "suffering or enjoying the fruits of our activities,",
+        "just like in the present life also,"
+      ]
+    },
+    {
+      "index": 278,
+      "start": 2870.02,
+      "end": 2880.971,
+      "lines": [
+        "we enjoy the activities, the fruits of our activities.",
+        "Suppose I am a businessman and I have very ."
+      ]
+    },
+    {
+      "index": 279,
+      "start": 2880.971,
+      "end": 2890.94,
+      "lines": [
+        ". . worked very hard with intelligence,",
+        "and I have amassed a vast amount of bank balance."
+      ]
+    },
+    {
+      "index": 280,
+      "start": 2890.94,
+      "end": 2901.24,
+      "lines": [
+        "Now I am the enjoyer. Similarly,",
+        "suppose I started my business with a vast amount"
+      ]
+    },
+    {
+      "index": 281,
+      "start": 2901.16,
+      "end": 2909.22,
+      "lines": [
+        "of money, but I failed to make a successful .",
+        ". . I lost all the money. So I am sufferer."
+      ]
+    },
+    {
+      "index": 282,
+      "start": 2909.22,
+      "end": 2920.22,
+      "lines": [
+        "So similarly, in every field of our life we enjoy,",
+        "we enjoy the result of our work."
+      ]
+    },
+    {
+      "index": 283,
+      "start": 2920.22,
+      "end": 2926.9,
+      "lines": [
+        "This is called karma. So these things,",
+        "īśvara,"
+      ]
+    },
+    {
+      "index": 284,
+      "start": 2926.9,
+      "end": 2931.78,
+      "lines": [
+        "jīva,",
+        "prakṛti, or the Supreme Lord,"
+      ]
+    },
+    {
+      "index": 285,
+      "start": 2931.78,
+      "end": 2943.7,
+      "lines": [
+        "or the living entity, the material nature,",
+        "the eternal time, and our different activities,"
+      ]
+    },
+    {
+      "index": 286,
+      "start": 2943.7,
+      "end": 2953.52,
+      "lines": [
+        "these things are explained in the Bhagavad-gītā.",
+        "Now out of these five,"
+      ]
+    },
+    {
+      "index": 287,
+      "start": 2953.52,
+      "end": 2958.24,
+      "lines": [
+        "the Lord,",
+        "the living entities,"
+      ]
+    },
+    {
+      "index": 288,
+      "start": 2958.24,
+      "end": 2968.81,
+      "lines": [
+        "and the material nature and time,",
+        "these four items are eternal."
+      ]
+    },
+    {
+      "index": 289,
+      "start": 2968.81,
+      "end": 2977.765,
+      "lines": [
+        "Now manifestation, manifestation of prakṛti,",
+        "may be temporary,"
+      ]
+    },
+    {
+      "index": 290,
+      "start": 2977.765,
+      "end": 2982.76,
+      "lines": [
+        "but",
+        "it is not false."
+      ]
+    },
+    {
+      "index": 291,
+      "start": 2982.76,
+      "end": 2993.96,
+      "lines": [
+        "Some philosophers say that this manifestation of",
+        "material nature is false, but according to the"
+      ]
+    },
+    {
+      "index": 292,
+      "start": 2993.88,
+      "end": 3005.0,
+      "lines": [
+        "philosophy of Bhagavad-gītā",
+        "or according to the philosophy of the Vaiṣṇavas,"
+      ]
+    },
+    {
+      "index": 293,
+      "start": 3005.0,
+      "end": 3012.93,
+      "lines": [
+        "they do not accept the manifestation of the world",
+        "as false."
+      ]
+    },
+    {
+      "index": 294,
+      "start": 3012.93,
+      "end": 3023.95,
+      "lines": [
+        "They accept that the manifestation is real,",
+        "but it is temporary. It is just like a cloud takes"
+      ]
+    },
+    {
+      "index": 295,
+      "start": 3023.87,
+      "end": 3033.43,
+      "lines": [
+        "place in the sky and the rainy season begins,",
+        "and after the rainy season there are so many new"
+      ]
+    },
+    {
+      "index": 296,
+      "start": 3033.35,
+      "end": 3041.99,
+      "lines": [
+        "green vegetation all over the field,",
+        "we can see. And as soon as the rainy season is"
+      ]
+    },
+    {
+      "index": 297,
+      "start": 3041.91,
+      "end": 3048.94,
+      "lines": [
+        "finished, then",
+        "the cloud is vanquished. Generally,"
+      ]
+    },
+    {
+      "index": 298,
+      "start": 3048.94,
+      "end": 3056.8,
+      "lines": [
+        "gradually, all this vegetation dry up and again",
+        "the land becomes barren. Similarly,"
+      ]
+    },
+    {
+      "index": 299,
+      "start": 3056.8,
+      "end": 3064.835,
+      "lines": [
+        "this material manifestation takes place at a certain",
+        "interval."
+      ]
+    },
+    {
+      "index": 300,
+      "start": 3064.835,
+      "end": 3070.993,
+      "lines": [
+        "We'll understand it, we'll know it,",
+        "from the pages of the Bhagavad-gītā."
+      ]
+    },
+    {
+      "index": 301,
+      "start": 3070.993,
+      "end": 3079.2,
+      "lines": [
+        "Bhūtvā bhūtvā pralīyate (BG 8.19).",
+        "This manifestation becomes"
+      ]
+    },
+    {
+      "index": 302,
+      "start": 3079.2,
+      "end": 3086.17,
+      "lines": [
+        "magnificent at",
+        "a certain interval, and again it disappears."
+      ]
+    },
+    {
+      "index": 303,
+      "start": 3086.17,
+      "end": 3091.896,
+      "lines": [
+        "That is the work of the prakṛti.",
+        "But it is working eternally,"
+      ]
+    },
+    {
+      "index": 304,
+      "start": 3091.896,
+      "end": 3100.077,
+      "lines": [
+        "therefore prakṛti is eternal.",
+        "It is not false. Because the Lord has accepted,"
+      ]
+    },
+    {
+      "index": 305,
+      "start": 3100.077,
+      "end": 3109.725,
+      "lines": [
+        "mama prakṛti, \"My prakṛti.\" Apareyam itas tu viddhi",
+        "me prakṛtiṁ parām (BG 7.5). Bhinnā prakṛti,"
+      ]
+    },
+    {
+      "index": 306,
+      "start": 3109.725,
+      "end": 3118.89,
+      "lines": [
+        "bhinnā prakṛti, aparā prakṛti,",
+        "this material nature is a separated energy of the"
+      ]
+    },
+    {
+      "index": 307,
+      "start": 3118.81,
+      "end": 3127.16,
+      "lines": [
+        "Supreme Lord, and",
+        "the living entities, they are also energy of the"
+      ]
+    },
+    {
+      "index": 308,
+      "start": 3127.08,
+      "end": 3136.78,
+      "lines": [
+        "Supreme Lord, but they are not separated.",
+        "They are eternally related. So the Lord,"
+      ]
+    },
+    {
+      "index": 309,
+      "start": 3136.78,
+      "end": 3143.74,
+      "lines": [
+        "the living entity, the",
+        "nature—material nature—and time,"
+      ]
+    },
+    {
+      "index": 310,
+      "start": 3143.74,
+      "end": 3153.21,
+      "lines": [
+        "they are all eternal.",
+        "But the other item, karma, is not eternal."
+      ]
+    },
+    {
+      "index": 311,
+      "start": 3153.21,
+      "end": 3166.35,
+      "lines": [
+        "The effects of karma, or activity,",
+        "may be very old. We are suffering or enjoying the"
+      ]
+    },
+    {
+      "index": 312,
+      "start": 3166.27,
+      "end": 3173.52,
+      "lines": [
+        "results of our activities from a time immemorial,",
+        "but"
+      ]
+    },
+    {
+      "index": 313,
+      "start": 3173.52,
+      "end": 3186.74,
+      "lines": [
+        "still, we can change the result of our karma,",
+        "or activity. That will depend on our perfect knowledge."
+      ]
+    },
+    {
+      "index": 314,
+      "start": 3186.74,
+      "end": 3198.82,
+      "lines": [
+        "We are engaged in various activities undoubtedly,",
+        "but we do not know what sort of activities we shall"
+      ]
+    },
+    {
+      "index": 315,
+      "start": 3198.74,
+      "end": 3208.68,
+      "lines": [
+        "adopt that will give us relief from the actions",
+        "and reactions of all activities."
+      ]
+    },
+    {
+      "index": 316,
+      "start": 3208.68,
+      "end": 3225.58,
+      "lines": [
+        "That is also explained in the Bhagavad-gītā.",
+        "Now, the position of īśvara is supreme consciousness."
+      ]
+    },
+    {
+      "index": 317,
+      "start": 3225.58,
+      "end": 3233.64,
+      "lines": [
+        "Position of īśvara, or the Supreme Lord,",
+        "is supreme consciousness. And the jīvas,"
+      ]
+    },
+    {
+      "index": 318,
+      "start": 3233.56,
+      "end": 3244.76,
+      "lines": [
+        "or the living entities, being parts and parcels",
+        "of the Supreme Lord, he is also conscious."
+      ]
+    },
+    {
+      "index": 319,
+      "start": 3244.76,
+      "end": 3251.9,
+      "lines": [
+        "A living entity is also conscious.",
+        "The living entity is explained as prakṛti,"
+      ]
+    },
+    {
+      "index": 320,
+      "start": 3251.9,
+      "end": 3262.89,
+      "lines": [
+        "energy, and the material nature is also explained",
+        "as prakṛti, but amongst the two,"
+      ]
+    },
+    {
+      "index": 321,
+      "start": 3262.89,
+      "end": 3271.56,
+      "lines": [
+        "one prakṛti, the jīvas, they are conscious:",
+        "the other prakṛti is not conscious."
+      ]
+    },
+    {
+      "index": 322,
+      "start": 3271.56,
+      "end": 3278.78,
+      "lines": [
+        "That is the difference.",
+        "Therefore the jīva prakṛti is called superior,"
+      ]
+    },
+    {
+      "index": 323,
+      "start": 3278.7,
+      "end": 3288.06,
+      "lines": [
+        "because the jīvas has consciousness similar to",
+        "the Lord. The Lord is supreme consciousness."
+      ]
+    },
+    {
+      "index": 324,
+      "start": 3288.06,
+      "end": 3298.84,
+      "lines": [
+        "One should not claim that a jīva,",
+        "a living entity, is also supremely conscious."
+      ]
+    },
+    {
+      "index": 325,
+      "start": 3298.84,
+      "end": 3304.96,
+      "lines": [
+        "No.",
+        "A living being cannot be supremely conscious at"
+      ]
+    },
+    {
+      "index": 326,
+      "start": 3304.88,
+      "end": 3312.58,
+      "lines": [
+        "any stage of his perfection.",
+        "This is a misleading theory."
+      ]
+    },
+    {
+      "index": 327,
+      "start": 3312.58,
+      "end": 3320.88,
+      "lines": [
+        "This is misleading theory. But he is conscious.",
+        "That's all. But he is not supreme conscious."
+      ]
+    },
+    {
+      "index": 328,
+      "start": 3320.88,
+      "end": 3328.69,
+      "lines": [
+        "The supreme conscious, it will be explained in",
+        "the Bhagavad-gītā in"
+      ]
+    },
+    {
+      "index": 329,
+      "start": 3328.69,
+      "end": 3340.23,
+      "lines": [
+        "the chapter where the distinction between the jīva",
+        "and īśvara is explained. Kṣetra-kṣetra-jña."
+      ]
+    },
+    {
+      "index": 330,
+      "start": 3340.23,
+      "end": 3348.97,
+      "lines": [
+        "This kṣetra-jña has been explained that the Lord",
+        "is also kṣetra-jña, or conscious,"
+      ]
+    },
+    {
+      "index": 331,
+      "start": 3348.97,
+      "end": 3356.73,
+      "lines": [
+        "and the jīvas, or the living beings,",
+        "they are also conscious. But the difference is"
+      ]
+    },
+    {
+      "index": 332,
+      "start": 3356.65,
+      "end": 3372.13,
+      "lines": [
+        "that a living being is conscious within his limited",
+        "body, but the Lord is conscious of all bodies."
+      ]
+    },
+    {
+      "index": 333,
+      "start": 3372.05,
+      "end": 3380.49,
+      "lines": [
+        "''Īśvaraḥ sarva-bhūtānāṁ hṛd-deśe 'rjuna tiṣṭhati",
+        "(BG 18.61). The Lord lives within the core of heart"
+      ]
+    },
+    {
+      "index": 334,
+      "start": 3380.41,
+      "end": 3389.01,
+      "lines": [
+        "in every living being, therefore He is conscious",
+        "of the"
+      ]
+    },
+    {
+      "index": 335,
+      "start": 3389.01,
+      "end": 3398.09,
+      "lines": [
+        "psychic movements, activities,",
+        "of the Lord . . . of the particular jīva."
+      ]
+    },
+    {
+      "index": 336,
+      "start": 3398.09,
+      "end": 3408.31,
+      "lines": [
+        "We should not forget. It is also explained that",
+        "the Paramātmā'', the Supreme Personality of Godhead,"
+      ]
+    },
+    {
+      "index": 337,
+      "start": 3408.31,
+      "end": 3415.99,
+      "lines": [
+        "is living in everyone's heart as īśvara,",
+        "as the controller,"
+      ]
+    },
+    {
+      "index": 338,
+      "start": 3415.99,
+      "end": 3426.804,
+      "lines": [
+        "and He is giving direction. He is giving direction.",
+        "Sarvasya cāhaṁ hṛdi sanniviṣṭhaḥ (BG 15.15) ."
+      ]
+    },
+    {
+      "index": 339,
+      "start": 3426.765,
+      "end": 3435.53,
+      "lines": [
+        ". . everyone's heart He is situated,",
+        "and He gives direction to act as he desire."
+      ]
+    },
+    {
+      "index": 340,
+      "start": 3435.53,
+      "end": 3444.17,
+      "lines": [
+        "The living entity forgets what to do.",
+        "First of all he makes his determination to act"
+      ]
+    },
+    {
+      "index": 341,
+      "start": 3444.09,
+      "end": 3452.83,
+      "lines": [
+        "in a certain way, and then he is entangled in the",
+        "actions and reactions of his own karma."
+      ]
+    },
+    {
+      "index": 342,
+      "start": 3452.83,
+      "end": 3460.654,
+      "lines": [
+        "But after giving up one type of body,",
+        "when he enters another type of body ."
+      ]
+    },
+    {
+      "index": 343,
+      "start": 3460.616,
+      "end": 3470.05,
+      "lines": [
+        ". . just like we give up one kind of dress,",
+        "one type of dress, for another type of dress,"
+      ]
+    },
+    {
+      "index": 344,
+      "start": 3470.05,
+      "end": 3476.707,
+      "lines": [
+        "similarly, it is explained in this Bhagavad-gītā",
+        "that vāsāṁsi jīrṇāni yathā vihāya (BG 2.22) ."
+      ]
+    },
+    {
+      "index": 345,
+      "start": 3476.647,
+      "end": 3485.31,
+      "lines": [
+        ". . one, as one changes his different dresses,",
+        "similarly the living entities,"
+      ]
+    },
+    {
+      "index": 346,
+      "start": 3485.31,
+      "end": 3492.17,
+      "lines": [
+        "they are also changing different bodies,",
+        "transmigration of the soul, and pulling on the"
+      ]
+    },
+    {
+      "index": 347,
+      "start": 3492.09,
+      "end": 3505.53,
+      "lines": [
+        "actions and reactions of his past activities.",
+        "So these activities can be changed when a living"
+      ]
+    },
+    {
+      "index": 348,
+      "start": 3505.45,
+      "end": 3515.57,
+      "lines": [
+        "being is in the mode of goodness,",
+        "in sanity, and he understands what sort of activities"
+      ]
+    },
+    {
+      "index": 349,
+      "start": 3515.49,
+      "end": 3524.25,
+      "lines": [
+        "he should adopt. And if he does so,",
+        "then the whole action and reactions of his past"
+      ]
+    },
+    {
+      "index": 350,
+      "start": 3524.17,
+      "end": 3532.796,
+      "lines": [
+        "activities can be changed. Therefore karma is not",
+        "eternal. Other things, out of the four ."
+      ]
+    },
+    {
+      "index": 351,
+      "start": 3532.737,
+      "end": 3546.51,
+      "lines": [
+        ". . five items—īśvara, jīva,",
+        "prakṛti, kāla and karma—these four items are eternal,"
+      ]
+    },
+    {
+      "index": 352,
+      "start": 3546.51,
+      "end": 3558.19,
+      "lines": [
+        "whereas the karma, the item known as karma,",
+        "that is not eternal. Now the conscious īśvara,"
+      ]
+    },
+    {
+      "index": 353,
+      "start": 3558.19,
+      "end": 3566.71,
+      "lines": [
+        "the supreme conscious īśvara,",
+        "and difference between the supreme conscious īśvara,"
+      ]
+    },
+    {
+      "index": 354,
+      "start": 3566.71,
+      "end": 3573.01,
+      "lines": [
+        "the Lord, and the living being is,",
+        "in the present circumstances,"
+      ]
+    },
+    {
+      "index": 355,
+      "start": 3572.93,
+      "end": 3580.483,
+      "lines": [
+        "is like this.",
+        "Consciousness, consciousness of ."
+      ]
+    },
+    {
+      "index": 356,
+      "start": 3580.483,
+      "end": 3591.19,
+      "lines": [
+        ". . both of the Lord and the",
+        "living entities,"
+      ]
+    },
+    {
+      "index": 357,
+      "start": 3591.19,
+      "end": 3601.75,
+      "lines": [
+        "they are, this consciousness is transcendental.",
+        "It is not that this consciousness is generated"
+      ]
+    },
+    {
+      "index": 358,
+      "start": 3601.67,
+      "end": 3614.69,
+      "lines": [
+        "by the association of this matter.",
+        "That is a mistaken idea. The theory that consciousness"
+      ]
+    },
+    {
+      "index": 359,
+      "start": 3614.69,
+      "end": 3625.125,
+      "lines": [
+        "develops under certain circumstances of material",
+        "combination is not accepted in the Bhagavad-gītā."
+      ]
+    },
+    {
+      "index": 360,
+      "start": 3625.125,
+      "end": 3634.27,
+      "lines": [
+        "They cannot.",
+        "Consciousness may be pervertedly reflected by the"
+      ]
+    },
+    {
+      "index": 361,
+      "start": 3634.19,
+      "end": 3643.38,
+      "lines": [
+        "cover of",
+        "material circumstances, just like light reflected"
+      ]
+    },
+    {
+      "index": 362,
+      "start": 3643.3,
+      "end": 3658.0,
+      "lines": [
+        "through a colored glass may seem according to the",
+        "color. Similarly, the consciousness of Lord,"
+      ]
+    },
+    {
+      "index": 363,
+      "start": 3658.0,
+      "end": 3664.84,
+      "lines": [
+        "it is not materially affected.",
+        "The Supreme Lord, just like Kṛṣṇa,"
+      ]
+    },
+    {
+      "index": 364,
+      "start": 3664.84,
+      "end": 3674.72,
+      "lines": [
+        "He says that, mayādhyakṣeṇa prakṛtiḥ (BG 9.10).",
+        "When He descends in this material world,"
+      ]
+    },
+    {
+      "index": 365,
+      "start": 3674.72,
+      "end": 3684.02,
+      "lines": [
+        "His consciousness is not materially affected.",
+        "Had His consciousness been materially affected,"
+      ]
+    },
+    {
+      "index": 366,
+      "start": 3684.02,
+      "end": 3693.25,
+      "lines": [
+        "He was unfit to speak about the transcendental",
+        "subject matter in the Bhagavad-gītā."
+      ]
+    },
+    {
+      "index": 367,
+      "start": 3693.25,
+      "end": 3705.19,
+      "lines": [
+        "One cannot say anything about the transcendental",
+        "world without being free from the materially contaminated"
+      ]
+    },
+    {
+      "index": 368,
+      "start": 3705.11,
+      "end": 3712.88,
+      "lines": [
+        "consciousness. So",
+        "the Lord was not materially contaminated."
+      ]
+    },
+    {
+      "index": 369,
+      "start": 3712.88,
+      "end": 3718.228,
+      "lines": [
+        "But",
+        "our consciousness, at the present moments,"
+      ]
+    },
+    {
+      "index": 370,
+      "start": 3718.19,
+      "end": 3726.15,
+      "lines": [
+        "is materially contaminated. So whole thing,",
+        "as the Bhagavad-gītā teaches,"
+      ]
+    },
+    {
+      "index": 371,
+      "start": 3726.15,
+      "end": 3735.06,
+      "lines": [
+        "we have to purify the materially contaminated consciousness,",
+        "and"
+      ]
+    },
+    {
+      "index": 372,
+      "start": 3735.06,
+      "end": 3743.48,
+      "lines": [
+        "in that pure consciousness, the actions will be",
+        "done. That will make us happy."
+      ]
+    },
+    {
+      "index": 373,
+      "start": 3743.48,
+      "end": 3751.62,
+      "lines": [
+        "We cannot stop. We cannot stop our activity.",
+        "The activities are to be purified."
+      ]
+    },
+    {
+      "index": 374,
+      "start": 3751.62,
+      "end": 3762.34,
+      "lines": [
+        "And these purified activities are called bhakti.",
+        "Bhakti means they are . . . they appear also just"
+      ]
+    },
+    {
+      "index": 375,
+      "start": 3762.26,
+      "end": 3771.12,
+      "lines": [
+        "like ordinary activity, but they",
+        "are not contaminated activities."
+      ]
+    },
+    {
+      "index": 376,
+      "start": 3771.12,
+      "end": 3780.78,
+      "lines": [
+        "They are purified activities.",
+        "So a ignorant person may see that a devotee is"
+      ]
+    },
+    {
+      "index": 377,
+      "start": 3780.7,
+      "end": 3786.39,
+      "lines": [
+        "working like an ordinary man.",
+        "But"
+      ]
+    },
+    {
+      "index": 378,
+      "start": 3786.39,
+      "end": 3794.97,
+      "lines": [
+        "a person with poor fund of knowledge,",
+        "he does not know that the activities of a devotee"
+      ]
+    },
+    {
+      "index": 379,
+      "start": 3794.89,
+      "end": 3805.66,
+      "lines": [
+        "or the activities of the Lord,",
+        "they are not contaminated by the impure"
+      ]
+    },
+    {
+      "index": 380,
+      "start": 3805.66,
+      "end": 3812.72,
+      "lines": [
+        "consciousness of matter,",
+        "impurity of the three guṇas,"
+      ]
+    },
+    {
+      "index": 381,
+      "start": 3812.72,
+      "end": 3823.94,
+      "lines": [
+        "modes of nature, but transcendental consciousness.",
+        "So our consciousness is materially contaminated,"
+      ]
+    },
+    {
+      "index": 382,
+      "start": 3823.86,
+      "end": 3827.83,
+      "lines": [
+        "we should know.",
+        "Now,"
+      ]
+    },
+    {
+      "index": 383,
+      "start": 3827.83,
+      "end": 3836.12,
+      "lines": [
+        "when we",
+        "are such materially contaminated,"
+      ]
+    },
+    {
+      "index": 384,
+      "start": 3836.12,
+      "end": 3844.24,
+      "lines": [
+        "that is called our conditioned stage.",
+        "Conditioned stage. And the false ego,"
+      ]
+    },
+    {
+      "index": 385,
+      "start": 3844.24,
+      "end": 3851.4,
+      "lines": [
+        "the false consciousness . . .",
+        "the false consciousness is exhibited under the"
+      ]
+    },
+    {
+      "index": 386,
+      "start": 3851.32,
+      "end": 3861.09,
+      "lines": [
+        "impression that, \"I am one of the product of this",
+        "material nature.\" That is called false ego."
+      ]
+    },
+    {
+      "index": 387,
+      "start": 3861.09,
+      "end": 3868.26,
+      "lines": [
+        "The whole material activities,",
+        "yasyātma-buddhiḥ kuṇape tri-dhātuke (SB 10.84.13)."
+      ]
+    },
+    {
+      "index": 388,
+      "start": 3868.2,
+      "end": 3880.06,
+      "lines": [
+        "Yasyātma-buddhiḥ kuṇape tri-dhātuke:",
+        "one who is absorbed in the thought of bodily conception."
+      ]
+    },
+    {
+      "index": 389,
+      "start": 3880.06,
+      "end": 3890.1,
+      "lines": [
+        "Now, the whole Bhagavad-gītā was explained by the",
+        "Lord because Arjuna represented himself with bodily"
+      ]
+    },
+    {
+      "index": 390,
+      "start": 3890.1,
+      "end": 3893.89,
+      "lines": [
+        "conception.",
+        "So"
+      ]
+    },
+    {
+      "index": 391,
+      "start": 3893.89,
+      "end": 3904.97,
+      "lines": [
+        "one has to get free from the bodily conception",
+        "of life. That is the preliminary activity for a"
+      ]
+    },
+    {
+      "index": 392,
+      "start": 3904.89,
+      "end": 3915.97,
+      "lines": [
+        "transcendentalist who wants to get free,",
+        "who wants to be liberated. And"
+      ]
+    },
+    {
+      "index": 393,
+      "start": 3915.97,
+      "end": 3925.798,
+      "lines": [
+        "he has to learn first of all that he is not this",
+        "material body."
+      ]
+    },
+    {
+      "index": 394,
+      "start": 3925.798,
+      "end": 3934.5,
+      "lines": [
+        "So this consciousness, or material consciousness,",
+        "when we are freed from this material consciousness,"
+      ]
+    },
+    {
+      "index": 395,
+      "start": 3934.5,
+      "end": 3942.62,
+      "lines": [
+        "that is called mukti. Mukti,",
+        "or liberation, means to become free from material"
+      ]
+    },
+    {
+      "index": 396,
+      "start": 3942.54,
+      "end": 3951.56,
+      "lines": [
+        "consciousness. In",
+        "the Śrīmad-Bhāgavata also the definition of liberation"
+      ]
+    },
+    {
+      "index": 397,
+      "start": 3951.48,
+      "end": 3961.976,
+      "lines": [
+        "is said,",
+        "muktir hitvānyathā rūpaṁ svarūpeṇa vyavasthitiḥ"
+      ]
+    },
+    {
+      "index": 398,
+      "start": 3961.976,
+      "end": 3971.2,
+      "lines": [
+        "(SB 2.10.6). Svarūpeṇa vyavasthitiḥ.",
+        "Mukti means liberation from the contaminated consciousness"
+      ]
+    },
+    {
+      "index": 399,
+      "start": 3971.12,
+      "end": 3980.56,
+      "lines": [
+        "of this material world and to",
+        "become situated in pure consciousness."
+      ]
+    },
+    {
+      "index": 400,
+      "start": 3980.56,
+      "end": 3991.82,
+      "lines": [
+        "And the whole instruction, instruction of Bhagavad-gītā,",
+        "is targeted to awaken that pure consciousness."
+      ]
+    },
+    {
+      "index": 401,
+      "start": 3991.74,
+      "end": 3999.789,
+      "lines": [
+        "We'll find in the last stage of the instruction",
+        "of Bhagavad-gītā"
+      ]
+    },
+    {
+      "index": 402,
+      "start": 3999.789,
+      "end": 4011.8,
+      "lines": [
+        "that Kṛṣṇa is asking Arjuna whether he is now in",
+        "purified consciousness—whether he was in purified"
+      ]
+    },
+    {
+      "index": 403,
+      "start": 4011.72,
+      "end": 4020.52,
+      "lines": [
+        "consciousness. The purified consciousness is to",
+        "act according to the direction of the Lord."
+      ]
+    },
+    {
+      "index": 404,
+      "start": 4020.52,
+      "end": 4027.15,
+      "lines": [
+        "That is purified consciousness.",
+        "That is the whole sum and substance of"
+      ]
+    },
+    {
+      "index": 405,
+      "start": 4027.15,
+      "end": 4034.89,
+      "lines": [
+        "purified consciousness.",
+        "Consciousness is already there,"
+      ]
+    },
+    {
+      "index": 406,
+      "start": 4034.89,
+      "end": 4045.69,
+      "lines": [
+        "but because we are part and parcels,",
+        "therefore we are affected. There is affinity of"
+      ]
+    },
+    {
+      "index": 407,
+      "start": 4045.61,
+      "end": 4054.39,
+      "lines": [
+        "being affected by the material modes.",
+        "But the Lord, being Supreme,"
+      ]
+    },
+    {
+      "index": 408,
+      "start": 4054.39,
+      "end": 4060.55,
+      "lines": [
+        "He is never affected. He is never affected.",
+        "That is the difference between the Lord and the"
+      ]
+    },
+    {
+      "index": 409,
+      "start": 4060.47,
+      "end": 4066.14,
+      "lines": [
+        "Supreme . . . Supreme Lord and the .",
+        ". . Now this"
+      ]
+    },
+    {
+      "index": 410,
+      "start": 4066.14,
+      "end": 4079.31,
+      "lines": [
+        "consciousness is . . . what is this consciousness?",
+        "This consciousness is that \"I am.\" What"
+      ]
+    },
+    {
+      "index": 411,
+      "start": 4079.31,
+      "end": 4086.42,
+      "lines": [
+        "I am?",
+        "When in contaminated consciousness"
+      ]
+    },
+    {
+      "index": 412,
+      "start": 4086.42,
+      "end": 4096.13,
+      "lines": [
+        "this \"I am\" means that \"I",
+        "am the lord of all I survey.\" This is impure consciousness."
+      ]
+    },
+    {
+      "index": 413,
+      "start": 4096.13,
+      "end": 4105.79,
+      "lines": [
+        "And \"I am the enjoyer.\" The whole material world",
+        "is moving that every living being is thinking that,"
+      ]
+    },
+    {
+      "index": 414,
+      "start": 4105.71,
+      "end": 4118.07,
+      "lines": [
+        "\"I am the",
+        "lord and I am the creator of this material world.\""
+      ]
+    },
+    {
+      "index": 415,
+      "start": 4118.07,
+      "end": 4130.02,
+      "lines": [
+        "The consciousness has got two psychic movement,",
+        "or two psychic division."
+      ]
+    },
+    {
+      "index": 416,
+      "start": 4130.02,
+      "end": 4137.744,
+      "lines": [
+        "One is that \"I am the creator,\" and the other is",
+        "\"I am the enjoyer.\""
+      ]
+    },
+    {
+      "index": 417,
+      "start": 4137.744,
+      "end": 4144.97,
+      "lines": [
+        "So",
+        "the Supreme Lord is actually the creator and He"
+      ]
+    },
+    {
+      "index": 418,
+      "start": 4144.89,
+      "end": 4155.906,
+      "lines": [
+        "is actually the enjoyer. And the living entities,",
+        "being part and parcel of the Supreme Lord,"
+      ]
+    },
+    {
+      "index": 419,
+      "start": 4155.906,
+      "end": 4167.53,
+      "lines": [
+        "he's not actually the creator or the enjoyer,",
+        "but he's a cooperator. Just like the whole machine."
+      ]
+    },
+    {
+      "index": 420,
+      "start": 4167.53,
+      "end": 4177.81,
+      "lines": [
+        "The part of the machine is the cooperator.",
+        "Is the cooperator. Or if we can study just the"
+      ]
+    },
+    {
+      "index": 421,
+      "start": 4177.73,
+      "end": 4182.5,
+      "lines": [
+        "constitution of our body, now,",
+        "in"
+      ]
+    },
+    {
+      "index": 422,
+      "start": 4182.5,
+      "end": 4189.16,
+      "lines": [
+        "the body",
+        "there are hands, there are legs,"
+      ]
+    },
+    {
+      "index": 423,
+      "start": 4189.16,
+      "end": 4199.28,
+      "lines": [
+        "there are eyes and all these instruments working,",
+        "but all these parts and parcels of the body,"
+      ]
+    },
+    {
+      "index": 424,
+      "start": 4199.28,
+      "end": 4206.1,
+      "lines": [
+        "they are not enjoyer.",
+        "The stomach is the enjoyer."
+      ]
+    },
+    {
+      "index": 425,
+      "start": 4206.1,
+      "end": 4215.16,
+      "lines": [
+        "The leg is moving from one place to another.",
+        "The hand is collecting, the hand is preparing foodstuff,"
+      ]
+    },
+    {
+      "index": 426,
+      "start": 4215.16,
+      "end": 4224.3,
+      "lines": [
+        "and the teeth is chewing, and everything,",
+        "all parts of body, are engaged in satisfying the"
+      ]
+    },
+    {
+      "index": 427,
+      "start": 4224.22,
+      "end": 4235.42,
+      "lines": [
+        "stomach, because the stomach is the principle fact",
+        "within the organization of this body."
+      ]
+    },
+    {
+      "index": 428,
+      "start": 4235.42,
+      "end": 4243.76,
+      "lines": [
+        "And everything should be given to the stomach.",
+        "Prāṇopahārāc ca yathendriyāṇām (SB 4.31.14)."
+      ]
+    },
+    {
+      "index": 429,
+      "start": 4243.76,
+      "end": 4253.097,
+      "lines": [
+        "Just like you can see a tree green by pouring water",
+        "in the root."
+      ]
+    },
+    {
+      "index": 430,
+      "start": 4253.097,
+      "end": 4258.4,
+      "lines": [
+        "Or you can become healthy . .",
+        ". the parts of the body—the hands,"
+      ]
+    },
+    {
+      "index": 431,
+      "start": 4258.32,
+      "end": 4265.36,
+      "lines": [
+        "the legs,",
+        "the eyes, the ears, the fingers—everything keeps"
+      ]
+    },
+    {
+      "index": 432,
+      "start": 4265.28,
+      "end": 4276.2,
+      "lines": [
+        "in healthy stage when the parts of the body cooperate",
+        "with the stomach. Similarly,"
+      ]
+    },
+    {
+      "index": 433,
+      "start": 4276.2,
+      "end": 4285.1,
+      "lines": [
+        "the supreme living being, the Lord,",
+        "He is the enjoyer. He is the enjoyer and He is"
+      ]
+    },
+    {
+      "index": 434,
+      "start": 4285.02,
+      "end": 4293.97,
+      "lines": [
+        "the creator. And we,",
+        "I mean to say, subordinate living beings,"
+      ]
+    },
+    {
+      "index": 435,
+      "start": 4293.97,
+      "end": 4301.35,
+      "lines": [
+        "the products of the energy of the Supreme Lord,",
+        "we are just to cooperate with Him."
+      ]
+    },
+    {
+      "index": 436,
+      "start": 4301.35,
+      "end": 4312.71,
+      "lines": [
+        "That cooperation will help. Just,",
+        "for example, a good foodstuff taken by the fingers."
+      ]
+    },
+    {
+      "index": 437,
+      "start": 4312.71,
+      "end": 4319.21,
+      "lines": [
+        "If the fingers",
+        "think that, \"Why should we give it to the stomach?"
+      ]
+    },
+    {
+      "index": 438,
+      "start": 4319.21,
+      "end": 4326.69,
+      "lines": [
+        "Let us enjoy,\" that is a mistake.",
+        "The fingers are unable to enjoy."
+      ]
+    },
+    {
+      "index": 439,
+      "start": 4326.69,
+      "end": 4335.83,
+      "lines": [
+        "If fingers want the fruit of enjoyment of that",
+        "particular foodstuff, the fingers must put it into"
+      ]
+    },
+    {
+      "index": 440,
+      "start": 4335.75,
+      "end": 4341.49,
+      "lines": [
+        "the stomach.",
+        "The whole arrangement is that the central figure,"
+      ]
+    },
+    {
+      "index": 441,
+      "start": 4341.49,
+      "end": 4354.77,
+      "lines": [
+        "central figure of creation, central figure of enjoyment,",
+        "is the Supreme Lord, and the living entities,"
+      ]
+    },
+    {
+      "index": 442,
+      "start": 4354.77,
+      "end": 4364.01,
+      "lines": [
+        "they are simply cooperator. By cooperation,",
+        "by cooperation they enjoy. The relation is just"
+      ]
+    },
+    {
+      "index": 443,
+      "start": 4363.93,
+      "end": 4373.25,
+      "lines": [
+        "like the master and the servant.",
+        "If the master is satisfied, if the master is fully"
+      ]
+    },
+    {
+      "index": 444,
+      "start": 4373.17,
+      "end": 4386.79,
+      "lines": [
+        "satisfied, the servants are automatically satisfied.",
+        "That is the law. Similarly, the Supreme Lord should"
+      ]
+    },
+    {
+      "index": 445,
+      "start": 4386.71,
+      "end": 4395.19,
+      "lines": [
+        "be satisfied, although the tendency for becoming",
+        "creator and the tendency to enjoy this material"
+      ]
+    },
+    {
+      "index": 446,
+      "start": 4395.11,
+      "end": 4403.25,
+      "lines": [
+        "world is . . . they",
+        "are also in the living entities,"
+      ]
+    },
+    {
+      "index": 447,
+      "start": 4403.25,
+      "end": 4411.67,
+      "lines": [
+        "because it is there in the Supreme Lord.",
+        "He has created. He has created the manifested cosmic"
+      ]
+    },
+    {
+      "index": 448,
+      "start": 4411.59,
+      "end": 4422.56,
+      "lines": [
+        "world. (break)",
+        "Therefore we shall find in this Bhagavad-gītā that"
+      ]
+    },
+    {
+      "index": 449,
+      "start": 4422.48,
+      "end": 4435.04,
+      "lines": [
+        "the complete whole, comprising the supreme controller,",
+        "the controlled living entities,"
+      ]
+    },
+    {
+      "index": 450,
+      "start": 4435.04,
+      "end": 4444.44,
+      "lines": [
+        "the cosmic manifestation,",
+        "the eternal time and the activities,"
+      ]
+    },
+    {
+      "index": 451,
+      "start": 4444.44,
+      "end": 4451.049,
+      "lines": [
+        "all of them are completely explained.",
+        "So"
+      ]
+    },
+    {
+      "index": 452,
+      "start": 4451.049,
+      "end": 4460.35,
+      "lines": [
+        "the whole thing taking together completely is called",
+        "the Absolute Truth."
+      ]
+    },
+    {
+      "index": 453,
+      "start": 4460.35,
+      "end": 4472.376,
+      "lines": [
+        "The complete whole, or the Supreme Absolute Truth,",
+        "is therefore the complete Personality of Godhead"
+      ]
+    },
+    {
+      "index": 454,
+      "start": 4472.376,
+      "end": 4480.05,
+      "lines": [
+        "Śrī Kṛṣṇa, as I have explained,",
+        "that the manifestation are due to His different"
+      ]
+    },
+    {
+      "index": 455,
+      "start": 4479.97,
+      "end": 4485.28,
+      "lines": [
+        "energies,",
+        "and"
+      ]
+    },
+    {
+      "index": 456,
+      "start": 4485.28,
+      "end": 4493.76,
+      "lines": [
+        "He is the complete whole.",
+        "The impersonal Brahman is explained in the Bhagavad-gītā"
+      ]
+    },
+    {
+      "index": 457,
+      "start": 4493.68,
+      "end": 4503.266,
+      "lines": [
+        "that impersonal Brahman is also subordinate to",
+        "the complete person."
+      ]
+    },
+    {
+      "index": 458,
+      "start": 4503.266,
+      "end": 4511.854,
+      "lines": [
+        "''Brahmaṇo 'haṁ pratiṣṭhā (BG 14.27).",
+        "Impersonal Brahman is also. It is ."
+      ]
+    },
+    {
+      "index": 459,
+      "start": 4511.796,
+      "end": 4518.69,
+      "lines": [
+        ". . the impersonal Brahman is more explicitly explained",
+        "in the Brahma-sūtra"
+      ]
+    },
+    {
+      "index": 460,
+      "start": 4518.69,
+      "end": 4526.42,
+      "lines": [
+        "as the rays.",
+        "As there is the rays of the sunshine,"
+      ]
+    },
+    {
+      "index": 461,
+      "start": 4526.42,
+      "end": 4538.92,
+      "lines": [
+        "sun planet, similarly, the impersonal Brahman is",
+        "the shining rays of the Supreme Brahman,"
+      ]
+    },
+    {
+      "index": 462,
+      "start": 4538.92,
+      "end": 4548.61,
+      "lines": [
+        "or the Supreme Personality of Godhead.",
+        "Therefore impersonal Brahman is incomplete realization"
+      ]
+    },
+    {
+      "index": 463,
+      "start": 4548.53,
+      "end": 4555.13,
+      "lines": [
+        "of the absolute complete whole,",
+        "and so also the conception of Paramātmā."
+      ]
+    },
+    {
+      "index": 464,
+      "start": 4555.13,
+      "end": 4561.59,
+      "lines": [
+        "These things are also explained.",
+        "Puruṣottama-yoga. When we shall read the chapter"
+      ]
+    },
+    {
+      "index": 465,
+      "start": 4561.51,
+      "end": 4571.134,
+      "lines": [
+        "of Puruṣottama-yoga it will be seen that the Supreme",
+        "Personality, Puruṣottama, is above the impersonal"
+      ]
+    },
+    {
+      "index": 466,
+      "start": 4571.134,
+      "end": 4584.03,
+      "lines": [
+        "Brahman and partial realization of Paramātmā.",
+        "The Supreme Personality of Godhead is called sac-cid-ānanda-vigrahaḥ."
+      ]
+    },
+    {
+      "index": 467,
+      "start": 4584.03,
+      "end": 4590.723,
+      "lines": [
+        "In the Brahma-saṁhitā,",
+        "the beginning is started like this:"
+      ]
+    },
+    {
+      "index": 468,
+      "start": 4590.723,
+      "end": 4600.19,
+      "lines": [
+        "īśvaraḥ paramaḥ kṛṣṇaḥ sac-cid-ānanda-vigrahaḥ",
+        "anādir ādir govindaḥ sarva-kāraṇa-kāraṇam (Bs 5.1)"
+      ]
+    },
+    {
+      "index": 469,
+      "start": 4600.19,
+      "end": 4607.29,
+      "lines": [
+        "\"Govinda,",
+        "Kṛṣṇa, is the cause of all causes."
+      ]
+    },
+    {
+      "index": 470,
+      "start": 4607.29,
+      "end": 4616.75,
+      "lines": [
+        "He is the primal Lord.\" So the Supreme Personality",
+        "of Godhead is sac-cid-ānanda-vigrahaḥ."
+      ]
+    },
+    {
+      "index": 471,
+      "start": 4616.75,
+      "end": 4628.277,
+      "lines": [
+        "Impersonal Brahman realization is the realization",
+        "of His sat part, eternity."
+      ]
+    },
+    {
+      "index": 472,
+      "start": 4628.277,
+      "end": 4637.52,
+      "lines": [
+        "And Paramātmā realization is the realization of",
+        "sat-cit, eternal knowledge part realization."
+      ]
+    },
+    {
+      "index": 473,
+      "start": 4637.52,
+      "end": 4646.5,
+      "lines": [
+        "But realization of the Personality of Godhead as",
+        "Kṛṣṇa is realization of all the transcendental"
+      ]
+    },
+    {
+      "index": 474,
+      "start": 4646.42,
+      "end": 4656.54,
+      "lines": [
+        "features like sat, cit and ānanda,",
+        "in complete vigraha. Vigraha means form."
+      ]
+    },
+    {
+      "index": 475,
+      "start": 4656.54,
+      "end": 4662.196,
+      "lines": [
+        "Vigraha",
+        "means form."
+      ]
+    },
+    {
+      "index": 476,
+      "start": 4662.196,
+      "end": 4671.81,
+      "lines": [
+        "Avyaktaṁ vyaktim āpannaṁ manyante mām abuddhayaḥ",
+        "(BG 7.24). People with less intelligence,"
+      ]
+    },
+    {
+      "index": 477,
+      "start": 4671.81,
+      "end": 4681.35,
+      "lines": [
+        "they consider the Supreme Truth as impersonal.",
+        "But He is a person, a transcendental person."
+      ]
+    },
+    {
+      "index": 478,
+      "start": 4681.35,
+      "end": 4688.903,
+      "lines": [
+        "This is confirmed in all Vedic literature.",
+        "Nityo nityānāṁ cetanaś cetanānām (Kaṭha Upaniṣad"
+      ]
+    },
+    {
+      "index": 479,
+      "start": 4688.843,
+      "end": 4695.788,
+      "lines": [
+        "2.2.13). So, as we are also persons,",
+        "individual living being, we are person,"
+      ]
+    },
+    {
+      "index": 480,
+      "start": 4695.75,
+      "end": 4701.474,
+      "lines": [
+        "we have got our individuality,",
+        "we are all individual, similarly the Supreme Truth,"
+      ]
+    },
+    {
+      "index": 481,
+      "start": 4701.474,
+      "end": 4710.32,
+      "lines": [
+        "the Supreme Absolute, He is also,",
+        "at the ultimate issue, He is a person."
+      ]
+    },
+    {
+      "index": 482,
+      "start": 4710.32,
+      "end": 4719.03,
+      "lines": [
+        "But realization of the Personality of Godhead is",
+        "realization of all the transcendental features"
+      ]
+    },
+    {
+      "index": 483,
+      "start": 4719.03,
+      "end": 4729.15,
+      "lines": [
+        "like sat, cit and ānanda, in complete vigraha.",
+        "Vigraha means form. Therefore the complete whole"
+      ]
+    },
+    {
+      "index": 484,
+      "start": 4729.07,
+      "end": 4739.43,
+      "lines": [
+        "is not formless. If He is formless or if He is",
+        "less in any other thing, He cannot be complete"
+      ]
+    },
+    {
+      "index": 485,
+      "start": 4739.35,
+      "end": 4749.01,
+      "lines": [
+        "whole. The complete whole must have everything",
+        "within our experience and beyond our experience."
+      ]
+    },
+    {
+      "index": 486,
+      "start": 4749.01,
+      "end": 4757.35,
+      "lines": [
+        "Otherwise He cannot be complete.",
+        "The complete whole Personality of Godhead has immense"
+      ]
+    },
+    {
+      "index": 487,
+      "start": 4757.27,
+      "end": 4762.89,
+      "lines": [
+        "potencies.",
+        "Parāsya śaktir vividhaiva śrūyate (Śvetāśvatara"
+      ]
+    },
+    {
+      "index": 488,
+      "start": 4762.75,
+      "end": 4773.55,
+      "lines": [
+        "Upaniṣad 6.8). That is also explained in Bhagavad-gītā,",
+        "how He is acting in different potencies."
+      ]
+    },
+    {
+      "index": 489,
+      "start": 4773.55,
+      "end": 4783.03,
+      "lines": [
+        "This phenomenal world, or the material world,",
+        "where we are now put, is also complete by itself,"
+      ]
+    },
+    {
+      "index": 490,
+      "start": 4783.03,
+      "end": 4786.25,
+      "lines": [
+        "because pūrṇam idam'' (Īśopaniṣad,",
+        "Invocation)."
+      ]
+    },
+    {
+      "index": 491,
+      "start": 4786.25,
+      "end": 4791.85,
+      "lines": [
+        "The twenty-four elements of which,",
+        "according to Sāṅkhya philosophy,"
+      ]
+    },
+    {
+      "index": 492,
+      "start": 4791.85,
+      "end": 4800.19,
+      "lines": [
+        "the twenty-four elements of which this material",
+        "universe is a temporary manifestation are completely"
+      ]
+    },
+    {
+      "index": 493,
+      "start": 4800.11,
+      "end": 4811.33,
+      "lines": [
+        "adjusted to produce complete things which are necessary",
+        "for the maintenance and subsistence of this universe."
+      ]
+    },
+    {
+      "index": 494,
+      "start": 4811.33,
+      "end": 4820.53,
+      "lines": [
+        "No extraneous effort by any other unit is required",
+        "for the maintenance of the universe."
+      ]
+    },
+    {
+      "index": 495,
+      "start": 4820.47,
+      "end": 4832.19,
+      "lines": [
+        "It's at its own time, fixed up by the energy of",
+        "the complete whole, and when the time is complete,"
+      ]
+    },
+    {
+      "index": 496,
+      "start": 4832.19,
+      "end": 4842.01,
+      "lines": [
+        "these temporary manifestations will be annihilated",
+        "by the complete arrangement of the complete."
+      ]
+    },
+    {
+      "index": 497,
+      "start": 4842.01,
+      "end": 4850.93,
+      "lines": [
+        "There is complete facility for the small complete",
+        "units, namely, the living entities,"
+      ]
+    },
+    {
+      "index": 498,
+      "start": 4850.93,
+      "end": 4860.95,
+      "lines": [
+        "to realize the complete. And all sorts of incompleteness",
+        "is experienced on account of incomplete knowledge"
+      ]
+    },
+    {
+      "index": 499,
+      "start": 4860.87,
+      "end": 4869.14,
+      "lines": [
+        "of the complete.",
+        "So the Bhagavad-gītā is the complete knowledge"
+      ]
+    },
+    {
+      "index": 500,
+      "start": 4869.06,
+      "end": 4882.109,
+      "lines": [
+        "of the Vedic wisdom.",
+        "The whole Vedic knowledge is infallible."
+      ]
+    },
+    {
+      "index": 501,
+      "start": 4882.109,
+      "end": 4890.468,
+      "lines": [
+        "There are",
+        "different examples how we take Vedic knowledge"
+      ]
+    },
+    {
+      "index": 502,
+      "start": 4890.468,
+      "end": 4900.548,
+      "lines": [
+        "as infallible.",
+        "Take, for example, so far the Hindus are concerned,"
+      ]
+    },
+    {
+      "index": 503,
+      "start": 4900.548,
+      "end": 4912.65,
+      "lines": [
+        "and how they accept the Vedic knowledge as complete,",
+        "here is an insignificant example."
+      ]
+    },
+    {
+      "index": 504,
+      "start": 4912.65,
+      "end": 4922.39,
+      "lines": [
+        "Just like the cow dung. The cow dung is the stool",
+        "of an animal."
+      ]
+    },
+    {
+      "index": 505,
+      "start": 4922.39,
+      "end": 4931.59,
+      "lines": [
+        "According to smṛti, or Vedic wisdom,",
+        "if one touches the stool of an animal he has to"
+      ]
+    },
+    {
+      "index": 506,
+      "start": 4931.51,
+      "end": 4940.77,
+      "lines": [
+        "take his bath to purify himself.",
+        "But in the Vedic scriptures the cow dung is stated"
+      ]
+    },
+    {
+      "index": 507,
+      "start": 4940.69,
+      "end": 4954.436,
+      "lines": [
+        "as pure. Rather, impure place or impure things",
+        "are purified by touch of the cow dung."
+      ]
+    },
+    {
+      "index": 508,
+      "start": 4954.436,
+      "end": 4967.76,
+      "lines": [
+        "Now, if one argues how it is that in one place",
+        "it is said that the stool of the animal is impure"
+      ]
+    },
+    {
+      "index": 509,
+      "start": 4967.721,
+      "end": 4976.3,
+      "lines": [
+        "and another place it is said that the cow dung,",
+        "which is also the stool of an animal,"
+      ]
+    },
+    {
+      "index": 510,
+      "start": 4976.3,
+      "end": 4984.36,
+      "lines": [
+        "it is pure, so it is contradictory.",
+        "But actually, it may appear to be contradictory,"
+      ]
+    },
+    {
+      "index": 511,
+      "start": 4984.28,
+      "end": 4996.02,
+      "lines": [
+        "but because it is Vedic injunction,",
+        "therefore for our practical purposes we accept"
+      ]
+    },
+    {
+      "index": 512,
+      "start": 4995.94,
+      "end": 5000.26,
+      "lines": [
+        "it.",
+        "And by that"
+      ]
+    },
+    {
+      "index": 513,
+      "start": 5000.26,
+      "end": 5010.18,
+      "lines": [
+        "acceptance we are not committing mistake.",
+        "It has been found by modern chemist,"
+      ]
+    },
+    {
+      "index": 514,
+      "start": 5010.18,
+      "end": 5022.58,
+      "lines": [
+        "modern science, one Dr. Lal Mohan Ghosa,",
+        "he has very minutely analyzed the cow dung,"
+      ]
+    },
+    {
+      "index": 515,
+      "start": 5022.58,
+      "end": 5032.61,
+      "lines": [
+        "and he has found that cow dung is a composition",
+        "of all antiseptic properties."
+      ]
+    },
+    {
+      "index": 516,
+      "start": 5032.61,
+      "end": 5038.913,
+      "lines": [
+        "So similarly, he has also analyzed the water of",
+        "the Ganges"
+      ]
+    },
+    {
+      "index": 517,
+      "start": 5038.913,
+      "end": 5052.984,
+      "lines": [
+        "out of curiosity. So my idea is that Vedic knowledge",
+        "is complete because it is above all doubts and"
+      ]
+    },
+    {
+      "index": 518,
+      "start": 5052.984,
+      "end": 5060.04,
+      "lines": [
+        "all mistakes.",
+        "So . . . and Bhagavad-gītā is the essence of all"
+      ]
+    },
+    {
+      "index": 519,
+      "start": 5059.96,
+      "end": 5068.2,
+      "lines": [
+        "Vedic knowledge. The Vedic knowledge is therefore",
+        "infallible. It comes down through the perfect disciplic"
+      ]
+    },
+    {
+      "index": 520,
+      "start": 5068.12,
+      "end": 5076.2,
+      "lines": [
+        "succession. Therefore Vedic knowledge is not a",
+        "thing of research."
+      ]
+    },
+    {
+      "index": 521,
+      "start": 5076.2,
+      "end": 5083.744,
+      "lines": [
+        "Our research work is imperfect,",
+        "because we are searching everything with imperfect"
+      ]
+    },
+    {
+      "index": 522,
+      "start": 5083.744,
+      "end": 5091.68,
+      "lines": [
+        "senses. Therefore the result of our research work",
+        "is also imperfect. It cannot be perfect."
+      ]
+    },
+    {
+      "index": 523,
+      "start": 5091.68,
+      "end": 5099.12,
+      "lines": [
+        "We have to accept the perfect knowledge.",
+        "The perfect knowledge is coming down,"
+      ]
+    },
+    {
+      "index": 524,
+      "start": 5099.12,
+      "end": 5106.2,
+      "lines": [
+        "as it is stated in the Bhagavad-gītā,",
+        "just we have begun, evaṁ paramparā-prāptam imaṁ"
+      ]
+    },
+    {
+      "index": 525,
+      "start": 5106.12,
+      "end": 5116.18,
+      "lines": [
+        "rājarṣayo viduḥ (BG 4.2). We have to receive the",
+        "knowledge from the right source in disciplic succession"
+      ]
+    },
+    {
+      "index": 526,
+      "start": 5116.1,
+      "end": 5126.36,
+      "lines": [
+        "of spiritual masters beginning from the Lord Himself.",
+        "So Bhagavad-gītā is spoken by the Lord Himself."
+      ]
+    },
+    {
+      "index": 527,
+      "start": 5126.28,
+      "end": 5137.66,
+      "lines": [
+        "And Arjuna, the . . . I mean to say,",
+        "the student who took lessons of the Bhagavad-gītā,"
+      ]
+    },
+    {
+      "index": 528,
+      "start": 5137.66,
+      "end": 5146.5,
+      "lines": [
+        "he accepted the whole story as it is,",
+        "without any cutting."
+      ]
+    },
+    {
+      "index": 529,
+      "start": 5146.5,
+      "end": 5156.58,
+      "lines": [
+        "That is also not allowed, that we accept a certain",
+        "portion of Bhagavad-gītā and reject another portion."
+      ]
+    },
+    {
+      "index": 530,
+      "start": 5156.58,
+      "end": 5166.94,
+      "lines": [
+        "That is also not accepted. We must accept the Bhagavad-gītā",
+        "without interpretation, without any cutting,"
+      ]
+    },
+    {
+      "index": 531,
+      "start": 5166.94,
+      "end": 5177.56,
+      "lines": [
+        "and without our own whimsical participation in",
+        "the matter, because it should be taken as the most"
+      ]
+    },
+    {
+      "index": 532,
+      "start": 5177.48,
+      "end": 5184.48,
+      "lines": [
+        "perfect Vedic knowledge. The Vedic knowledge is",
+        "received from the transcendental sources,"
+      ]
+    },
+    {
+      "index": 533,
+      "start": 5184.4,
+      "end": 5194.73,
+      "lines": [
+        "because the first word was spoken by the Lord Himself.",
+        "The words spoken by the Lord is called apauruṣeya"
+      ]
+    },
+    {
+      "index": 534,
+      "start": 5194.671,
+      "end": 5203.66,
+      "lines": [
+        "(not made by man), or not delivered by any person",
+        "of the mundane world, who is infected with four"
+      ]
+    },
+    {
+      "index": 535,
+      "start": 5203.58,
+      "end": 5211.96,
+      "lines": [
+        "principles of imperfectness.",
+        "A living being of the mundane world has four defective"
+      ]
+    },
+    {
+      "index": 536,
+      "start": 5211.88,
+      "end": 5218.6,
+      "lines": [
+        "principles of his life, and they are:",
+        "(1) that he must commit mistake,"
+      ]
+    },
+    {
+      "index": 537,
+      "start": 5218.56,
+      "end": 5224.074,
+      "lines": [
+        "(2)",
+        "he must be sometimes illusioned,"
+      ]
+    },
+    {
+      "index": 538,
+      "start": 5224.074,
+      "end": 5233.1,
+      "lines": [
+        "(3) he must try to cheat others,",
+        "and (4) he's endowed with imperfect senses."
+      ]
+    },
+    {
+      "index": 539,
+      "start": 5233.1,
+      "end": 5242.7,
+      "lines": [
+        "With all these four principles of imperfectness,",
+        "one cannot deliver the perfect form of information"
+      ]
+    },
+    {
+      "index": 540,
+      "start": 5242.62,
+      "end": 5250.36,
+      "lines": [
+        "in the matter of all-pervading knowledge.",
+        "The Vedas are not like that."
+      ]
+    },
+    {
+      "index": 541,
+      "start": 5250.36,
+      "end": 5258.92,
+      "lines": [
+        "The Vedic knowledge was imparted in the heart of",
+        "Brahmā, the first created living being."
+      ]
+    },
+    {
+      "index": 542,
+      "start": 5258.92,
+      "end": 5269.593,
+      "lines": [
+        "And Brahmā in his turn disseminated the knowledge",
+        "to his sons and disciples as they were originally"
+      ]
+    },
+    {
+      "index": 543,
+      "start": 5269.534,
+      "end": 5276.36,
+      "lines": [
+        "received from the Lord. The Lord,",
+        "being pūrṇam, or all-perfect,"
+      ]
+    },
+    {
+      "index": 544,
+      "start": 5276.36,
+      "end": 5283.46,
+      "lines": [
+        "there is no chance of His becoming subjected to",
+        "the laws of material nature."
+      ]
+    },
+    {
+      "index": 545,
+      "start": 5283.46,
+      "end": 5294.06,
+      "lines": [
+        "One should therefore be intelligent enough to know",
+        "that except the Lord, nobody is the proprietor"
+      ]
+    },
+    {
+      "index": 546,
+      "start": 5293.98,
+      "end": 5300.337,
+      "lines": [
+        "of anything within the universe.",
+        "That is explained in the Bhagavad-gītā:"
+      ]
+    },
+    {
+      "index": 547,
+      "start": 5300.337,
+      "end": 5310.097,
+      "lines": [
+        "ahaṁ sarvasya prabhavo mattaḥ sarvaṁ pravartate",
+        "iti matvā bhajante māṁ budhā bhāva-samanvitāḥ (BG"
+      ]
+    },
+    {
+      "index": 548,
+      "start": 5310.057,
+      "end": 5320.41,
+      "lines": [
+        "10.8) The Lord is the original creator.",
+        "He is the creator of Brahmā,"
+      ]
+    },
+    {
+      "index": 549,
+      "start": 5320.41,
+      "end": 5326.43,
+      "lines": [
+        "He is the creator . . . that is also explained.",
+        "He is the creator of Brahmā."
+      ]
+    },
+    {
+      "index": 550,
+      "start": 5326.43,
+      "end": 5334.85,
+      "lines": [
+        "In the Eleventh Chapter the Lord is addressed as",
+        "prapitāmaha (BG 11.39). Because Brahmā is addressed"
+      ]
+    },
+    {
+      "index": 551,
+      "start": 5334.77,
+      "end": 5342.19,
+      "lines": [
+        "as pitāmaha, the grandfather,",
+        "but He is the creator of the grandfather also."
+      ]
+    },
+    {
+      "index": 552,
+      "start": 5342.19,
+      "end": 5351.29,
+      "lines": [
+        "So nobody should claim to be the proprietor of",
+        "anything, but he must accept things which are set"
+      ]
+    },
+    {
+      "index": 553,
+      "start": 5351.21,
+      "end": 5358.56,
+      "lines": [
+        "aside by the Lord as his quota of maintenance.",
+        "Now,"
+      ]
+    },
+    {
+      "index": 554,
+      "start": 5358.56,
+      "end": 5374.21,
+      "lines": [
+        "there are many examples how we have to",
+        "utilize the allotment of the Lord."
+      ]
+    },
+    {
+      "index": 555,
+      "start": 5374.21,
+      "end": 5390.0,
+      "lines": [
+        "That is also explained in the Bhagavad-gītā.",
+        "Arjuna, he decided in the beginning that he should"
+      ]
+    },
+    {
+      "index": 556,
+      "start": 5389.92,
+      "end": 5401.82,
+      "lines": [
+        "not fight. That was his own contemplation.",
+        "Arjuna said to the Lord that it was not possible"
+      ]
+    },
+    {
+      "index": 557,
+      "start": 5401.74,
+      "end": 5415.38,
+      "lines": [
+        "for him to enjoy the kingdom after killing his",
+        "own kinsmen. And that point of view was due to"
+      ]
+    },
+    {
+      "index": 558,
+      "start": 5415.3,
+      "end": 5429.18,
+      "lines": [
+        "his conception of the body. Because he was thinking",
+        "that the body was himself and the bodily relatives—his"
+      ]
+    },
+    {
+      "index": 559,
+      "start": 5429.12,
+      "end": 5440.2,
+      "lines": [
+        "brothers, his nephews, his father-in-law or his",
+        "grandfather—they were expansion of his body,"
+      ]
+    },
+    {
+      "index": 560,
+      "start": 5440.2,
+      "end": 5448.08,
+      "lines": [
+        "and he was thinking in that way to satisfy his",
+        "bodily demands."
+      ]
+    },
+    {
+      "index": 561,
+      "start": 5448.08,
+      "end": 5460.74,
+      "lines": [
+        "And the whole thing was spoken by the Lord just",
+        "to change the view. And he agreed to work under"
+      ]
+    },
+    {
+      "index": 562,
+      "start": 5460.66,
+      "end": 5472.54,
+      "lines": [
+        "the direction of the Lord. And he said,",
+        "kariṣye vacanaṁ tava (BG 19.73)."
+      ]
+    },
+    {
+      "index": 563,
+      "start": 5472.54,
+      "end": 5481.6,
+      "lines": [
+        "Therefore in this world the human being is not",
+        "meant for quarreling like the cats and dogs."
+      ]
+    },
+    {
+      "index": 564,
+      "start": 5481.6,
+      "end": 5491.54,
+      "lines": [
+        "They must be intelligent enough to realize the",
+        "importance of the human life and refuse to act"
+      ]
+    },
+    {
+      "index": 565,
+      "start": 5491.46,
+      "end": 5498.22,
+      "lines": [
+        "like ordinary animal. He should .",
+        ". . a human being should realize the aim of human"
+      ]
+    },
+    {
+      "index": 566,
+      "start": 5498.14,
+      "end": 5508.06,
+      "lines": [
+        "life. This direction is given in all the Vedic",
+        "literature, and the essence is given in the Bhagavad-gītā."
+      ]
+    },
+    {
+      "index": 567,
+      "start": 5508.06,
+      "end": 5514.26,
+      "lines": [
+        "Vedic literature are meant for the human being",
+        "and not for the cats and dogs."
+      ]
+    },
+    {
+      "index": 568,
+      "start": 5514.26,
+      "end": 5522.26,
+      "lines": [
+        "The cats and dogs can kill their",
+        "eatable animals, and for that there is no question"
+      ]
+    },
+    {
+      "index": 569,
+      "start": 5522.18,
+      "end": 5533.16,
+      "lines": [
+        "of sin on their part. But if a man kills an animal",
+        "for the satisfaction of his uncontrolled taste,"
+      ]
+    },
+    {
+      "index": 570,
+      "start": 5533.16,
+      "end": 5542.28,
+      "lines": [
+        "he must be responsible for breaking the laws of",
+        "nature. And in the Bhagavad-gītā"
+      ]
+    },
+    {
+      "index": 571,
+      "start": 5542.28,
+      "end": 5552.46,
+      "lines": [
+        "it is clearly explained that there are three kinds",
+        "of activities according to the different modes"
+      ]
+    },
+    {
+      "index": 572,
+      "start": 5552.38,
+      "end": 5562.14,
+      "lines": [
+        "of nature: the activities of goodness,",
+        "the activities of passion, the activities of ignorance."
+      ]
+    },
+    {
+      "index": 573,
+      "start": 5562.14,
+      "end": 5574.5,
+      "lines": [
+        "Similarly, there are three kinds of eatables also:",
+        "eatables in goodness, eatables on passion,"
+      ]
+    },
+    {
+      "index": 574,
+      "start": 5574.5,
+      "end": 5587.1,
+      "lines": [
+        "eatables on ignorance. They're all clearly described,",
+        "and if we properly utilize the instructions of"
+      ]
+    },
+    {
+      "index": 575,
+      "start": 5587.02,
+      "end": 5600.66,
+      "lines": [
+        "the Bhagavad-gītā, then our whole life will become",
+        "purified and ultimately we shall (be) able to reach"
+      ]
+    },
+    {
+      "index": 576,
+      "start": 5600.58,
+      "end": 5609.36,
+      "lines": [
+        "the destination: yad gatvā na nivartante tad dhāma",
+        "paramaṁ mama (BG 15.6). That information is given"
+      ]
+    },
+    {
+      "index": 577,
+      "start": 5609.28,
+      "end": 5617.58,
+      "lines": [
+        "in the Bhagavad-gītā, that beyond this spiritual",
+        ". . . material sky, there is another,"
+      ]
+    },
+    {
+      "index": 578,
+      "start": 5617.5,
+      "end": 5624.73,
+      "lines": [
+        "spiritual sky: that is called sanātana sky.",
+        "In this sky, this covered sky,"
+      ]
+    },
+    {
+      "index": 579,
+      "start": 5624.73,
+      "end": 5632.44,
+      "lines": [
+        "we find everything temporary.",
+        "It is manifested, it stays for some time,"
+      ]
+    },
+    {
+      "index": 580,
+      "start": 5632.44,
+      "end": 5645.48,
+      "lines": [
+        "gives us some by-product, and then it becomes dwindling",
+        "and then vanishes. That is the law of this material"
+      ]
+    },
+    {
+      "index": 581,
+      "start": 5645.4,
+      "end": 5652.84,
+      "lines": [
+        "world. You take this body, you take a fruit or",
+        "anything what is created here,"
+      ]
+    },
+    {
+      "index": 582,
+      "start": 5652.84,
+      "end": 5661.98,
+      "lines": [
+        "it has got its annihilation at the end.",
+        "So beyond this temporary world there is another"
+      ]
+    },
+    {
+      "index": 583,
+      "start": 5661.9,
+      "end": 5666.8,
+      "lines": [
+        "world, for which the information is there,",
+        "that paras tasmāt tu bhāvaḥ anyaḥ (BG 8.20)."
+      ]
+    },
+    {
+      "index": 584,
+      "start": 5666.42,
+      "end": 5676.78,
+      "lines": [
+        "There is another nature",
+        "which is eternal, sanātana. Which is eternal."
+      ]
+    },
+    {
+      "index": 585,
+      "start": 5676.78,
+      "end": 5685.69,
+      "lines": [
+        "And the jiva . . . jīva is also described as sanātana.",
+        "Mamaivāṁśo jīva-bhūtaḥ jīva-loke sanātanaḥ (BG"
+      ]
+    },
+    {
+      "index": 586,
+      "start": 5685.631,
+      "end": 5695.18,
+      "lines": [
+        "15.7). Sanātana. Sanātana means eternal.",
+        "And the Lord is also described as sanātana in the"
+      ]
+    },
+    {
+      "index": 587,
+      "start": 5695.121,
+      "end": 5707.78,
+      "lines": [
+        "Eleventh Chapter. So because we have got intimate",
+        "relation with the Lord"
+      ]
+    },
+    {
+      "index": 588,
+      "start": 5707.78,
+      "end": 5715.1,
+      "lines": [
+        "and we are all qualitatively one .",
+        ". . the sanātana-dhama and the sanātana Supreme"
+      ]
+    },
+    {
+      "index": 589,
+      "start": 5715.02,
+      "end": 5726.64,
+      "lines": [
+        "Personality and the sanātana living entities,",
+        "they are on the same qualitatively plane."
+      ]
+    },
+    {
+      "index": 590,
+      "start": 5726.64,
+      "end": 5735.14,
+      "lines": [
+        "Therefore the whole target of Bhagavad-gītā is",
+        "to revive our sanātana occupation,"
+      ]
+    },
+    {
+      "index": 591,
+      "start": 5735.06,
+      "end": 5743.42,
+      "lines": [
+        "or sanātana . . . that is called sanātana-dharma,",
+        "or eternal occupation of the living entity."
+      ]
+    },
+    {
+      "index": 592,
+      "start": 5743.42,
+      "end": 5752.42,
+      "lines": [
+        "We are now temporarily engaged in different activities,",
+        "and all these activities being purified,"
+      ]
+    },
+    {
+      "index": 593,
+      "start": 5752.42,
+      "end": 5759.04,
+      "lines": [
+        "when we give up all these temporary activities,",
+        "sarva-dharmān parityajya (BG 18.66),"
+      ]
+    },
+    {
+      "index": 594,
+      "start": 5759.04,
+      "end": 5768.44,
+      "lines": [
+        "and when we take up the activity as desired by",
+        "the Supreme Lord, that is called our pure life."
+      ]
+    },
+    {
+      "index": 595,
+      "start": 5768.36,
+      "end": 5769.56,
+      "lines": [
+        "(break)"
+      ]
+    }
+  ]
+}
