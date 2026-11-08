@@ -112,9 +112,24 @@ export function useTranscript() {
         `https://vanisource.org/w/api.php?action=parse&page=${pageTitle}` +
         `&prop=wikitext&format=json` +
         (Platform.OS !== 'web' ? '&origin=*' : '');
-      const res = await fetch(apiUrl, { signal });
-      if (!res.ok) throw new Error(`Network error ${res.status}`);
-      const json = await res.json();
+      // React Native's Android HTTP client has no timeouts at all. After the
+      // phone has been idle, a request can sit on a dead connection forever,
+      // which left the screen on "Loading transcript…" with no audio controls.
+      // Give up after 20 s and show the Retry button instead.
+      const controller = abortRef.current!;
+      let timedOut = false;
+      const timeout = setTimeout(() => { timedOut = true; controller.abort(); }, 20000);
+      let json: any;
+      try {
+        const res = await fetch(apiUrl, { signal });
+        if (!res.ok) throw new Error(`Network error ${res.status}`);
+        json = await res.json();
+      } catch (e: any) {
+        if (timedOut) throw new Error('The connection timed out. Check the internet and retry.');
+        throw e;
+      } finally {
+        clearTimeout(timeout);
+      }
 
       const wikitext: string = json?.parse?.wikitext?.['*'];
       if (!wikitext) throw new Error('No transcript content returned');
@@ -131,7 +146,9 @@ export function useTranscript() {
       if (e.name !== 'AbortError') setError(e.message ?? 'Failed to load');
     } finally {
       clearTimeout(spinnerTimer);
-      if (!signal.aborted) setLoading(false);
+      // Superseded by a newer fetch: that one owns the spinner. A timeout
+      // also aborts, but this fetch is still the current one.
+      if (abortRef.current?.signal === signal) setLoading(false);
     }
   }, []);
 

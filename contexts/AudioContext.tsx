@@ -8,6 +8,7 @@ import { Lecture, Recording } from '../data/types';
 import { audioEvents } from '../utils/audioEvents';
 import { getNotificationArt } from '../components/TypeThumb';
 import { useAutoPlayNext } from '../hooks/useAutoPlayNext';
+import { playOrRecover } from '../service';
 
 export interface AudioState {
   recording: Recording | null;
@@ -153,7 +154,8 @@ export function AudioProvider({ children }: { children: React.ReactNode }) {
   }, []);
 
   const pause = useCallback(() => TrackPlayer.pause().catch(() => {}), []);
-  const resume = useCallback(() => TrackPlayer.play().catch(() => {}), []);
+  // Recovers a player that errored while paused (see playOrRecover).
+  const resume = useCallback(() => playOrRecover().catch(() => {}), []);
   const seek = useCallback(async (ms: number) => {
     await TrackPlayer.seekTo(ms / 1000).catch(() => {});
   }, []);

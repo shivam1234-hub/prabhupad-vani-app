@@ -9,7 +9,6 @@ import { useTheme, useThemeColors } from '../../contexts/ThemeContext';
 import type { ThemeColors } from '../../theme/palette';
 import { useHistory, HistoryEntry } from '../../contexts/HistoryContext';
 import { useAudioMeta, useAudioPosition } from '../../contexts/AudioContext';
-import { useDownload } from '../../contexts/DownloadContext';
 import { useAllRecordings } from '../../hooks/useAllRecordings';
 import { getTypeMeta, Recording } from '../../data/types';
 import { formatMs, formatRelativeTime } from '../../utils/time';
@@ -63,16 +62,12 @@ export default function HomeScreen() {
   const insets = useSafeAreaInsets();
   const { isDark, toggle: toggleTheme } = useTheme();
   const { history } = useHistory();
-  const { totalCount } = useDownload();
-  const { getById } = useAllRecordings();
+  const { getById, all } = useAllRecordings();
   const audio = useAudioMeta();
 
   const nowId = audio.lecture ? (audio.lecture.pvId ?? audio.lecture.id) : null;
 
-  const { inProgress, completedCount } = useMemo(() => ({
-    inProgress: history.filter(isInProgress),
-    completedCount: history.filter(isCompleted).length,
-  }), [history]);
+  const inProgress = useMemo(() => history.filter(isInProgress), [history]);
 
   // Hero: the live player if something is loaded, else the newest unfinished
   // lecture from any day (so an older one is still one tap away).
@@ -110,22 +105,21 @@ export default function HomeScreen() {
           }
         />
 
+        <TouchableOpacity
+          style={styles.searchPill}
+          onPress={() => router.push('/browse')}
+          activeOpacity={0.8}
+          accessibilityRole="search"
+        >
+          <Ionicons name="search" size={18} color={c.textDim} />
+          <Text style={styles.searchPillText}>Search {all.length.toLocaleString('en-IN')} lectures</Text>
+        </TouchableOpacity>
+
         {audio.lecture ? (
           <NowPlayingCard />
         ) : resumeHero ? (
           <ResumeHeroCard entry={resumeHero} recording={getById(resumeHero.id)} />
         ) : null}
-
-        {!isEmpty && (
-          <View style={styles.statsRow}>
-            <StatTile icon="hourglass-outline" value={inProgress.length} label="In progress" color={c.accent} />
-            <StatTile icon="checkmark-done" value={completedCount} label="Completed" color={c.success} />
-            <StatTile
-              icon="cloud-download-outline" value={totalCount} label="Offline" color={c.link}
-              onPress={() => router.push('/downloads')}
-            />
-          </View>
-        )}
 
         {continueList.length > 0 && (
           <Section title="Continue listening" tag="Today" count={continueList.length}>
@@ -162,12 +156,6 @@ export default function HomeScreen() {
 
         {isEmpty && <EmptyWelcome />}
 
-        {!isEmpty && (
-          <View style={styles.exploreRow}>
-            <ExploreButton icon="library-outline" label="Browse library" onPress={() => router.push('/library')} />
-            <ExploreButton icon="search-outline" label="Search lectures" onPress={() => router.push('/browse')} />
-          </View>
-        )}
       </ScrollView>
     </View>
   );
@@ -203,7 +191,7 @@ function NowPlayingCard() {
         </View>
       </View>
       <View style={styles.heroMain}>
-        <TypeThumb type={lec.type} size={76} radius={16} />
+        <HeroCover type={lec.type} />
         <View style={styles.heroText}>
           <Text style={styles.heroTitle} numberOfLines={3}>{lec.title}</Text>
           <Text style={styles.heroMeta} numberOfLines={1}>
@@ -228,6 +216,23 @@ function NowPlayingCard() {
           />
         </TouchableOpacity>
       </View>
+    </TouchableOpacity>
+  );
+}
+
+// Tapping the cover opens that lecture's collection list (same screen the
+// Library cards open); tapping anywhere else on the card opens the lecture.
+function HeroCover({ type }: { type: string }) {
+  const meta = getTypeMeta(type);
+  return (
+    <TouchableOpacity
+      onPress={() => router.push(`/category/${type}` as any)}
+      activeOpacity={0.75}
+      hitSlop={6}
+      accessibilityRole="button"
+      accessibilityLabel={`Open ${meta.label} list`}
+    >
+      <TypeThumb type={type} size={76} radius={16} />
     </TouchableOpacity>
   );
 }
@@ -277,7 +282,7 @@ function ResumeHeroCard({ entry, recording }: { entry: HistoryEntry; recording?:
         </View>
       </View>
       <View style={styles.heroMain}>
-        <TypeThumb type={entry.type} size={76} radius={16} />
+        <HeroCover type={entry.type} />
         <View style={styles.heroText}>
           <Text style={styles.heroTitle} numberOfLines={3}>{entry.title}</Text>
           <Text style={styles.heroMeta} numberOfLines={1}>
@@ -397,33 +402,6 @@ function RecentRow({ entry, recording, last }: { entry: HistoryEntry; recording?
   );
 }
 
-function StatTile({
-  icon, value, label, color, onPress,
-}: {
-  icon: string; value: number; label: string; color: string; onPress?: () => void;
-}) {
-  const c = useThemeColors();
-  const styles = useMemo(() => makeStyles(c), [c]);
-  return (
-    <TouchableOpacity style={styles.stat} onPress={onPress} disabled={!onPress} activeOpacity={0.75}>
-      <Ionicons name={icon as any} size={16} color={color} />
-      <Text style={styles.statValue}>{value}</Text>
-      <Text style={styles.statLabel}>{label}</Text>
-    </TouchableOpacity>
-  );
-}
-
-function ExploreButton({ icon, label, onPress }: { icon: string; label: string; onPress: () => void }) {
-  const c = useThemeColors();
-  const styles = useMemo(() => makeStyles(c), [c]);
-  return (
-    <TouchableOpacity style={styles.exploreBtn} onPress={onPress} activeOpacity={0.8}>
-      <Ionicons name={icon as any} size={18} color={c.accent} />
-      <Text style={styles.exploreText}>{label}</Text>
-    </TouchableOpacity>
-  );
-}
-
 function EmptyWelcome() {
   const c = useThemeColors();
   const styles = useMemo(() => makeStyles(c), [c]);
@@ -494,15 +472,6 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
     elevation: 4,
   },
 
-  // Stats
-  statsRow: { flexDirection: 'row', gap: 10, paddingHorizontal: 20, marginTop: 16 },
-  stat: {
-    flex: 1, gap: 2, paddingVertical: 12, paddingHorizontal: 12,
-    borderRadius: 16, borderWidth: 1, borderColor: c.border, backgroundColor: c.card,
-  },
-  statValue: { color: c.textPrimary, fontSize: 20, fontWeight: '800', marginTop: 4 },
-  statLabel: { color: c.textDim, fontSize: 11, fontWeight: '600' },
-
   // Sections
   section: { marginTop: 26, gap: 12 },
   sectionHead: { flexDirection: 'row', alignItems: 'center', gap: 8, paddingHorizontal: 20 },
@@ -543,14 +512,13 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
   recentTitle: { color: c.textSecondary, fontSize: 14, fontWeight: '700' },
   recentMeta: { color: c.textDim, fontSize: 12 },
 
-  // Explore
-  exploreRow: { flexDirection: 'row', gap: 10, paddingHorizontal: 20, marginTop: 24 },
-  exploreBtn: {
-    flex: 1, flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8,
-    paddingVertical: 14, borderRadius: 16, borderWidth: 1,
-    borderColor: c.accent + '40', backgroundColor: c.accent + '10',
+  // Search pill
+  searchPill: {
+    flexDirection: 'row', alignItems: 'center', gap: 10,
+    marginHorizontal: 20, marginBottom: 16, paddingHorizontal: 16, height: 48,
+    borderRadius: 24, borderWidth: 1, borderColor: c.border, backgroundColor: c.card,
   },
-  exploreText: { color: c.accent, fontSize: 14, fontWeight: '700' },
+  searchPillText: { color: c.textDim, fontSize: 15, fontWeight: '500' },
 
   // Empty
   welcome: {
