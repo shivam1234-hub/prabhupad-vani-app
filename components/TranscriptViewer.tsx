@@ -22,7 +22,7 @@ interface Props {
   lecture: Lecture;
   accentColor: string;
   resumeMs?: number;
-  scrollRef?: React.RefObject<ScrollView>;
+  scrollRef?: React.RefObject<ScrollView | null>;
   /** Live-updated current scroll offset of `scrollRef`'s ScrollView (see
    * app/lecture/[id].tsx's onScroll), used by jumpToLine to compute an
    * absolute target offset without relying on cross-component measureLayout. */

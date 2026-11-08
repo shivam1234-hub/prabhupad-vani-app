@@ -10,6 +10,7 @@ import { StatusBar } from 'expo-status-bar';
 import { Ionicons } from '@expo/vector-icons';
 import * as WebBrowser from 'expo-web-browser';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
+import { AutoScrollControl, useAutoScroll, useAutoScrollSpeed } from '../../components/AutoScroll';
 import { useAudioMeta, useAudioPosition } from '../../contexts/AudioContext';
 import { useAllRecordings } from '../../hooks/useAllRecordings';
 import { useDownload } from '../../contexts/DownloadContext';
@@ -204,6 +205,35 @@ export default function LectureDetail() {
     if (advancingTo) router.replace(`/lecture/${advancingTo}` as any);
   }, [advancingTo]);
 
+  // Auto-scroll: constant-speed scrolling while this lecture plays (or
+  // freely, for reading, when its audio isn't loaded). Hooks stay above the
+  // early return below.
+  const [autoScrollOn, setAutoScrollOn] = useState(false);
+  // The speed control hides itself a few seconds after the last touch, so it
+  // doesn't sit over the text; a tap on the page or the toolbar button
+  // brings it back.
+  const [controlVisible, setControlVisible] = useState(false);
+  const hideTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const showControl = useCallback(() => {
+    setControlVisible(true);
+    if (hideTimer.current) clearTimeout(hideTimer.current);
+    hideTimer.current = setTimeout(() => setControlVisible(false), 3000);
+  }, []);
+  useEffect(() => () => { if (hideTimer.current) clearTimeout(hideTimer.current); }, []);
+  const tapStart = useRef<{ x: number; y: number; t: number } | null>(null);
+  const autoSpeed = useAutoScrollSpeed();
+  const draggingRef = useRef(false);
+  const maxYRef = useRef(0);
+  const contentHRef = useRef(0);
+  const viewHRef = useRef(0);
+  const thisAudioLoaded = !!recording && audio.lecture?.id === recording.id;
+  const autoScrollRunning = autoScrollOn && (!thisAudioLoaded || audio.isPlaying);
+  useAutoScroll({
+    scrollRef, scrollYRef, draggingRef, maxYRef,
+    running: autoScrollRunning, level: autoSpeed.level,
+  });
+  const updateMaxY = () => { maxYRef.current = contentHRef.current - viewHRef.current; };
+
   if (!recording || !meta) {
     return (
       <View style={styles.notFound}>
@@ -271,6 +301,24 @@ export default function LectureDetail() {
       keyboardShouldPersistTaps="handled"
       onScroll={(e) => { scrollYRef.current = e.nativeEvent.contentOffset.y; }}
       scrollEventThrottle={16}
+      onScrollBeginDrag={() => { draggingRef.current = true; }}
+      // A quick tap anywhere (no drag) brings the hidden speed control back.
+      onTouchStart={(e) => {
+        const { pageX, pageY } = e.nativeEvent;
+        tapStart.current = { x: pageX, y: pageY, t: Date.now() };
+      }}
+      onTouchEnd={(e) => {
+        const st = tapStart.current;
+        tapStart.current = null;
+        if (!autoScrollOn || !st) return;
+        const { pageX, pageY } = e.nativeEvent;
+        if (Date.now() - st.t < 300 && Math.abs(pageX - st.x) < 10 && Math.abs(pageY - st.y) < 10) {
+          showControl();
+        }
+      }}
+      onScrollEndDrag={() => { draggingRef.current = false; }}
+      onContentSizeChange={(_w, h) => { contentHRef.current = h; updateMaxY(); }}
+      onLayout={(e) => { viewHRef.current = e.nativeEvent.layout.height; updateMaxY(); }}
     >
       {!focusMode && (<>
       {/* Hero */}
@@ -542,7 +590,23 @@ export default function LectureDetail() {
         </TouchableOpacity>
 
         <TouchableOpacity
-          onPress={() => setHighlightEnabled(v => !v)}
+          onPress={() => {
+            // On but its control hidden: just show the control again.
+            if (autoScrollOn && !controlVisible) { showControl(); return; }
+            const next = !autoScrollOn;
+            setAutoScrollOn(next);
+            if (next) showControl(); else setControlVisible(false);
+            // Following the spoken line would fight a constant-speed scroll.
+            setHighlightEnabled(false);
+          }}
+          style={[styles.toolBtn, autoScrollOn && { backgroundColor: accent + '22', borderColor: accent }]}
+          accessibilityLabel="Auto-scroll the transcript"
+        >
+          <Ionicons name="arrow-down-circle-outline" size={18} color={autoScrollOn ? accent : c.textMuted} />
+        </TouchableOpacity>
+
+        <TouchableOpacity
+          onPress={() => { setHighlightEnabled(v => !v); setAutoScrollOn(false); }}
           style={[styles.toolBtn, highlightEnabled && { backgroundColor: accent + '22', borderColor: accent }]}
           accessibilityLabel="Follow the spoken line"
         >
@@ -626,6 +690,18 @@ export default function LectureDetail() {
           <Ionicons name="contract-outline" size={18} color={c.textMuted} />
         </TouchableOpacity>
       </>
+    )}
+
+    {autoScrollOn && controlVisible && (
+      <AutoScrollControl
+        level={autoSpeed.level}
+        max={autoSpeed.max}
+        onChange={(n) => { autoSpeed.setLevel(n); showControl(); }}
+        onClose={() => { setAutoScrollOn(false); setControlVisible(false); }}
+        waiting={!autoScrollRunning}
+        accent={accent}
+        bottom={insets.bottom + (audio.recording && !focusMode ? 156 : 20)}
+      />
     )}
 
     <WordDefinitionSheet

@@ -26,3 +26,7 @@ post-commit-scripts/
 .DS_Store
 *.apk
 *.aab
+
+# durations build script cache
+scripts/.durations-cache.json
+scripts/__pycache__/

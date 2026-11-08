@@ -105,15 +105,29 @@ export default function HomeScreen() {
           }
         />
 
-        <TouchableOpacity
-          style={styles.searchPill}
-          onPress={() => router.push('/browse')}
-          activeOpacity={0.8}
-          accessibilityRole="search"
-        >
-          <Ionicons name="search" size={18} color={c.textDim} />
-          <Text style={styles.searchPillText}>Search {all.length.toLocaleString('en-IN')} lectures</Text>
-        </TouchableOpacity>
+        <View style={styles.searchRow}>
+          <TouchableOpacity
+            style={styles.searchPill}
+            onPress={() => router.push('/browse')}
+            activeOpacity={0.8}
+            accessibilityRole="search"
+          >
+            <Ionicons name="search" size={18} color={c.textDim} />
+            <Text style={styles.searchPillText} numberOfLines={1}>
+              Search {all.length.toLocaleString('en-IN')} lectures
+            </Text>
+          </TouchableOpacity>
+          <TouchableOpacity
+            style={styles.lengthBtn}
+            onPress={() => router.push('/by-length' as any)}
+            activeOpacity={0.8}
+            accessibilityRole="button"
+            accessibilityLabel="Find lectures by length"
+          >
+            <Ionicons name="time-outline" size={18} color={c.accent} />
+            <Text style={styles.lengthBtnText}>By length</Text>
+          </TouchableOpacity>
+        </View>
 
         {audio.lecture ? (
           <NowPlayingCard />
@@ -513,11 +527,18 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
   recentMeta: { color: c.textDim, fontSize: 12 },
 
   // Search pill
+  searchRow: { flexDirection: 'row', gap: 10, marginHorizontal: 20, marginBottom: 16 },
   searchPill: {
-    flexDirection: 'row', alignItems: 'center', gap: 10,
-    marginHorizontal: 20, marginBottom: 16, paddingHorizontal: 16, height: 48,
+    flex: 1, flexDirection: 'row', alignItems: 'center', gap: 10,
+    paddingHorizontal: 16, height: 48,
     borderRadius: 24, borderWidth: 1, borderColor: c.border, backgroundColor: c.card,
   },
+  lengthBtn: {
+    flexDirection: 'row', alignItems: 'center', gap: 6,
+    paddingHorizontal: 14, height: 48, borderRadius: 24,
+    borderWidth: 1, borderColor: c.accent + '50', backgroundColor: c.accent + '12',
+  },
+  lengthBtnText: { color: c.accent, fontSize: 14, fontWeight: '700' },
   searchPillText: { color: c.textDim, fontSize: 15, fontWeight: '500' },
 
   // Empty

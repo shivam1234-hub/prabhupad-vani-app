@@ -15,17 +15,19 @@ An Android app (with a Windows desktop version) for listening to **Srila Prabhup
 - **1,412 lectures:** 454 on Bhagavad-gita and 958 on Srimad-Bhagavatam, plus conversations and morning walks. Audio and transcripts come from vanisource.org.
 - **Library:** browse by category, with Bhagavad-gita, Srimad-Bhagavatam and Caitanya-caritamrta covers. Filter by type, year and place.
 - **Search** across every lecture.
+- **Find by length:** type how many minutes you have and get the lectures closest to that length, grouped by Bhagavad-gita, Srimad-Bhagavatam, Caitanya-caritamrta and the rest.
 - **Downloads** for offline listening.
 - **History**, with the resume position for every lecture.
 
 ### Listening
 - Full audio player: seek, skip 15 seconds back or forward, playback speed, and lectures in several parts.
 - **Mini player** that stays visible on every screen while audio plays.
-- **Background playback** with lock-screen and notification controls (BG, SB and CC cover art).
+- **Background playback** with lock-screen and notification controls (BG, SB and CC cover art), and play/pause from Bluetooth or wired earphones.
 - **Autoplay** of the next lecture, with the open transcript following along.
 
 ### Reading along
 - **Transcript** shown with the audio, with search-with-arrows to jump between matches.
+- **Auto-scroll:** the transcript scrolls at a steady speed while the lecture plays, with 10 speeds; the control hides itself and comes back with a tap.
 - **Focus mode:** transcript only, no distractions.
 - **Word meanings:** long-press any word (double-click on Windows) for an offline meaning. English words use WordNet; Sanskrit words use only Srila Prabhupada's own translations.
 - **Presentation mode:** the lecture shown as slides, in time with the audio, for the lectures that have been aligned.
