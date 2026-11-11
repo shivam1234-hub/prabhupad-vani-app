@@ -12,6 +12,7 @@ import { getTypeMeta } from '../../data/types';
 import { formatMs, formatRelativeTime } from '../../utils/time';
 import ScreenHeader from '../../components/ScreenHeader';
 import TypeThumb from '../../components/TypeThumb';
+import { Desktop } from '../../components/desktop';
 
 const RETENTION_OPTIONS: { label: string; value: HistoryRetention }[] = [
   { label: '7 days', value: 7 },
@@ -20,7 +21,7 @@ const RETENTION_OPTIONS: { label: string; value: HistoryRetention }[] = [
   { label: 'Forever', value: -1 },
 ];
 
-export default function HistoryScreen() {
+function HistoryScreen() {
   const c = useThemeColors();
   const styles = useMemo(() => makeStyles(c), [c]);
   const insets = useSafeAreaInsets();
@@ -170,3 +171,9 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
   },
   progressFill: { height: 4, borderRadius: 2 },
 });
+
+// Windows desktop build (Electron over the web export): the wide-window
+// layout. Phones get null here and keep the screen above unchanged.
+export default function HistoryScreenRoute() {
+  return Desktop ? <Desktop.History /> : <HistoryScreen />;
+}

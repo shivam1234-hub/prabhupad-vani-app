@@ -14,6 +14,7 @@ import { getTypeMeta, Recording } from '../../data/types';
 import { formatMs, formatRelativeTime } from '../../utils/time';
 import ScreenHeader, { headerIconBtnStyle } from '../../components/ScreenHeader';
 import TypeThumb from '../../components/TypeThumb';
+import { Desktop } from '../../components/desktop';
 
 // Same thresholds as WatchBadge, so "in progress" means the same thing on
 // every screen.
@@ -56,7 +57,7 @@ function greeting() {
  * from HistoryContext, which already records position every 5 s.
  * Categories moved to the Library tab.
  */
-export default function HomeScreen() {
+function HomeScreen() {
   const c = useThemeColors();
   const styles = useMemo(() => makeStyles(c), [c]);
   const insets = useSafeAreaInsets();
@@ -563,3 +564,9 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
   },
   welcomeSecondaryText: { color: c.accent, fontSize: 14, fontWeight: '700' },
 });
+
+// Windows desktop build (Electron over the web export): the wide-window
+// layout. Phones get null here and keep the screen above unchanged.
+export default function HomeScreenRoute() {
+  return Desktop ? <Desktop.Home /> : <HomeScreen />;
+}

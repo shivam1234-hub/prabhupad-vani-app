@@ -5,6 +5,7 @@ import type { ThemeColors } from '../../theme/palette';
 import { Ionicons } from '@expo/vector-icons';
 import { StyleSheet, View } from 'react-native';
 import { useDownload } from '../../contexts/DownloadContext';
+import { Desktop } from '../../components/desktop';
 
 // Height stays 60: MiniPlayer positions itself from this exact number.
 const TAB_BAR_HEIGHT = 60;
@@ -27,6 +28,8 @@ export default function TabsLayout() {
 
   return (
     <Tabs
+      // Desktop: navigation is the shell's sidebar, so no bottom tab bar.
+      tabBar={Desktop ? () => null : undefined}
       screenOptions={{
         tabBarStyle: styles.tabBar,
         tabBarActiveTintColor: c.accent,

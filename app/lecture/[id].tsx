@@ -31,8 +31,9 @@ import { formatMs } from '../../utils/time';
 import { audioEvents } from '../../utils/audioEvents';
 import VideoSlidesView from '../../components/VideoSlidesView';
 import { formatDuration, getYouTubeVideos } from '../../data/youtubeVideos';
+import { Desktop } from '../../components/desktop';
 
-export default function LectureDetail() {
+function LectureDetail() {
   const c = useThemeColors();
   const styles = useMemo(() => makeStyles(c), [c]);
   const { id, resume } = useLocalSearchParams<{ id: string; resume?: string }>();
@@ -969,3 +970,9 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
   actionLabel: { flex: 1, color: c.textQuinary, fontSize: 14, fontWeight: '500' },
   divider: { height: 1, backgroundColor: c.border, marginLeft: 64 },
 });
+
+// Windows desktop build (Electron over the web export): the wide-window
+// layout. Phones get null here and keep the screen above unchanged.
+export default function LectureDetailRoute() {
+  return Desktop ? <Desktop.Lecture /> : <LectureDetail />;
+}

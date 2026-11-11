@@ -6,6 +6,7 @@ import { audioEvents } from '../utils/audioEvents';
 import { getNotificationArt } from '../components/TypeThumb';
 import { getTalk, isTalkOnly, loadTalkOnly, skipFor } from '../utils/talkOnly';
 import { useAutoPlayNext } from '../hooks/useAutoPlayNext';
+import { registerAudioElement } from '../utils/webAudioElement';
 
 // Web preview only. react-native-track-player's web shim is broken in the
 // installed alpha version — its Capability/State enum modules import the
@@ -63,6 +64,7 @@ export function AudioProvider({ children }: { children: React.ReactNode }) {
   const audioElRef = useRef<HTMLAudioElement | null>(null);
   if (!audioElRef.current) {
     audioElRef.current = new Audio();
+    registerAudioElement(audioElRef.current);
   }
 
   const [recording, setRecording] = useState<Recording | null>(null);

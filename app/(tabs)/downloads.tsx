@@ -12,6 +12,7 @@ import { useAllRecordings } from '../../hooks/useAllRecordings';
 import { getTypeMeta } from '../../data/types';
 import ScreenHeader from '../../components/ScreenHeader';
 import TypeThumb from '../../components/TypeThumb';
+import { Desktop } from '../../components/desktop';
 
 function formatBytes(bytes: number): string {
   if (bytes === 0) return '0 MB';
@@ -26,7 +27,7 @@ interface DownloadRow {
   entry: DownloadEntry;
 }
 
-export default function DownloadsScreen() {
+function DownloadsScreen() {
   const c = useThemeColors();
   const styles = useMemo(() => makeStyles(c), [c]);
   const insets = useSafeAreaInsets();
@@ -277,3 +278,9 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
     flexShrink: 0,
   },
 });
+
+// Windows desktop build (Electron over the web export): the wide-window
+// layout. Phones get null here and keep the screen above unchanged.
+export default function DownloadsScreenRoute() {
+  return Desktop ? <Desktop.Downloads /> : <DownloadsScreen />;
+}

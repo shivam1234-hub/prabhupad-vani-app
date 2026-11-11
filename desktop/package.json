@@ -1,7 +1,7 @@
 {
   "name": "prabhupada-vani-desktop",
   "productName": "Prabhupada Vani",
-  "version": "1.0.9",
+  "version": "1.0.23",
   "description": "Srila Prabhupada lecture search app \u2014 Windows desktop build",
   "main": "main.js",
   "private": true,

@@ -21,6 +21,7 @@ import { useHistory, HistoryEntry } from '../../contexts/HistoryContext';
 import { getTypeMeta, getRecordingId, Recording } from '../../data/types';
 import { SortBy, sortRecordings } from '../../hooks/useSearch';
 import WatchBadge from '../../components/WatchBadge';
+import { Desktop } from '../../components/desktop';
 
 const ROW_HEIGHT_ESTIMATE = 76;
 
@@ -175,7 +176,7 @@ function RecordingRow({ recording, accentColor, typeBadge, historyEntry, isRecen
 
 // ─── Main screen ──────────────────────────────────────────────────────────────
 
-export default function CategoryScreen() {
+function CategoryScreen() {
   const c = useThemeColors();
   const styles = useMemo(() => makeStyles(c), [c]);
   const { slug } = useLocalSearchParams<{ slug: string }>();
@@ -667,3 +668,9 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
     paddingHorizontal: 32,
   },
 });
+
+// Windows desktop build (Electron over the web export): the wide-window
+// layout. Phones get null here and keep the screen above unchanged.
+export default function CategoryScreenRoute() {
+  return Desktop ? <Desktop.Category /> : <CategoryScreen />;
+}

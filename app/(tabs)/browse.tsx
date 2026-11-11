@@ -30,6 +30,7 @@ import WatchBadge from '../../components/WatchBadge';
 import { fetchAudioUrls } from '../../utils/audioUrls';
 import ScreenHeader from '../../components/ScreenHeader';
 import TypeThumb from '../../components/TypeThumb';
+import { Desktop } from '../../components/desktop';
 
 const ACCENT = '#FF7722';
 
@@ -126,7 +127,7 @@ function RecordingRow({ recording, isFav, tags, historyEntry, onToggleFav, onPla
 
 type QuickFilter = 'all' | 'favourites' | string;
 
-export default function BrowseScreen() {
+function BrowseScreen() {
   const c = useThemeColors();
   const styles = useMemo(() => makeStyles(c), [c]);
   const insets = useSafeAreaInsets();
@@ -444,3 +445,9 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
   emptyTitle: { color: c.textPrimary, fontSize: 17, fontWeight: '800', marginTop: 6 },
   emptySubtitle: { color: c.textDim, fontSize: 13 },
 });
+
+// Windows desktop build (Electron over the web export): the wide-window
+// layout. Phones get null here and keep the screen above unchanged.
+export default function BrowseScreenRoute() {
+  return Desktop ? <Desktop.Search /> : <BrowseScreen />;
+}

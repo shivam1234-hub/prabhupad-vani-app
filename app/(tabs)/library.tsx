@@ -15,13 +15,14 @@ import {
 } from '../../contexts/SettingsContext';
 import ScreenHeader, { headerIconBtnStyle } from '../../components/ScreenHeader';
 import TypeThumb, { COVERS } from '../../components/TypeThumb';
+import { Desktop } from '../../components/desktop';
 
 /**
  * Library tab: what used to be the Home screen. All categories (as cards),
  * the lecture-page text-size stepper, the downloads shortcut and the theme
  * toggle. Behaviour is unchanged; only the layout is new.
  */
-export default function LibraryScreen() {
+function LibraryScreen() {
   const c = useThemeColors();
   const styles = useMemo(() => makeStyles(c), [c]);
   const insets = useSafeAreaInsets();
@@ -303,3 +304,9 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
     letterSpacing: 0.5, textAlign: 'center', paddingVertical: 20,
   },
 });
+
+// Windows desktop build (Electron over the web export): the wide-window
+// layout. Phones get null here and keep the screen above unchanged.
+export default function LibraryScreenRoute() {
+  return Desktop ? <Desktop.Library /> : <LibraryScreen />;
+}

@@ -34,6 +34,8 @@ let downloads = null;
 let server = null;
 let origin = '';
 
+// Development only: a throwaway profile for automated UI runs.
+if (!app.isPackaged && process.env.PV_USERDATA) app.setPath('userData', process.env.PV_USERDATA);
 const userData = app.getPath('userData');
 const AUDIO_DIR = path.join(userData, 'audio');
 const REGISTRY_PATH = path.join(userData, 'downloads.json');
@@ -47,7 +49,7 @@ function loadWindowState() {
     const s = JSON.parse(fs.readFileSync(WINDOW_STATE_PATH, 'utf8'));
     if (typeof s.width === 'number' && typeof s.height === 'number') return s;
   } catch {}
-  return { width: 1180, height: 820 };
+  return { width: 1360, height: 860 };
 }
 
 function saveWindowState(win) {
@@ -64,8 +66,10 @@ function createWindow() {
     y: state.y,
     width: state.width,
     height: state.height,
-    minWidth: 380,
-    minHeight: 560,
+    // The desktop layout (sidebar + two-pane lecture page) needs room; below
+    // ~1100px the sidebar folds to an icon rail on its own.
+    minWidth: 1000,
+    minHeight: 640,
     title: 'Prabhupada Vani',
     // Matches the app's own background so the window doesn't flash white
     // while the 4 MB bundle parses.
@@ -115,6 +119,17 @@ function createWindow() {
   mainWindow.on('closed', () => { mainWindow = null; });
 
   mainWindow.loadURL(origin);
+
+  // Development-only UI automation (screenshots). Never active in a packaged
+  // build: PV_AUTOMATION names a script that drives the window.
+  if (!app.isPackaged && process.env.PV_AUTOMATION) {
+    mainWindow.webContents.once('did-finish-load', () => {
+      const run = require(path.resolve(process.env.PV_AUTOMATION));
+      Promise.resolve(run({ win: mainWindow, origin, app }))
+        .catch((e) => console.error('[automation]', e))
+        .finally(() => { if (!process.env.PV_KEEP_OPEN) app.quit(); });
+    });
+  }
 }
 
 // ---------------------------------------------------------------------------
@@ -169,6 +184,7 @@ function buildMenu() {
         { role: 'quit', label: 'Exit' },
       ],
     },
+    { role: 'editMenu', label: '&Edit' },
     {
       // Every accelerator here is modifier-based on purpose. A menu accelerator
       // outranks the web page, so binding bare Space or the arrow keys would
@@ -192,14 +208,14 @@ function buildMenu() {
     {
       label: '&View',
       submenu: [
-        { role: 'reload' },
-        { type: 'separator' },
+        // Reload and DevTools are for development only; a packaged build
+        // shows zoom and full screen.
+        ...(app.isPackaged ? [] : [{ role: 'reload' }, { role: 'toggleDevTools' }, { type: 'separator' }]),
         { role: 'resetZoom' },
         { role: 'zoomIn' },
         { role: 'zoomOut' },
         { type: 'separator' },
         { role: 'togglefullscreen' },
-        { role: 'toggleDevTools' },
       ],
     },
     {
@@ -291,6 +307,12 @@ function clampIndex(value, length, fallback) {
 
 // ---------------------------------------------------------------------------
 // Boot
+
+// The office network intercepts TLS. For LOCAL testing only, PV_IGNORE_CERT=1
+// lets an unpackaged run reach vanisource; a packaged build never honours it.
+if (!app.isPackaged && process.env.PV_IGNORE_CERT === '1') {
+  app.commandLine.appendSwitch('ignore-certificate-errors');
+}
 
 if (!app.requestSingleInstanceLock()) {
   app.quit();

@@ -9,7 +9,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { useThemeColors } from '../contexts/ThemeContext';
 import type { ThemeColors } from '../theme/palette';
 import { Lecture, getRecordingId } from '../data/types';
-import { useTranscript } from '../hooks/useTranscript';
+import { useTranscript, TranscriptData } from '../hooks/useTranscript';
 import { useAudioMeta, useAudioPosition } from '../contexts/AudioContext';
 import { useDownload } from '../contexts/DownloadContext';
 import { useSettings } from '../contexts/SettingsContext';
@@ -48,6 +48,12 @@ interface Props {
    * costs thousands of extra native nodes on a typical lecture, so it's the
    * reader's explicit opt-in. Off = fast; on = word lookup works. */
   wordLookupEnabled?: boolean;
+  /** Desktop two-pane lecture page: the player, presentation button and
+   * "Play Audio" button live in the side pane, so this renders the text
+   * (with its per-part play buttons) only. Off on phones. */
+  desktop?: boolean;
+  /** Hands the loaded transcript (parts + audio URLs) to the owner. */
+  onData?: (data: TranscriptData | null) => void;
 }
 
 export interface TranscriptViewerHandle {
@@ -292,6 +298,7 @@ const TranscriptViewer = forwardRef<TranscriptViewerHandle, Props>(function Tran
   searchQuery = '', currentMatchIdx = 0,
   onMatchCountChange, highlightEnabled = false,
   onWordLookup, focusMode = false, wordLookupEnabled = false,
+  desktop = false, onData,
 }, ref) {
   const c = useThemeColors();
   const fmtStyles = useMemo(() => makeFmtStyles(c), [c]);
@@ -329,6 +336,10 @@ const TranscriptViewer = forwardRef<TranscriptViewerHandle, Props>(function Tran
   useEffect(() => {
     fetchTranscript(lecture.vanisourceUrl, recordingId);
   }, [lecture.vanisourceUrl, recordingId]);
+
+  const onDataRef = useRef(onData);
+  onDataRef.current = onData;
+  useEffect(() => { onDataRef.current?.(data); }, [data]);
 
   useEffect(() => {
     if (!data || resumeMs <= 0 || didResume.current || isThisLecturePlaying) return;
@@ -527,7 +538,7 @@ const TranscriptViewer = forwardRef<TranscriptViewerHandle, Props>(function Tran
   if (!data && hasLocalAudio) {
     return (
       <View style={styles.container}>
-        {isThisLecturePlaying && !focusMode ? (
+        {desktop ? null : isThisLecturePlaying && !focusMode ? (
           <View style={[styles.playerCard, { borderColor: accentColor + '33' }]}>
             <AudioPlayer accentColor={accentColor} />
           </View>
@@ -592,7 +603,7 @@ const TranscriptViewer = forwardRef<TranscriptViewerHandle, Props>(function Tran
   return (
     <View style={styles.container}>
       {/* Audio Player */}
-      {hasAudio && isThisLecturePlaying && !focusMode && (
+      {hasAudio && isThisLecturePlaying && !focusMode && !desktop && (
         <View style={[styles.playerCard, { borderColor: accentColor + '33' }]}>
           <AudioPlayer accentColor={accentColor} />
         </View>
@@ -618,7 +629,7 @@ const TranscriptViewer = forwardRef<TranscriptViewerHandle, Props>(function Tran
 
       {/* Toolbar: presentation mode. Search moved to the screen's pinned bar
           (lecture/[id].tsx) so it stays reachable while scrolling. */}
-      {!focusMode && isThisLecturePlaying && hasScreens(recordingId, audio.partIndex) && (
+      {!focusMode && !desktop && isThisLecturePlaying && hasScreens(recordingId, audio.partIndex) && (
         <View style={styles.toolbar}>
           <View style={{ flex: 1 }} />
           <TouchableOpacity
@@ -679,7 +690,7 @@ const TranscriptViewer = forwardRef<TranscriptViewerHandle, Props>(function Tran
       ))}
       </View>
 
-      {hasAudio && !isThisLecturePlaying && !focusMode && (
+      {hasAudio && !isThisLecturePlaying && !focusMode && !desktop && (
         <TouchableOpacity
           style={[styles.playAllBtn, { backgroundColor: accentColor }]}
           onPress={() => handlePlayPart(0)}

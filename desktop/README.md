@@ -37,8 +37,8 @@ This writes two files to `desktop/release/`:
 
 | File | What it is |
 | --- | --- |
-| `PrabhupadaVani-Setup-1.0.7.exe` | Normal installer — Start-menu and desktop shortcuts, uninstall entry, installs per-user so it needs no admin rights |
-| `PrabhupadaVani-1.0.7-portable.exe` | Single file, no install — run it from a USB stick |
+| `PrabhupadaVani-Setup-1.0.23.exe` | Normal installer — Start-menu and desktop shortcuts, uninstall entry, installs per-user so it needs no admin rights |
+| `PrabhupadaVani-1.0.23-portable.exe` | Single file, no install — run it from a USB stick |
 
 Both are x64. On a Snapdragon/ARM laptop the x64 build still runs under Windows
 emulation; `npm run dist:arm64` makes a native one if you'd rather.

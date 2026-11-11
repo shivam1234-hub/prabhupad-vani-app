@@ -1,7 +1,7 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { useThemeColors } from '../contexts/ThemeContext';
 import type { ThemeColors } from '../theme/palette';
-import { Modal, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import { Modal, Platform, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import Animated, {
   Easing, useAnimatedStyle, useSharedValue, withTiming,
@@ -11,6 +11,10 @@ import { useAudio } from '../contexts/AudioContext';
 import { loadScreens, Screen, ScreensFile } from '../data/screensManifest';
 import { READER_FONT_FAMILY } from '../utils/readerFont';
 import AudioPlayer from './AudioPlayer';
+import FullscreenToggle from './FullscreenToggle';
+
+// Desktop (web) windows are big: larger slide text and a centred player.
+const WIDE = Platform.OS === 'web';
 
 interface Props {
   visible: boolean;
@@ -79,6 +83,7 @@ export default function PresentationView({ visible, onClose, recordingId, accent
         <TouchableOpacity onPress={onClose} style={[styles.closeBtn, { top: insets.top + 12 }]}>
           <Ionicons name="close" size={26} color={c.textQuinary} />
         </TouchableOpacity>
+        {WIDE && <FullscreenToggle color={c.textQuinary} style={[styles.closeBtn, { top: insets.top + 12, right: 64 }]} />}
 
         <View style={styles.slideArea}>
           {activeScreen ? (
@@ -93,7 +98,9 @@ export default function PresentationView({ visible, onClose, recordingId, accent
         </View>
 
         <View style={[styles.footer, { paddingBottom: insets.bottom + 8 }]}>
-          <AudioPlayer accentColor={accentColor} />
+          <View style={WIDE ? { width: '100%', maxWidth: 720, alignSelf: 'center' } : undefined}>
+            <AudioPlayer accentColor={accentColor} />
+          </View>
         </View>
       </View>
     </Modal>
@@ -114,8 +121,8 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
   },
   line: {
     color: c.paper,
-    fontSize: 24,
-    lineHeight: 36,
+    fontSize: WIDE ? 42 : 24,
+    lineHeight: WIDE ? 64 : 36,
     textAlign: 'center',
     fontFamily: READER_FONT_FAMILY as any,
     marginVertical: 4,

@@ -11,6 +11,7 @@ import { useAllRecordings } from '../hooks/useAllRecordings';
 import { getTypeMeta, Recording, TYPE_META } from '../data/types';
 import { durationSec, formatDuration } from '../utils/durations';
 import TypeThumb from '../components/TypeThumb';
+import { Desktop } from '../components/desktop';
 
 /**
  * "Find by length": type how many minutes you have, get the lectures closest
@@ -25,7 +26,7 @@ const TYPE_ORDER = Object.keys(TYPE_META);
 
 interface Hit { rec: Recording; sec: number; diff: number }
 
-export default function ByLengthScreen() {
+function ByLengthScreen() {
   const c = useThemeColors();
   const styles = useMemo(() => makeStyles(c), [c]);
   const insets = useSafeAreaInsets();
@@ -309,3 +310,9 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
   },
   moreText: { fontSize: 13, fontWeight: '700' },
 });
+
+// Windows desktop build (Electron over the web export): the wide-window
+// layout. Phones get null here and keep the screen above unchanged.
+export default function ByLengthScreenRoute() {
+  return Desktop ? <Desktop.ByLength /> : <ByLengthScreen />;
+}

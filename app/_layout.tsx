@@ -16,6 +16,7 @@ import { LibraryProvider } from '../contexts/LibraryContext';
 import { SettingsProvider } from '../contexts/SettingsContext';
 import { HistoryProvider, useHistory } from '../contexts/HistoryContext';
 import MiniPlayer from '../components/MiniPlayer';
+import { Desktop } from '../components/desktop';
 
 // Saves playback position to history every 5 seconds while audio is playing.
 // Uses the split hooks so we only re-render on meta changes (isPlaying,
@@ -76,6 +77,8 @@ function AppNavigator() {
         headerTintColor: colors.textPrimary,
         headerTitleStyle: { fontSize: 17, fontWeight: '600' },
         contentStyle: { backgroundColor: colors.bg },
+        // Desktop: the shell's top bar has back + breadcrumbs instead.
+        ...(Desktop ? { headerShown: false, animation: 'none' as const } : null),
       }}
     >
       <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
@@ -87,6 +90,7 @@ function AppNavigator() {
         name="category/[slug]"
         options={{ headerBackTitle: 'Back', presentation: 'card' }}
       />
+      <Stack.Screen name="settings" options={{ title: 'Settings' }} />
     </Stack>
   );
 }
@@ -108,8 +112,16 @@ export default function RootLayout() {
         <AudioProvider>
           <ThemedStatusBar />
           <PositionTracker />
-          <AppNavigator />
-          <MiniPlayer />
+          {Desktop ? (
+            // Windows: sidebar + top bar + persistent now-playing bar
+            // (replaces the bottom tab bar and the mini player).
+            <Desktop.Shell><AppNavigator /></Desktop.Shell>
+          ) : (
+            <>
+              <AppNavigator />
+              <MiniPlayer />
+            </>
+          )}
         </AudioProvider>
         </DownloadProvider>
         </HistoryProvider>

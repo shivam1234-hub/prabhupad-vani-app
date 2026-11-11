@@ -8,6 +8,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { useAudio } from '../contexts/AudioContext';
 import { YouTubeVideo, formatDuration, youtubeEmbedUrl } from '../data/youtubeVideos';
+import FullscreenToggle from './FullscreenToggle';
 
 interface Props {
   visible: boolean;
@@ -64,6 +65,7 @@ export default function VideoSlidesView({
         >
           <Ionicons name="close" size={26} color={c.textQuinary} />
         </TouchableOpacity>
+        <FullscreenToggle color={c.textQuinary} style={[styles.closeBtn, { top: insets.top + 12, right: 68 }]} />
 
         <View style={styles.stageArea}>
           <View style={{ width: stageWidth, height: stageHeight }}>
