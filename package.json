@@ -1,6 +1,6 @@
 {
   "name": "prabhupad-vani",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "description": "Srila Prabhupada lecture search app",
   "main": "index.js",
   "scripts": {

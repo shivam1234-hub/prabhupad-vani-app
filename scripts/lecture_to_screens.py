@@ -28,6 +28,7 @@ Output JSON:
 """
 
 import argparse
+import os
 import json
 import math
 import re
@@ -97,7 +98,11 @@ def _asr_words(audio, language):
     """
     from faster_whisper import WhisperModel
 
-    model = WhisperModel("small", device="auto", compute_type="auto")
+    # The anchor pass only needs timestamps for words it hears correctly, so a
+    # smaller model is enough; "base" is ~3x faster than "small" on CPU.
+    # ANCHOR_MODEL / ANCHOR_THREADS let a batch run trade speed for accuracy.
+    model = WhisperModel(os.environ.get("ANCHOR_MODEL", "small"), device="auto", compute_type="auto",
+                         cpu_threads=int(os.environ.get("ANCHOR_THREADS", "0")))
     segments, _info = model.transcribe(audio, language=language, vad_filter=True, word_timestamps=True)
     words = []
     for seg in segments:

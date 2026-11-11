@@ -8,6 +8,7 @@ import { Ionicons } from '@expo/vector-icons';
 import { useAudioMeta, useAudioPosition } from '../contexts/AudioContext';
 import { useSettings } from '../contexts/SettingsContext';
 import { nextInSection } from '../utils/nextInSection';
+import { getTalk, isTalkOnly, loadTalkOnly, onTalkOnlyChange, setTalkOnly } from '../utils/talkOnly';
 
 export const SPEEDS = [0.75, 1.0, 1.25, 1.5, 2.0];
 
@@ -37,6 +38,20 @@ export default function AudioPlayer({ accentColor, compact = false }: Props) {
   const audio = useAudioMeta();
   const { readerFontScale: fontScale, autoPlayNext, setAutoPlayNext } = useSettings();
   const upNext = useMemo(() => (audio.recording ? nextInSection(audio.recording) : null), [audio.recording]);
+  const talk = getTalk(audio.recording ? (audio.recording.pvId ?? audio.recording.id) : null);
+  const [talkOn, setTalkOn] = useState(isTalkOnly());
+  React.useEffect(() => {
+    loadTalkOnly().then(setTalkOn);
+    return onTalkOnlyChange(setTalkOn);
+  }, []);
+  const [tip, setTip] = useState<string | null>(null);
+  const tipTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const showTip = useCallback((text: string) => {
+    setTip(text);
+    if (tipTimer.current) clearTimeout(tipTimer.current);
+    tipTimer.current = setTimeout(() => setTip(null), 2200);
+  }, []);
+  React.useEffect(() => () => { if (tipTimer.current) clearTimeout(tipTimer.current); }, []);
 
   const togglePlay = () => {
     if (audio.isPlaying) audio.pause();
@@ -99,39 +114,80 @@ export default function AudioPlayer({ accentColor, compact = false }: Props) {
         </TouchableOpacity>
       </View>
 
-      {!compact && (
-        <View style={styles.speedRow}>
+      {/* Autoplay · speed · Prabhupāda only, as icons. A tap toggles and
+          briefly names what changed; a long-press just names it. */}
+      <View style={[styles.optionsRow, compact && styles.optionsRowCompact]}>
+        {tip ? (
+          <View style={styles.tipWrap} pointerEvents="none">
+            <View style={styles.tip}>
+              <Text style={[styles.tipText, { fontSize: 12 * fontScale }]}>{tip}</Text>
+            </View>
+          </View>
+        ) : null}
+        {upNext && (
+          <OptionIcon
+            icon="play-skip-forward"
+            on={autoPlayNext}
+            accentColor={accentColor}
+            label="Autoplay next lecture"
+            onPress={() => {
+              const next = !autoPlayNext;
+              setAutoPlayNext(next);
+              showTip(next ? `Autoplay next: on · ${upNext.title}` : 'Autoplay next: off');
+            }}
+            onLongPress={() => showTip(autoPlayNext ? `Autoplay next: on · ${upNext.title}` : 'Autoplay next: off')}
+          />
+        )}
+        {!compact && (
           <TouchableOpacity onPress={cycleSpeed} style={[styles.speedBtn, { borderColor: accentColor + '66' }]}>
             <Text style={[styles.speedText, { fontSize: 13 * fontScale, color: accentColor }]}>{audio.speed}x</Text>
           </TouchableOpacity>
-        </View>
-      )}
-
-      {upNext && (
-        <TouchableOpacity
-          onPress={() => setAutoPlayNext(!autoPlayNext)}
-          style={[styles.upNextRow, compact && styles.upNextRowCompact]}
-          accessibilityRole="switch"
-          accessibilityState={{ checked: autoPlayNext }}
-          accessibilityLabel="Autoplay next lecture"
-          hitSlop={6}
-        >
-          <Ionicons
-            name={autoPlayNext ? 'play-skip-forward-circle' : 'play-skip-forward-circle-outline'}
-            size={18}
-            color={autoPlayNext ? accentColor : c.textDim}
+        )}
+        {talk && (
+          <OptionIcon
+            icon="mic"
+            on={talkOn}
+            accentColor={accentColor}
+            label="Play only Prabhupada speaking"
+            onPress={() => {
+              const next = !talkOn;
+              setTalkOnly(next);
+              showTip(next
+                ? `Prabhupāda only: on · ${Math.round(talk.talkSec / 60)} of ${Math.round(talk.totalSec / 60)} min (skips śloka, readings, kirtan)`
+                : 'Prabhupāda only: off · full recording');
+            }}
+            onLongPress={() => showTip(talkOn
+              ? `Prabhupāda only: on · ${Math.round(talk.talkSec / 60)} of ${Math.round(talk.totalSec / 60)} min`
+              : 'Prabhupāda only: off · tap to skip śloka, readings and kirtan')}
           />
-          <Text
-            style={[styles.upNextText, { fontSize: 12 * fontScale }, autoPlayNext && { color: c.textQuinary }]}
-            numberOfLines={1}
-          >
-            {autoPlayNext ? `Autoplay next: ${upNext.title}` : 'Autoplay next: off'}
-          </Text>
-        </TouchableOpacity>
-      )}
+        )}
+      </View>
 
       {audio.error ? <Text style={[styles.errorText, { fontSize: 12 * fontScale }]}>{audio.error}</Text> : null}
     </View>
+  );
+}
+
+/** Round on/off icon button used in the options row. */
+function OptionIcon({ icon, on, accentColor, label, onPress, onLongPress }: {
+  icon: string; on: boolean; accentColor: string; label: string;
+  onPress: () => void; onLongPress: () => void;
+}) {
+  const c = useThemeColors();
+  const styles = useMemo(() => makeStyles(c), [c]);
+  return (
+    <TouchableOpacity
+      onPress={onPress}
+      onLongPress={onLongPress}
+      delayLongPress={350}
+      style={[styles.optIcon, on ? { backgroundColor: accentColor, borderColor: accentColor } : { borderColor: c.borderStrong }]}
+      accessibilityRole="switch"
+      accessibilityState={{ checked: on }}
+      accessibilityLabel={label}
+      hitSlop={6}
+    >
+      <Ionicons name={(on ? icon : `${icon}-outline`) as any} size={17} color={on ? c.onAccent : c.textDim} />
+    </TouchableOpacity>
   );
 }
 
@@ -259,14 +315,23 @@ const makeStyles = (c: ThemeColors) => StyleSheet.create({
     shadowColor: c.shadow, shadowOpacity: 0.4, shadowRadius: 8, shadowOffset: { width: 0, height: 4 },
   },
   playBtnCompact: { width: 48, height: 48, borderRadius: 24 },
-  speedRow: { alignItems: 'center', marginTop: 16 },
   speedBtn: { paddingHorizontal: 16, paddingVertical: 5, borderRadius: 16, borderWidth: 1 },
-  speedText: { fontSize: 13, fontWeight: '700' },
-  upNextRow: {
+  optionsRow: {
     flexDirection: 'row', alignItems: 'center', justifyContent: 'center',
-    gap: 6, marginTop: 14, paddingHorizontal: 12,
+    gap: 18, marginTop: 14,
   },
-  upNextRowCompact: { marginTop: 8 },
-  upNextText: { color: c.textDim, fontSize: 12, flexShrink: 1 },
+  optionsRowCompact: { marginTop: 8 },
+  optIcon: {
+    width: 36, height: 36, borderRadius: 18, borderWidth: 1,
+    alignItems: 'center', justifyContent: 'center',
+  },
+  // Below the icons, so it never covers the play controls.
+  tipWrap: { position: 'absolute', top: 44, left: 0, right: 0, alignItems: 'center', zIndex: 5 },
+  tip: {
+    maxWidth: 300, paddingHorizontal: 12, paddingVertical: 7, borderRadius: 10,
+    backgroundColor: c.textPrimary,
+  },
+  tipText: { color: c.bg, fontSize: 12, fontWeight: '600', textAlign: 'center' },
+  speedText: { fontSize: 13, fontWeight: '700' },
   errorText: { color: c.dangerAlt, fontSize: 12, textAlign: 'center', marginTop: 8 },
 });

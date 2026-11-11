@@ -21,8 +21,65 @@ export const SCREENS_MANIFEST: Record<string, Record<number, () => ScreensFile>>
     0: () => require('./screens/660219bgnyc/part-0.json'),
     1: () => require('./screens/660219bgnyc/part-1.json'),
   },
+  '660905bgnyc': {
+    0: () => require('./screens/660905bgnyc/part-0.json'),
+  },
+  '670111bgnyc': {
+    0: () => require('./screens/670111bgnyc/part-0.json'),
+  },
+  '690524sbnewv': {
+    0: () => require('./screens/690524sbnewv/part-0.json'),
+  },
+  '710909sblon': {
+    0: () => require('./screens/710909sblon/part-0.json'),
+  },
+  '720223bgcal': {
+    0: () => require('./screens/720223bgcal/part-0.json'),
+  },
+  '720907sbnewv': {
+    0: () => require('./screens/720907sbnewv/part-0.json'),
+  },
+  '721219bgbom': {
+    0: () => require('./screens/721219bgbom/part-0.json'),
+  },
+  '730509sbla': {
+    0: () => require('./screens/730509sbla/part-0.json'),
+  },
   '730707bglon': {
     0: () => require('./screens/730707bglon/part-0.json'),
+  },
+  '730801bglon': {
+    0: () => require('./screens/730801bglon/part-0.json'),
+  },
+  '730927bgbom': {
+    0: () => require('./screens/730927bgbom/part-0.json'),
+  },
+  '740116sbhaw': {
+    0: () => require('./screens/740116sbhaw/part-0.json'),
+  },
+  '740225bgbom': {
+    0: () => require('./screens/740225bgbom/part-0.json'),
+  },
+  '740607bggen': {
+    0: () => require('./screens/740607bggen/part-0.json'),
+  },
+  '741102sbbom': {
+    0: () => require('./screens/741102sbbom/part-0.json'),
+  },
+  '750216bgmexi': {
+    0: () => require('./screens/750216bgmexi/part-0.json'),
+  },
+  '751204sbvrn': {
+    0: () => require('./screens/751204sbvrn/part-0.json'),
+  },
+  '760426bgmel': {
+    0: () => require('./screens/760426bgmel/part-0.json'),
+  },
+  '760522sbhaw': {
+    0: () => require('./screens/760522sbhaw/part-0.json'),
+  },
+  '761029sbvrn': {
+    0: () => require('./screens/761029sbvrn/part-0.json'),
   },
 };
 
