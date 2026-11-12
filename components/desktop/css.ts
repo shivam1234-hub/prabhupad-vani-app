@@ -23,7 +23,21 @@ export function themeVars(c: ThemeColors, isDark: boolean): Record<string, strin
   return vars;
 }
 
+/**
+ * UI typeface. Inter ships inside the app (public/fonts → served by the
+ * desktop's local server) rather than leaning on `system-ui`: on Windows that
+ * resolves to Segoe UI — or, on many non-English locales, to a CJK UI font
+ * like Yu Gothic UI / Microsoft YaHei UI — and Segoe UI has no 800 weight.
+ * The latin-ext subset covers the IAST diacritics (ā ṛ ṣ ṁ ḥ ś …).
+ */
+export const UI_FONT_FAMILY =
+  '"Inter Variable", "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif';
+
 export const DESKTOP_CSS = `
+@font-face { font-family: 'Inter Variable'; font-style: normal; font-display: swap; font-weight: 100 900; src: url(/fonts/inter-latin-ext-wght-normal.woff2) format('woff2'); unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
+@font-face { font-family: 'Inter Variable'; font-style: italic; font-display: swap; font-weight: 100 900; src: url(/fonts/inter-latin-ext-wght-italic.woff2) format('woff2'); unicode-range: U+0100-02BA,U+02BD-02C5,U+02C7-02CC,U+02CE-02D7,U+02DD-02FF,U+0304,U+0308,U+0329,U+1D00-1DBF,U+1E00-1E9F,U+1EF2-1EFF,U+2020,U+20A0-20AB,U+20AD-20C0,U+2113,U+2C60-2C7F,U+A720-A7FF; }
+@font-face { font-family: 'Inter Variable'; font-style: normal; font-display: swap; font-weight: 100 900; src: url(/fonts/inter-latin-wght-normal.woff2) format('woff2'); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
+@font-face { font-family: 'Inter Variable'; font-style: italic; font-display: swap; font-weight: 100 900; src: url(/fonts/inter-latin-wght-italic.woff2) format('woff2'); unicode-range: U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+0304,U+0308,U+0329,U+2000-206F,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD; }
 html, body, #root { height: 100%; }
 body { margin: 0; overflow: hidden; }
 .pv-root, .pv-root * { box-sizing: border-box; }
@@ -33,8 +47,9 @@ body { margin: 0; overflow: hidden; }
   grid-template-columns: var(--sbw, 240px) minmax(0, 1fr);
   grid-template-rows: minmax(0, 1fr) auto;
   background: var(--bg); color: var(--textPrimary);
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: ${UI_FONT_FAMILY};
   font-size: 14px;
+  text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
 }
 .pv-root.pv-collapsed { --sbw: 72px; }

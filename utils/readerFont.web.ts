@@ -10,9 +10,13 @@
  * effectively renders: Segoe UI on Windows, Roboto where present, San
  * Francisco on a Mac. react-native-web passes this straight through to CSS
  * `font-family`, so the browser picks the first one installed.
+ *
+ * Inter comes first: it is bundled with the desktop app (public/fonts,
+ * @font-face in components/desktop/css.ts), so Windows no longer depends on
+ * which system UI font the PC's locale hands Chromium.
  */
 export const READER_FONT_FAMILY =
-  'system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif';
+  '"Inter Variable", "Segoe UI", system-ui, -apple-system, Roboto, "Helvetica Neue", Arial, sans-serif';
 
 export const READER_BASE_FONT_SIZE = 14;
 
