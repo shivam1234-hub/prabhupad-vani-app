@@ -4,6 +4,7 @@ import React, {
 import { Recording } from '../data/types';
 import { audioEvents } from '../utils/audioEvents';
 import { getNotificationArt } from '../components/TypeThumb';
+import { getTalk, isTalkOnly, loadTalkOnly, skipFor } from '../utils/talkOnly';
 import { useAutoPlayNext } from '../hooks/useAutoPlayNext';
 
 // Web preview only. react-native-track-player's web shim is broken in the
@@ -85,8 +86,21 @@ export function AudioProvider({ children }: { children: React.ReactNode }) {
   const advanceRef = useRef<(finished: Recording) => void>(() => {});
 
   useEffect(() => {
+    loadTalkOnly();
     const el = audioElRef.current!;
-    const onTime = () => setPositionMs(Math.round(el.currentTime * 1000));
+    const onTime = () => {
+      setPositionMs(Math.round(el.currentTime * 1000));
+      // "Prabhupāda only" (utils/talkOnly): the native app does this in
+      // service.ts; on web the <audio> element's timeupdate drives it.
+      const rec = recordingRef.current;
+      if (!isTalkOnly() || !rec || el.paused) return;
+      const data = getTalk(rec.pvId ?? rec.id);
+      if (!data) return;
+      const hasNext = partIndexRef.current + 1 < audioUrlsRef.current.length;
+      const action = skipFor(data, partIndexRef.current, el.currentTime, hasNext);
+      if (action.kind === 'seek') el.currentTime = action.to;
+      else if (action.kind === 'nextPart' || action.kind === 'end') onEnded();
+    };
     const onDuration = () => setDurationMs(Number.isFinite(el.duration) ? Math.round(el.duration * 1000) : 0);
     const onPlay = () => setIsPlaying(true);
     const onPause = () => setIsPlaying(false);

@@ -97,6 +97,8 @@ export function AudioProvider({ children }: { children: React.ReactNode }) {
         ],
         forwardJumpInterval: 15,
         backwardJumpInterval: 15,
+        // Drives "Prabhupāda only" skipping in service.ts, also with the screen off.
+        progressUpdateEventInterval: 1,
       })
     ).catch(() => {});
   }, []);

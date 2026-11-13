@@ -1,0 +1,3298 @@
+{
+  "audio": "data/screens-src/720223bgcal/part-0.mp3",
+  "screens": [
+    {
+      "index": 0,
+      "start": 1.571,
+      "end": 5.95,
+      "lines": [
+        "Prabhupāda: (daivī sampad vimokṣāya) .",
+        ". . nibandhāyāsurī matā"
+      ]
+    },
+    {
+      "index": 1,
+      "start": 5.95,
+      "end": 13.93,
+      "lines": [
+        "mā śucaḥ sampadaṁ daivīm ''abhijāto 'si pāṇḍava",
+        "(BG 16.5)"
+      ]
+    },
+    {
+      "index": 2,
+      "start": 13.93,
+      "end": 22.07,
+      "lines": [
+        "Arjuna is",
+        "advised by Kṛṣṇa."
+      ]
+    },
+    {
+      "index": 3,
+      "start": 22.07,
+      "end": 35.152,
+      "lines": [
+        "He has described before the .",
+        ". . what is daivī sampat and what is āsurī sampat."
+      ]
+    },
+    {
+      "index": 4,
+      "start": 35.112,
+      "end": 48.079,
+      "lines": [
+        "Abhayaṁ sattva-saṁśuddhir.",
+        "These are daivī sampat: abhayaṁ sattva-saṁśuddhir"
+      ]
+    },
+    {
+      "index": 5,
+      "start": 48.079,
+      "end": 58.428,
+      "lines": [
+        "jñāna-yoga-vyavasthitiḥ dānaṁ damaś ca yajñaś ca",
+        "svādhyāyas tapa ārjavam"
+      ]
+    },
+    {
+      "index": 6,
+      "start": 58.428,
+      "end": 68.79,
+      "lines": [
+        "(BG 16.1) ahiṁsā satyam akrodhas tyāgaḥ śāntir",
+        "apaiśunam dayā bhūteṣv aloluptvaṁ mārdavaṁ hrīr"
+      ]
+    },
+    {
+      "index": 7,
+      "start": 68.79,
+      "end": 78.683,
+      "lines": [
+        "acāpalam (BG 16.2) tejaḥ kṣamā dhṛtiḥ śaucam adroho",
+        "nāti mānitā bhavanti sampadaṁ daivīm abhijātasya"
+      ]
+    },
+    {
+      "index": 8,
+      "start": 78.623,
+      "end": 84.65,
+      "lines": [
+        "bhārata",
+        "(BG 16.3) So"
+      ]
+    },
+    {
+      "index": 9,
+      "start": 84.65,
+      "end": 92.38,
+      "lines": [
+        "there are two classes of men .",
+        ". ."
+      ]
+    },
+    {
+      "index": 10,
+      "start": 92.38,
+      "end": 104.623,
+      "lines": [
+        "there are two classes of men within this world.",
+        "In the Viṣṇu Purāṇa it is said that"
+      ]
+    },
+    {
+      "index": 11,
+      "start": 104.623,
+      "end": 115.62,
+      "lines": [
+        "viṣṇu-bhaktaḥ bhaved daivaḥ (Padma Purāṇa).",
+        "Those are viṣṇu-bhaktas, devotee of Lord Viṣṇu"
+      ]
+    },
+    {
+      "index": 12,
+      "start": 115.54,
+      "end": 121.017,
+      "lines": [
+        ". . .",
+        "three deities—Viṣṇu,"
+      ]
+    },
+    {
+      "index": 13,
+      "start": 121.017,
+      "end": 131.5,
+      "lines": [
+        "Maheśvara and Brahmā. Brahmā,",
+        "Viṣṇu, Maheśvara. So those who are devotees of"
+      ]
+    },
+    {
+      "index": 14,
+      "start": 131.42,
+      "end": 144.48,
+      "lines": [
+        "Viṣṇu, they are devatā. Not that the asuras,",
+        "just like Rāvaṇa. Rāvaṇa was a great devotee of"
+      ]
+    },
+    {
+      "index": 15,
+      "start": 144.4,
+      "end": 154.945,
+      "lines": [
+        "Lord Śiva,",
+        "and Hiraṇyakaśipu was great devotee of Brahmā,"
+      ]
+    },
+    {
+      "index": 16,
+      "start": 154.945,
+      "end": 164.16,
+      "lines": [
+        "but",
+        "both of them have been described as asura and rākṣasa."
+      ]
+    },
+    {
+      "index": 17,
+      "start": 164.16,
+      "end": 173.713,
+      "lines": [
+        "They are great devotees. Therefore the conclusion",
+        "is there are two classes of men,"
+      ]
+    },
+    {
+      "index": 18,
+      "start": 173.713,
+      "end": 179.08,
+      "lines": [
+        "asura and devatā.",
+        "The viṣṇu bhaktaḥ bhaved daivaḥ,"
+      ]
+    },
+    {
+      "index": 19,
+      "start": 179.08,
+      "end": 188.94,
+      "lines": [
+        "those who are devotees of Lord Viṣṇu,",
+        "they are deva, devatā, or demigods,"
+      ]
+    },
+    {
+      "index": 20,
+      "start": 188.94,
+      "end": 199.807,
+      "lines": [
+        "and asuras tad-viparyayaḥ.",
+        "What is the difference between devatā and asura?"
+      ]
+    },
+    {
+      "index": 21,
+      "start": 199.747,
+      "end": 204.76,
+      "lines": [
+        "The . . .",
+        "that is explained by Kṛṣṇa,"
+      ]
+    },
+    {
+      "index": 22,
+      "start": 204.76,
+      "end": 214.08,
+      "lines": [
+        "that daivī sampad vimokṣāya'' (BG 16.5).",
+        "If you develop your divine qualities,"
+      ]
+    },
+    {
+      "index": 23,
+      "start": 214.08,
+      "end": 219.233,
+      "lines": [
+        "as they're described, ahiṁsā,",
+        "sattva-saṁśuddhiḥ . . ."
+      ]
+    },
+    {
+      "index": 24,
+      "start": 219.233,
+      "end": 227.318,
+      "lines": [
+        "sattva-saṁśuddhiḥ. Sattva-saṁśuddhiḥ means existentional",
+        "purification. Our"
+      ]
+    },
+    {
+      "index": 25,
+      "start": 227.318,
+      "end": 240.18,
+      "lines": [
+        ". . . we, as spirit soul, we are pure originally,",
+        "because Kṛṣṇa is pure."
+      ]
+    },
+    {
+      "index": 26,
+      "start": 240.18,
+      "end": 248.71,
+      "lines": [
+        "Arjuna accepts Kṛṣṇa, after understanding Bhagavad-gītā,",
+        "paraṁ brahma paraṁ dhāma pavitram-paramaṁ bhavān"
+      ]
+    },
+    {
+      "index": 27,
+      "start": 248.71,
+      "end": 259.874,
+      "lines": [
+        "(BG 10.12): \"You are paraṁ pavitra.\"",
+        "And God is paraṁ pavitra is admitted in the Īśopaniṣad:"
+      ]
+    },
+    {
+      "index": 28,
+      "start": 259.834,
+      "end": 265.69,
+      "lines": [
+        "apāpa-viddham (ISO 8),",
+        "asnāviram."
+      ]
+    },
+    {
+      "index": 29,
+      "start": 265.69,
+      "end": 273.82,
+      "lines": [
+        "Asnāviram means in the body of God there are no",
+        "veins,"
+      ]
+    },
+    {
+      "index": 30,
+      "start": 273.82,
+      "end": 280.78,
+      "lines": [
+        "and so therefore apāpa-viddham.",
+        "Veins, as soon as you have got this veins,"
+      ]
+    },
+    {
+      "index": 31,
+      "start": 280.78,
+      "end": 287.89,
+      "lines": [
+        "that is material body.",
+        "The body is maintained under certain material condition."
+      ]
+    },
+    {
+      "index": 32,
+      "start": 287.89,
+      "end": 295.01,
+      "lines": [
+        "You eat, and this eating substance transformed",
+        "into secretion, then through the veins this comes"
+      ]
+    },
+    {
+      "index": 33,
+      "start": 294.93,
+      "end": 301.63,
+      "lines": [
+        "to the heart, and heart it becomes red,",
+        "corpuscle, the blood, the blood is diffused."
+      ]
+    },
+    {
+      "index": 34,
+      "start": 301.55,
+      "end": 309.17,
+      "lines": [
+        "Therefore there are so many channels,",
+        "veins. And these things are pushed on with air,"
+      ]
+    },
+    {
+      "index": 35,
+      "start": 309.17,
+      "end": 316.67,
+      "lines": [
+        "and if there is shortage of air circulation,",
+        "the man becomes paralyzed."
+      ]
+    },
+    {
+      "index": 36,
+      "start": 316.67,
+      "end": 326.07,
+      "lines": [
+        "This is scientific. So these things are required",
+        "for the material body, not for the spiritual body."
+      ]
+    },
+    {
+      "index": 37,
+      "start": 326.07,
+      "end": 335.83,
+      "lines": [
+        "In spiritual body, asnāviram,",
+        "there is no vein. Therefore one who misunderstands"
+      ]
+    },
+    {
+      "index": 38,
+      "start": 335.75,
+      "end": 345.443,
+      "lines": [
+        "Kṛṣṇa as having a material body,",
+        "he has been described in the Bhagavad-gītā as mūḍhā."
+      ]
+    },
+    {
+      "index": 39,
+      "start": 345.443,
+      "end": 353.23,
+      "lines": [
+        "Avajānanti māṁ mūḍhā mānuṣīṁ tanum āśritam (BG",
+        "9.11). He has no veins. There is no difference"
+      ]
+    },
+    {
+      "index": 40,
+      "start": 353.15,
+      "end": 360.35,
+      "lines": [
+        "between His body and soul. We have got difference",
+        "with our body and soul;"
+      ]
+    },
+    {
+      "index": 41,
+      "start": 360.35,
+      "end": 370.38,
+      "lines": [
+        "therefore this existence with this material body",
+        "is not śuddha, is not pure."
+      ]
+    },
+    {
+      "index": 42,
+      "start": 370.38,
+      "end": 377.06,
+      "lines": [
+        "Therefore, sattva-saṁśuddhir,",
+        "abhayaṁ sattva-saṁśuddhir."
+      ]
+    },
+    {
+      "index": 43,
+      "start": 377.06,
+      "end": 388.5,
+      "lines": [
+        "Śrīla Viśvanātha Cakravartī Ṭhākura has described",
+        "this abhayam means fearlessness."
+      ]
+    },
+    {
+      "index": 44,
+      "start": 388.5,
+      "end": 400.05,
+      "lines": [
+        "Because unless I become fearless,",
+        "I cannot give up my present position."
+      ]
+    },
+    {
+      "index": 45,
+      "start": 400.05,
+      "end": 403.97,
+      "lines": [
+        "Just like, according to our Vedic system .",
+        ". ."
+      ]
+    },
+    {
+      "index": 46,
+      "start": 403.97,
+      "end": 411.75,
+      "lines": [
+        "not our, everyone. Vedic system is for everyone.",
+        "It is not that for a particular class of men,"
+      ]
+    },
+    {
+      "index": 47,
+      "start": 411.75,
+      "end": 418.37,
+      "lines": [
+        "Vedic system. That's wrong. When Kṛṣṇa says,",
+        "catur varṇyaṁ mayā sṛṣṭam (BG 4.13),"
+      ]
+    },
+    {
+      "index": 48,
+      "start": 418.37,
+      "end": 423.93,
+      "lines": [
+        "this Vedic system, it is for all,",
+        "not for a particular country,"
+      ]
+    },
+    {
+      "index": 49,
+      "start": 423.93,
+      "end": 434.47,
+      "lines": [
+        "a particular society.",
+        "So the Vedic system is that one should accept the"
+      ]
+    },
+    {
+      "index": 50,
+      "start": 434.39,
+      "end": 442.49,
+      "lines": [
+        "order, sannyāsa order, at the last stage of his",
+        "life. Suppose one lives for a hundred years."
+      ]
+    },
+    {
+      "index": 51,
+      "start": 442.49,
+      "end": 447.37,
+      "lines": [
+        "He should become brahmacārī,",
+        "student, for twenty-five years,"
+      ]
+    },
+    {
+      "index": 52,
+      "start": 447.37,
+      "end": 454.55,
+      "lines": [
+        "then a married man for another twenty-five years,",
+        "and after fifty years, pañcaśordhvaṁ vanaṁ vrajet,"
+      ]
+    },
+    {
+      "index": 53,
+      "start": 454.49,
+      "end": 461.09,
+      "lines": [
+        "he should accept the vana-vāsī.",
+        "Vana-vāsī means vānaprastha."
+      ]
+    },
+    {
+      "index": 54,
+      "start": 461.01,
+      "end": 468.8,
+      "lines": [
+        "Vāna: from vana, vāna, \"one who has gone to the",
+        "forest,\" vānaprastha."
+      ]
+    },
+    {
+      "index": 55,
+      "start": 468.8,
+      "end": 476.96,
+      "lines": [
+        "So then, when he is prepared,",
+        "he should take sannyāsa. The whole institution"
+      ]
+    },
+    {
+      "index": 56,
+      "start": 476.88,
+      "end": 492.38,
+      "lines": [
+        "is meant for sattva, sattva-saṁśuddhiḥ.",
+        "So one has to purify his existentional life;"
+      ]
+    },
+    {
+      "index": 57,
+      "start": 492.38,
+      "end": 501.54,
+      "lines": [
+        "otherwise, if he does not purify his existence,",
+        "then he has to transmigrate from one body to another,"
+      ]
+    },
+    {
+      "index": 58,
+      "start": 501.54,
+      "end": 510.08,
+      "lines": [
+        "and that is material existence.",
+        "That is material existence. Jalajā nava-lakṣāni"
+      ]
+    },
+    {
+      "index": 59,
+      "start": 510.02,
+      "end": 516.51,
+      "lines": [
+        "sthāvarā lakṣa-viṁśati (Padma Purāṇa).",
+        "One has to transmigrate from lower species of life,"
+      ]
+    },
+    {
+      "index": 60,
+      "start": 516.51,
+      "end": 524.57,
+      "lines": [
+        "aquatic life, to trees; from trees to insect;",
+        "insect to birds; birds to beasts;"
+      ]
+    },
+    {
+      "index": 61,
+      "start": 524.57,
+      "end": 530.95,
+      "lines": [
+        "and from beasts . . . that is evolution.",
+        "That evolution is not Darwin's evolution."
+      ]
+    },
+    {
+      "index": 62,
+      "start": 530.95,
+      "end": 543.23,
+      "lines": [
+        "That evolution, it is called janmānta vāda.",
+        "The soul is going from one body to another,"
+      ]
+    },
+    {
+      "index": 63,
+      "start": 543.23,
+      "end": 549.31,
+      "lines": [
+        "not that the body is transforming.",
+        "The Darwin's theory is that the body is transforming."
+      ]
+    },
+    {
+      "index": 64,
+      "start": 549.31,
+      "end": 558.63,
+      "lines": [
+        "No. Body cannot transform. Body can take the shape",
+        "according to the desire of the soul,"
+      ]
+    },
+    {
+      "index": 65,
+      "start": 558.55,
+      "end": 564.93,
+      "lines": [
+        "or according to the effects,",
+        "resultant action, of one's karma."
+      ]
+    },
+    {
+      "index": 66,
+      "start": 564.93,
+      "end": 573.19,
+      "lines": [
+        "So different types of bodies are all there.",
+        "Just like, in Calcutta, there are different types"
+      ]
+    },
+    {
+      "index": 67,
+      "start": 573.11,
+      "end": 580.29,
+      "lines": [
+        "of apartments.",
+        "So you can take an apartment or purchase an apartment"
+      ]
+    },
+    {
+      "index": 68,
+      "start": 580.21,
+      "end": 587.5,
+      "lines": [
+        "according to the price you pay.",
+        "That is . . . that is evolution."
+      ]
+    },
+    {
+      "index": 69,
+      "start": 587.5,
+      "end": 595.31,
+      "lines": [
+        "If you can pay more, then you can get nice body,",
+        "nice apartment. This body is apartment."
+      ]
+    },
+    {
+      "index": 70,
+      "start": 595.25,
+      "end": 609.397,
+      "lines": [
+        "Ūrdhvaṁ gacchanti sattva-sthā (BG 14.18).",
+        "If you are regulated in the modes of goodness,"
+      ]
+    },
+    {
+      "index": 71,
+      "start": 609.397,
+      "end": 615.11,
+      "lines": [
+        "sattva-sthā, sattva-guṇa,",
+        "then you are promoted to the higher planetary system,"
+      ]
+    },
+    {
+      "index": 72,
+      "start": 615.11,
+      "end": 622.01,
+      "lines": [
+        "higher system of life.",
+        "Just like in the Bhagavad-gītā it is also said"
+      ]
+    },
+    {
+      "index": 73,
+      "start": 621.93,
+      "end": 628.05,
+      "lines": [
+        "that śucīnāṁ śrīmatāṁ gehe yoga-bhraṣṭo sañjāyate",
+        "(BG 6.41)."
+      ]
+    },
+    {
+      "index": 74,
+      "start": 628.05,
+      "end": 639.21,
+      "lines": [
+        "One who is not mature in his performance of yoga,",
+        "he is given chance, another chance—another chance"
+      ]
+    },
+    {
+      "index": 75,
+      "start": 639.13,
+      "end": 646.51,
+      "lines": [
+        "in a very nice family, śucīnām,",
+        "very pure brāhmin family; and śrīmatām,"
+      ]
+    },
+    {
+      "index": 76,
+      "start": 646.51,
+      "end": 657.91,
+      "lines": [
+        "very rich, royal or very rich mercantile family.",
+        "These are chances. Nature, under the order of Kṛṣṇa,"
+      ]
+    },
+    {
+      "index": 77,
+      "start": 657.83,
+      "end": 667.236,
+      "lines": [
+        "is giving chance to us, giving chance to us to",
+        "come out of the entanglement of birth and death:"
+      ]
+    },
+    {
+      "index": 78,
+      "start": 667.236,
+      "end": 676.95,
+      "lines": [
+        "janma-mṛtyu-jarā-vyādhi duḥkha-doṣānudarśanam (BG",
+        "13.9). One should be intelligent to see the troubles"
+      ]
+    },
+    {
+      "index": 79,
+      "start": 676.87,
+      "end": 687.27,
+      "lines": [
+        "of these four incidences of life:",
+        "janma-mṛtyu-jarā-vyādhi."
+      ]
+    },
+    {
+      "index": 80,
+      "start": 687.27,
+      "end": 696.87,
+      "lines": [
+        "That is the whole Vedic system—how to get out of",
+        "these clutches. But they're given chance that,"
+      ]
+    },
+    {
+      "index": 81,
+      "start": 696.79,
+      "end": 704.33,
+      "lines": [
+        "\"You do this, you do that, you do that,\" so regulated",
+        "life, so that ultimately he can come out."
+      ]
+    },
+    {
+      "index": 82,
+      "start": 704.33,
+      "end": 713.45,
+      "lines": [
+        "Therefore Bhagavān said, daivī sampad vimokṣāya",
+        "(BG 16.5). If you develop daivī sampat,"
+      ]
+    },
+    {
+      "index": 83,
+      "start": 713.45,
+      "end": 723.64,
+      "lines": [
+        "these qualities, as described—ahiṁsā,",
+        "sattva-saṁśuddhiḥ, ahiṁsā, so many things—then"
+      ]
+    },
+    {
+      "index": 84,
+      "start": 723.64,
+      "end": 730.26,
+      "lines": [
+        "you'll get out, vimokṣāya. Unfortunately,",
+        "the modern civilization, they do not know what"
+      ]
+    },
+    {
+      "index": 85,
+      "start": 730.18,
+      "end": 737.58,
+      "lines": [
+        "is vimokṣāya.",
+        "They're so blind. They do not know that there is"
+      ]
+    },
+    {
+      "index": 86,
+      "start": 737.5,
+      "end": 743.92,
+      "lines": [
+        "some position which is called vimokṣāya.",
+        "They do not know. They do not know what is next"
+      ]
+    },
+    {
+      "index": 87,
+      "start": 743.84,
+      "end": 751.42,
+      "lines": [
+        "life. There is no educational system.",
+        "I am traveling all over the world."
+      ]
+    },
+    {
+      "index": 88,
+      "start": 751.42,
+      "end": 759.36,
+      "lines": [
+        "There is not a single institution which is meant",
+        "for giving education about the transmigration of"
+      ]
+    },
+    {
+      "index": 89,
+      "start": 759.28,
+      "end": 765.92,
+      "lines": [
+        "the soul, how one can get better life.",
+        "But they don't believe. They have no knowledge."
+      ]
+    },
+    {
+      "index": 90,
+      "start": 765.92,
+      "end": 780.583,
+      "lines": [
+        "That is āsurī sampat. That will be described here:",
+        "pravṛttiṁ ca nivṛttiṁ ca janā na vidur āsurāḥ."
+      ]
+    },
+    {
+      "index": 91,
+      "start": 780.583,
+      "end": 789.766,
+      "lines": [
+        "Pravṛttim. Pravṛttim means attraction,",
+        "or attachment. In what sort of activities we should"
+      ]
+    },
+    {
+      "index": 92,
+      "start": 789.65,
+      "end": 796.169,
+      "lines": [
+        "be attached, and what sort of activities we shall",
+        "be detached, that, the asuras,"
+      ]
+    },
+    {
+      "index": 93,
+      "start": 796.13,
+      "end": 802.19,
+      "lines": [
+        "they do not know.",
+        "Pravṛttiṁ ca nivṛttiṁ ca."
+      ]
+    },
+    {
+      "index": 94,
+      "start": 802.19,
+      "end": 808.57,
+      "lines": [
+        "pravṛttiṁ ca nivṛttiṁ ca janā",
+        "na vidur āsuraḥ"
+      ]
+    },
+    {
+      "index": 95,
+      "start": 808.57,
+      "end": 813.0,
+      "lines": [
+        "na śaucaṁ nāpi cācāro na satyaṁ teṣu vidyate (BG",
+        "16.7)"
+      ]
+    },
+    {
+      "index": 96,
+      "start": 813.0,
+      "end": 820.26,
+      "lines": [
+        "These are the asuras. They do not know how their",
+        "life should be directed, in which direction."
+      ]
+    },
+    {
+      "index": 97,
+      "start": 820.26,
+      "end": 827.72,
+      "lines": [
+        "That is called pravṛtti. And what sort of life",
+        "they should be detached, give up,"
+      ]
+    },
+    {
+      "index": 98,
+      "start": 827.72,
+      "end": 833.136,
+      "lines": [
+        "nivṛtti.",
+        "Pravṛttis tu"
+      ]
+    },
+    {
+      "index": 99,
+      "start": 833.136,
+      "end": 838.876,
+      "lines": [
+        "jīvātmana. That is another. Bhunam.",
+        "Pravṛttis . . . nivṛttis tu mahāphalām (Manu Smṛti"
+      ]
+    },
+    {
+      "index": 100,
+      "start": 838.816,
+      "end": 848.18,
+      "lines": [
+        "5.56). The whole śāstra, whole Vedic direction",
+        "is for pravṛtti-nirvṛtti."
+      ]
+    },
+    {
+      "index": 101,
+      "start": 848.18,
+      "end": 858.96,
+      "lines": [
+        "They are gradually training.",
+        "Just like loke vyavāyāmiṣa-madya-sevā nityā sujantoḥ."
+      ]
+    },
+    {
+      "index": 102,
+      "start": 858.96,
+      "end": 871.82,
+      "lines": [
+        "A living entity has got natural inclination for",
+        "vyavāya, sex life; and madya sevāḥ,"
+      ]
+    },
+    {
+      "index": 103,
+      "start": 871.82,
+      "end": 879.259,
+      "lines": [
+        "intoxication;",
+        "āmiṣa sevāḥ, and meat-eating."
+      ]
+    },
+    {
+      "index": 104,
+      "start": 879.259,
+      "end": 887.74,
+      "lines": [
+        "A natural instinct there is.",
+        "But asuras, they do not try to stop it."
+      ]
+    },
+    {
+      "index": 105,
+      "start": 887.74,
+      "end": 893.46,
+      "lines": [
+        "They want to increase it.",
+        "That is asura life."
+      ]
+    },
+    {
+      "index": 106,
+      "start": 893.46,
+      "end": 902.4,
+      "lines": [
+        "I have got some disease. If I want to cure it,",
+        "then doctor gives me some prescription that,"
+      ]
+    },
+    {
+      "index": 107,
+      "start": 902.32,
+      "end": 910.94,
+      "lines": [
+        "\"You don't take.\" Just like diabetic patient,",
+        "he"
+      ]
+    },
+    {
+      "index": 108,
+      "start": 910.94,
+      "end": 912.32,
+      "lines": [
+        "is forbidden that, \"Don't take sugar,",
+        "don't take starch.\" Nivṛtti."
+      ]
+    },
+    {
+      "index": 109,
+      "start": 911.94,
+      "end": 919.78,
+      "lines": [
+        "Similarly, the śāstra gives us direction that you",
+        "should be accepting these things and you should"
+      ]
+    },
+    {
+      "index": 110,
+      "start": 919.7,
+      "end": 926.18,
+      "lines": [
+        "be not accepting these things,",
+        "śāstra. Just like in our Society,"
+      ]
+    },
+    {
+      "index": 111,
+      "start": 926.1,
+      "end": 935.67,
+      "lines": [
+        "we have picked up the most essential nivṛtti and",
+        "pravṛtti. The pravṛtti . . ."
+      ]
+    },
+    {
+      "index": 112,
+      "start": 935.44,
+      "end": 940.64,
+      "lines": [
+        "we are instructing our students,",
+        "\"No illicit sex"
+      ]
+    },
+    {
+      "index": 113,
+      "start": 940.64,
+      "end": 952.06,
+      "lines": [
+        "life, no meat-eating, no āmiṣa-sevā.\" Āmiṣa-sevā",
+        "nityā sujantoḥ. But the śāstra says that if you"
+      ]
+    },
+    {
+      "index": 114,
+      "start": 951.98,
+      "end": 959.88,
+      "lines": [
+        "can give up nivṛttis tu mahāphalām,",
+        "then your life is successful."
+      ]
+    },
+    {
+      "index": 115,
+      "start": 959.88,
+      "end": 968.24,
+      "lines": [
+        "But we are not prepared. If you are not prepared",
+        "to accept the pravṛttis and not to accept the nivṛttis,"
+      ]
+    },
+    {
+      "index": 116,
+      "start": 968.24,
+      "end": 976.485,
+      "lines": [
+        "then one must know that he is asura.",
+        "Kṛṣṇa says here, pravṛttiṁ ca nivṛttiṁ ca janā"
+      ]
+    },
+    {
+      "index": 117,
+      "start": 976.425,
+      "end": 981.04,
+      "lines": [
+        "na vidur āsurāḥ (BG 16.7). They do not .",
+        ". . \"Oh, what is that?\" They say,"
+      ]
+    },
+    {
+      "index": 118,
+      "start": 981.04,
+      "end": 987.26,
+      "lines": [
+        "even the big, big svamīs will say:",
+        "\"Oh, what is there wrong? You can eat anything."
+      ]
+    },
+    {
+      "index": 119,
+      "start": 987.26,
+      "end": 994.48,
+      "lines": [
+        "It doesn't matter. You can do anything.",
+        "You simply give me fees, and I give you some special"
+      ]
+    },
+    {
+      "index": 120,
+      "start": 994.4,
+      "end": 1002.517,
+      "lines": [
+        "mantra.\" These things are going on.",
+        "So because we want such cheaters ."
+      ]
+    },
+    {
+      "index": 121,
+      "start": 1002.458,
+      "end": 1009.95,
+      "lines": [
+        ". . if I say . . . just like in our Society,",
+        "if you had been given the freedom,"
+      ]
+    },
+    {
+      "index": 122,
+      "start": 1009.891,
+      "end": 1015.57,
+      "lines": [
+        "\"Now, whatever you like you can do,\" millions of",
+        "students would have come."
+      ]
+    },
+    {
+      "index": 123,
+      "start": 1015.57,
+      "end": 1022.05,
+      "lines": [
+        "But that is not possible. We don't make any compromise",
+        "like that, that \"You can do whatever you like."
+      ]
+    },
+    {
+      "index": 124,
+      "start": 1021.97,
+      "end": 1029.09,
+      "lines": [
+        "You can eat whatever you like.\" No.",
+        "We don't restrict to the ordinary man,"
+      ]
+    },
+    {
+      "index": 125,
+      "start": 1029.09,
+      "end": 1038.09,
+      "lines": [
+        "but if one comes forward to become our student,",
+        "serious student, then he must follow this pravṛtti-nirvṛtti."
+      ]
+    },
+    {
+      "index": 126,
+      "start": 1038.09,
+      "end": 1045.87,
+      "lines": [
+        "Otherwise he remains asura. What .",
+        ". . we have to make an asura a deva."
+      ]
+    },
+    {
+      "index": 127,
+      "start": 1045.87,
+      "end": 1051.843,
+      "lines": [
+        "That is our process.",
+        "Kṛṣṇa consciousness means that it is not that,"
+      ]
+    },
+    {
+      "index": 128,
+      "start": 1051.57,
+      "end": 1060.59,
+      "lines": [
+        "that if a man is born in an asura family he cannot",
+        "be deva. No. He can be deva."
+      ]
+    },
+    {
+      "index": 129,
+      "start": 1060.51,
+      "end": 1065.808,
+      "lines": [
+        "Kṛṣṇa says, ''māṁ hi pārtha vyapāśritya ye 'pi",
+        "syuḥ pāpa-yonayaḥ (BG 9.32)."
+      ]
+    },
+    {
+      "index": 130,
+      "start": 1065.808,
+      "end": 1071.818,
+      "lines": [
+        "Pāpa-yonayaḥ means asura-yonayaḥ,",
+        "or lower than asura-yonayaḥ."
+      ]
+    },
+    {
+      "index": 131,
+      "start": 1071.779,
+      "end": 1077.39,
+      "lines": [
+        "Striyo vaiśyās tathā śūdrās te 'pi yānti parāṁ",
+        "gatim. Everyone has got a chance."
+      ]
+    },
+    {
+      "index": 132,
+      "start": 1077.39,
+      "end": 1086.19,
+      "lines": [
+        "So this Kṛṣṇa consciousness movement is giving",
+        "chance to everyone to become devatā."
+      ]
+    },
+    {
+      "index": 133,
+      "start": 1086.19,
+      "end": 1094.445,
+      "lines": [
+        "It is so nice movement.",
+        "Because without becoming devatā'' he'll be entangled."
+      ]
+    },
+    {
+      "index": 134,
+      "start": 1094.445,
+      "end": 1099.93,
+      "lines": [
+        "He'll be entangled. He'll have to.",
+        "He has to continue this four process of birth,"
+      ]
+    },
+    {
+      "index": 135,
+      "start": 1099.93,
+      "end": 1107.75,
+      "lines": [
+        "death, disease and old age. That he has to.",
+        "Therefore Kṛṣṇa said that daivī sampad vimokṣāya."
+      ]
+    },
+    {
+      "index": 136,
+      "start": 1107.75,
+      "end": 1114.41,
+      "lines": [
+        "If you want to get rid of this troublesome material",
+        "existence, threefold miserable condition of material"
+      ]
+    },
+    {
+      "index": 137,
+      "start": 1114.33,
+      "end": 1124.13,
+      "lines": [
+        "existence, then you have to develop daivī sampat.",
+        "That can be developed. It is not that stereotype:"
+      ]
+    },
+    {
+      "index": 138,
+      "start": 1124.13,
+      "end": 1131.01,
+      "lines": [
+        "one who is condemned, he cannot be raised.",
+        "No. Anyone can be raised. Just like Caitanya Mahāprabhu"
+      ]
+    },
+    {
+      "index": 139,
+      "start": 1130.93,
+      "end": 1139.91,
+      "lines": [
+        "accepted Jagāi and Mādhāi. They fell down.",
+        "They're born . . . they are born in brāhmin family,"
+      ]
+    },
+    {
+      "index": 140,
+      "start": 1139.91,
+      "end": 1147.782,
+      "lines": [
+        "nice family, but due to bad association they became",
+        "drunkard, they became woman-hunters,"
+      ]
+    },
+    {
+      "index": 141,
+      "start": 1147.782,
+      "end": 1153.87,
+      "lines": [
+        "meat-eaters, gambling, so many,",
+        "all these good qualities. At the present moment,"
+      ]
+    },
+    {
+      "index": 142,
+      "start": 1153.79,
+      "end": 1161.69,
+      "lines": [
+        "in the human society, without these they are not",
+        "civilized."
+      ]
+    },
+    {
+      "index": 143,
+      "start": 1161.69,
+      "end": 1169.45,
+      "lines": [
+        "They must have a club. What is this club?",
+        "I have seen in Germany. Just like we have got,"
+      ]
+    },
+    {
+      "index": 144,
+      "start": 1169.45,
+      "end": 1176.31,
+      "lines": [
+        "after few steps, a pān-bīḍī shop,",
+        "similarly, in Hamburg I have seen,"
+      ]
+    },
+    {
+      "index": 145,
+      "start": 1176.31,
+      "end": 1181.85,
+      "lines": [
+        "a few steps after there is a small club.",
+        "What is the business of the club?"
+      ]
+    },
+    {
+      "index": 146,
+      "start": 1181.85,
+      "end": 1189.91,
+      "lines": [
+        "The business of club, that a young woman should",
+        "be there, and there should be wine and cards for"
+      ]
+    },
+    {
+      "index": 147,
+      "start": 1189.83,
+      "end": 1197.222,
+      "lines": [
+        "playing gambling.",
+        "And whenever they get holiday,"
+      ]
+    },
+    {
+      "index": 148,
+      "start": 1197.222,
+      "end": 1203.84,
+      "lines": [
+        "they . . . you won't find him at home.",
+        "He has immediately gone to the club."
+      ]
+    },
+    {
+      "index": 149,
+      "start": 1203.84,
+      "end": 1212.0,
+      "lines": [
+        "You see? So these things . .",
+        ". not only in Germany. About,"
+      ]
+    },
+    {
+      "index": 150,
+      "start": 1212.0,
+      "end": 1219.44,
+      "lines": [
+        "say, thirty years ago, one of my Godbrother went",
+        "to England, and Lord Zetland,"
+      ]
+    },
+    {
+      "index": 151,
+      "start": 1219.44,
+      "end": 1225.18,
+      "lines": [
+        "he said that \"Whether, Swāmījī,",
+        "you can make us brāhmin?\" So he proposed these"
+      ]
+    },
+    {
+      "index": 152,
+      "start": 1225.1,
+      "end": 1231.14,
+      "lines": [
+        "four things, \"Yes. We can make you brāhmin,",
+        "provided you give up these bad habits.\" \"What is"
+      ]
+    },
+    {
+      "index": 153,
+      "start": 1231.06,
+      "end": 1244.64,
+      "lines": [
+        "that?\" \"No illicit sex, no meat-eating,",
+        "no gambling, no intoxication.\""
+      ]
+    },
+    {
+      "index": 154,
+      "start": 1244.64,
+      "end": 1247.02,
+      "lines": [
+        "He said: \"It is impossible. This is our life!\"",
+        "You see? So it is very difficult."
+      ]
+    },
+    {
+      "index": 155,
+      "start": 1247.02,
+      "end": 1255.14,
+      "lines": [
+        "It is very . . . therefore the pravṛtti-nirvṛtti,",
+        "the Vedic rules, have been formulated in such a"
+      ]
+    },
+    {
+      "index": 156,
+      "start": 1255.06,
+      "end": 1267.021,
+      "lines": [
+        "way that if a man has got pravṛtti for meat-eating",
+        "or drinking or for sex-life or gambling ."
+      ]
+    },
+    {
+      "index": 157,
+      "start": 1266.982,
+      "end": 1277.02,
+      "lines": [
+        ". . so we know that gambling is allowed on the",
+        "Kālī-pūjā day. We know."
+      ]
+    },
+    {
+      "index": 158,
+      "start": 1277.02,
+      "end": 1282.324,
+      "lines": [
+        "Especially northern Indian people,",
+        "mercantile people, they take it,"
+      ]
+    },
+    {
+      "index": 159,
+      "start": 1282.324,
+      "end": 1292.48,
+      "lines": [
+        "advantage, gambling. And sex life is allowed,",
+        "married life. That is gradually nivṛtti,"
+      ]
+    },
+    {
+      "index": 160,
+      "start": 1292.48,
+      "end": 1300.0,
+      "lines": [
+        "married life; otherwise they will become upstarts.",
+        "The society will be lost."
+      ]
+    },
+    {
+      "index": 161,
+      "start": 1300.0,
+      "end": 1307.08,
+      "lines": [
+        "And meat-eating allowed also:",
+        "\"All right. Just offer a goat before Kālī and take"
+      ]
+    },
+    {
+      "index": 162,
+      "start": 1307.0,
+      "end": 1316.18,
+      "lines": [
+        "that.\" Not purchase from the market or slaughterhouse.",
+        "No. So these things are there just to gradually"
+      ]
+    },
+    {
+      "index": 163,
+      "start": 1316.1,
+      "end": 1322.606,
+      "lines": [
+        "make him refrain from all these habits.",
+        "Nivṛtti. This is Vedic. Not that \"Oh,"
+      ]
+    },
+    {
+      "index": 164,
+      "start": 1322.44,
+      "end": 1329.42,
+      "lines": [
+        "there is in the Vedas Kālī-pūjā.",
+        "We are devotees of Kālī.\" Why?"
+      ]
+    },
+    {
+      "index": 165,
+      "start": 1329.42,
+      "end": 1333.18,
+      "lines": [
+        "For meat-eating. That's all.",
+        "They are . . ."
+      ]
+    },
+    {
+      "index": 166,
+      "start": 1333.18,
+      "end": 1341.1,
+      "lines": [
+        "they become devotees of Kālī only for meat-eating.",
+        "That's all. There is no other devotion."
+      ]
+    },
+    {
+      "index": 167,
+      "start": 1341.1,
+      "end": 1347.7,
+      "lines": [
+        "So actually . . . so nivṛtti.",
+        "But that is nivṛtti-mārga. Nivṛtti-mārga."
+      ]
+    },
+    {
+      "index": 168,
+      "start": 1347.32,
+      "end": 1356.5,
+      "lines": [
+        "And in the Vaiṣṇava philosophy that immediately,",
+        "immediately give up these things;"
+      ]
+    },
+    {
+      "index": 169,
+      "start": 1356.5,
+      "end": 1362.1,
+      "lines": [
+        "otherwise it will be not possible.",
+        "Because in the next line it is said:"
+      ]
+    },
+    {
+      "index": 170,
+      "start": 1362.1,
+      "end": 1371.92,
+      "lines": [
+        "daivī sampad vimokṣāya nibandhāyāsurī matā mā śucaḥ",
+        "sampadaṁ daivīm ''abhijāto 'si pāṇḍava'' (BG 16.5)"
+      ]
+    },
+    {
+      "index": 171,
+      "start": 1371.92,
+      "end": 1380.768,
+      "lines": [
+        "\"My dear Pāṇḍava, Arjuna, don't be afraid.\" Because",
+        "as soon as Kṛṣṇa said that daivī sampad vimokṣāya,"
+      ]
+    },
+    {
+      "index": 172,
+      "start": 1380.708,
+      "end": 1388.58,
+      "lines": [
+        "nibandhāyāsurī matā, so, nibhandāya āsurī matā,",
+        "\"I am fighting now.\" This is the business of āsurī."
+      ]
+    },
+    {
+      "index": 173,
+      "start": 1388.58,
+      "end": 1396.44,
+      "lines": [
+        "\"I am now violent.\" So he became afraid that,",
+        "\"Then I am also an āsurī sampat.\" That Kṛṣṇa immediately"
+      ]
+    },
+    {
+      "index": 174,
+      "start": 1396.36,
+      "end": 1404.5,
+      "lines": [
+        "said, \"No, no, no,",
+        "don't be afraid.\" Mā śucaḥ. Mā śucaḥ sampadaṁ daivīm."
+      ]
+    },
+    {
+      "index": 175,
+      "start": 1404.46,
+      "end": 1411.52,
+      "lines": [
+        "\"My dear Arjuna, you don't be afraid.",
+        "Don't . . . don't be worried.\" \"Why?\" \"Because"
+      ]
+    },
+    {
+      "index": 176,
+      "start": 1411.44,
+      "end": 1419.25,
+      "lines": [
+        "you have no āsurī.\" \"I am fighting.\" \"You are fighting",
+        "for Me; therefore you are not asura.\""
+      ]
+    },
+    {
+      "index": 177,
+      "start": 1419.25,
+      "end": 1424.75,
+      "lines": [
+        "Those who are fighting for their sense gratification,",
+        "they're asuras,"
+      ]
+    },
+    {
+      "index": 178,
+      "start": 1424.75,
+      "end": 1434.55,
+      "lines": [
+        "but if need be fighting for,",
+        "for cause, right cause . . ."
+      ]
+    },
+    {
+      "index": 179,
+      "start": 1434.55,
+      "end": 1439.51,
+      "lines": [
+        "of course, everyone thinks right cause;",
+        "therefore it should be confirmed."
+      ]
+    },
+    {
+      "index": 180,
+      "start": 1439.51,
+      "end": 1445.89,
+      "lines": [
+        "Just like Arjuna. Arjuna fought when he understood",
+        "that, \"This fighting is right cause."
+      ]
+    },
+    {
+      "index": 181,
+      "start": 1445.89,
+      "end": 1452.98,
+      "lines": [
+        "It is sanctioned by Kṛṣṇa.\"",
+        "Then it is right cause. You cannot make your right"
+      ]
+    },
+    {
+      "index": 182,
+      "start": 1452.9,
+      "end": 1458.2,
+      "lines": [
+        "cause. You cannot formulate that,",
+        "\"This is right cause.\" That is mental concoction."
+      ]
+    },
+    {
+      "index": 183,
+      "start": 1458.2,
+      "end": 1466.72,
+      "lines": [
+        "You must get it sanctioned.",
+        "That is a principle of daivī life,"
+      ]
+    },
+    {
+      "index": 184,
+      "start": 1466.72,
+      "end": 1474.24,
+      "lines": [
+        "divine life. Divine life means,",
+        "as it is stated in the Bhāgavata,"
+      ]
+    },
+    {
+      "index": 185,
+      "start": 1474.24,
+      "end": 1481.26,
+      "lines": [
+        "that ataḥ pumbhir dvija-śreṣṭha.",
+        "In Naimiṣāraṇya, all the big brāhmins were addressed"
+      ]
+    },
+    {
+      "index": 186,
+      "start": 1481.18,
+      "end": 1487.7,
+      "lines": [
+        "by Suta Gosvāmī, and he said that,",
+        "\"My dear all the great brāhmins,"
+      ]
+    },
+    {
+      "index": 187,
+      "start": 1487.7,
+      "end": 1494.92,
+      "lines": [
+        "you are present here,\" ataḥ puṁsāṁ dvija-śreṣṭhā",
+        "varṇāśrama-vibhāgaśaḥ. There are different duties"
+      ]
+    },
+    {
+      "index": 188,
+      "start": 1494.84,
+      "end": 1501.482,
+      "lines": [
+        "of the varṇa and āśrama. A brāhmin has got his",
+        "duty, a kṣatriya has got his duty."
+      ]
+    },
+    {
+      "index": 189,
+      "start": 1501.482,
+      "end": 1507.067,
+      "lines": [
+        "Now, a ''kṣatriya's duty is fighting.",
+        "So"
+      ]
+    },
+    {
+      "index": 190,
+      "start": 1507.067,
+      "end": 1513.08,
+      "lines": [
+        "how this fighting can be utilized as perfection",
+        "of life?"
+      ]
+    },
+    {
+      "index": 191,
+      "start": 1513.08,
+      "end": 1517.794,
+      "lines": [
+        "Nobody will say: \"Oh! Fighting,",
+        "how it is perfection, killing others?\" No."
+      ]
+    },
+    {
+      "index": 192,
+      "start": 1517.794,
+      "end": 1526.557,
+      "lines": [
+        "There is perfection. What is that?",
+        "Ataḥ pumbhir dvija-śreṣṭha varṇāśrama-vibhāgaśaḥ"
+      ]
+    },
+    {
+      "index": 193,
+      "start": 1526.557,
+      "end": 1532.22,
+      "lines": [
+        "svanuṣṭhitasya dharmasya (SB 1.2.13).",
+        "You are kṣatriya; your dharma is fighting."
+      ]
+    },
+    {
+      "index": 194,
+      "start": 1532.22,
+      "end": 1539.78,
+      "lines": [
+        "You try to please the Supreme Lord by your fighting.",
+        "That is perfection."
+      ]
+    },
+    {
+      "index": 195,
+      "start": 1539.78,
+      "end": 1548.12,
+      "lines": [
+        "You are brāhmin, so you try to please the Supreme",
+        "Lord by your brahminical knowledge."
+      ]
+    },
+    {
+      "index": 196,
+      "start": 1548.12,
+      "end": 1557.04,
+      "lines": [
+        "What is that brahminical? Brahma jānātīti brāhmaṇaḥ.",
+        "So one who knows brahma, he is brāhmin."
+      ]
+    },
+    {
+      "index": 197,
+      "start": 1557.04,
+      "end": 1568.16,
+      "lines": [
+        "Then, the next stage is for brāhmin to become Vaiṣṇava.",
+        "To become Vaiṣṇava. Because brahmaṇo hi pratiṣṭhāham."
+      ]
+    },
+    {
+      "index": 198,
+      "start": 1568.16,
+      "end": 1576.46,
+      "lines": [
+        "Simply one . . . if one stop simply by brahma knowledge",
+        "and does not make further progress,"
+      ]
+    },
+    {
+      "index": 199,
+      "start": 1576.46,
+      "end": 1582.82,
+      "lines": [
+        "that is not perfection.",
+        "Perfection is, Kṛṣṇa says that,"
+      ]
+    },
+    {
+      "index": 200,
+      "start": 1582.74,
+      "end": 1590.68,
+      "lines": [
+        "\"I am the origin of brahma-jyotir.\" Therefore from",
+        "the brahma-jyotir'' one should make progress up"
+      ]
+    },
+    {
+      "index": 201,
+      "start": 1590.6,
+      "end": 1593.8,
+      "lines": [
+        "to Kṛṣṇa.",
+        "Just like sunshine. You are in,"
+      ]
+    },
+    {
+      "index": 202,
+      "start": 1593.42,
+      "end": 1599.82,
+      "lines": [
+        "everyone, is sunshine. That's all right.",
+        "But if you have got power, then you'll reach the"
+      ]
+    },
+    {
+      "index": 203,
+      "start": 1599.74,
+      "end": 1607.73,
+      "lines": [
+        "sun planet, you'll see the sun-god,",
+        "because the original source of the sunshine is"
+      ]
+    },
+    {
+      "index": 204,
+      "start": 1607.65,
+      "end": 1613.112,
+      "lines": [
+        "the sun-god. Similarly, brahma-jyotir,",
+        "the origin of brahma-jyotir is Kṛṣṇa,"
+      ]
+    },
+    {
+      "index": 205,
+      "start": 1613.112,
+      "end": 1622.2,
+      "lines": [
+        "brahmaṇo hi pratiṣṭhā.",
+        "Brahmajyoti is emanating from the body of Kṛṣṇa."
+      ]
+    },
+    {
+      "index": 206,
+      "start": 1622.2,
+      "end": 1628.328,
+      "lines": [
+        "It is . . . it is confirmed in the Brahma-saṁhitā,",
+        "yasya prabhā prabhavato jagand-aṇḍa-koṭi (Bs."
+      ]
+    },
+    {
+      "index": 207,
+      "start": 1628.268,
+      "end": 1633.36,
+      "lines": [
+        "5.40).",
+        "So in this way we make progress."
+      ]
+    },
+    {
+      "index": 208,
+      "start": 1633.36,
+      "end": 1642.3,
+      "lines": [
+        "So here Arjuna, although he was fighter,",
+        "Arjuna did not change his position."
+      ]
+    },
+    {
+      "index": 209,
+      "start": 1642.3,
+      "end": 1648.38,
+      "lines": [
+        "He did not become a brāhmin.",
+        "After hearing Bhagavad-gītā it is not that he gave"
+      ]
+    },
+    {
+      "index": 210,
+      "start": 1648.3,
+      "end": 1654.8,
+      "lines": [
+        "up his profession as a kṣatriya and went to Himalaya",
+        "to become a brāhmin, meditation."
+      ]
+    },
+    {
+      "index": 211,
+      "start": 1654.8,
+      "end": 1665.36,
+      "lines": [
+        "No. He became perfect by his own profession.",
+        "How? Because he satisfied Kṛṣṇa."
+      ]
+    },
+    {
+      "index": 212,
+      "start": 1665.36,
+      "end": 1674.72,
+      "lines": [
+        "So you can be situated in any position—that does",
+        "not matter—but try to satisfy Kṛṣṇa."
+      ]
+    },
+    {
+      "index": 213,
+      "start": 1674.72,
+      "end": 1683.02,
+      "lines": [
+        "That is Kṛṣṇa consciousness movement:",
+        "how to satisfy Kṛṣṇa."
+      ]
+    },
+    {
+      "index": 214,
+      "start": 1683.02,
+      "end": 1689.24,
+      "lines": [
+        "It is not very difficult. Kṛṣṇa says .",
+        ". . Now you can say that, \"Arjuna was a fighter,"
+      ]
+    },
+    {
+      "index": 215,
+      "start": 1689.24,
+      "end": 1694.98,
+      "lines": [
+        "and there was great need of the Kurukṣetra fighting,",
+        "so he satisfied Kṛṣṇa. But I am a poor man,"
+      ]
+    },
+    {
+      "index": 216,
+      "start": 1694.96,
+      "end": 1699.06,
+      "lines": [
+        "I am not kṣatriya, not . . .",
+        "(indistinct) . . .\" That doesn't matter."
+      ]
+    },
+    {
+      "index": 217,
+      "start": 1699.06,
+      "end": 1705.1,
+      "lines": [
+        "Kṛṣṇa says, man-manā bhava mad-bhakto mad-yājī",
+        "māṁ namaskuru (BG 18.65). No,"
+      ]
+    },
+    {
+      "index": 218,
+      "start": 1705.02,
+      "end": 1711.04,
+      "lines": [
+        "you come here. Here is Kṛṣṇa.",
+        "You always think of Kṛṣṇa, man-manā."
+      ]
+    },
+    {
+      "index": 219,
+      "start": 1711.04,
+      "end": 1716.94,
+      "lines": [
+        "You become devotee of Kṛṣṇa.",
+        "Whatever you can, offer to Kṛṣṇa."
+      ]
+    },
+    {
+      "index": 220,
+      "start": 1716.94,
+      "end": 1723.86,
+      "lines": [
+        "Man-manā bhava mad-bhakto mad-yājī:",
+        "you worship Kṛṣṇa. If you don't come here,"
+      ]
+    },
+    {
+      "index": 221,
+      "start": 1723.86,
+      "end": 1730.473,
+      "lines": [
+        "you can do it in . . . at your home.",
+        "Man-manā bhava mad-bhakto mad-yājī māṁ namaskuru."
+      ]
+    },
+    {
+      "index": 222,
+      "start": 1730.473,
+      "end": 1737.24,
+      "lines": [
+        "Somehow or other, you become Kṛṣṇa conscious.",
+        "There is no difficulty."
+      ]
+    },
+    {
+      "index": 223,
+      "start": 1737.24,
+      "end": 1742.44,
+      "lines": [
+        "\"No, I have no money. I cannot worship Kṛṣṇa in",
+        "this way, such gorgeously.\" No."
+      ]
+    },
+    {
+      "index": 224,
+      "start": 1742.36,
+      "end": 1747.36,
+      "lines": [
+        "That Kṛṣṇa does not say. Kṛṣṇa says,",
+        "patraṁ puṣpaṁ phalam (BG 9.26):"
+      ]
+    },
+    {
+      "index": 225,
+      "start": 1746.98,
+      "end": 1752.58,
+      "lines": [
+        "\"If you are poor man, all right,",
+        "you give Me little fruit, little flower,"
+      ]
+    },
+    {
+      "index": 226,
+      "start": 1752.58,
+      "end": 1757.9,
+      "lines": [
+        "little water, I'll",
+        "eat it.\" Then what do you want more?"
+      ]
+    },
+    {
+      "index": 227,
+      "start": 1757.9,
+      "end": 1762.86,
+      "lines": [
+        "Or if you cannot do anything,",
+        "chant Hare Kṛṣṇa."
+      ]
+    },
+    {
+      "index": 228,
+      "start": 1762.86,
+      "end": 1771.948,
+      "lines": [
+        "So Kṛṣṇa consciousness movement is so easy.",
+        "Everyone can take it and make his life successful."
+      ]
+    },
+    {
+      "index": 229,
+      "start": 1771.948,
+      "end": 1778.82,
+      "lines": [
+        "Daivī sampad vimokṣāya nibandhāyāsurī matā,",
+        "mā śucaḥ sampadaṁ . . . (BG 16.5)."
+      ]
+    },
+    {
+      "index": 230,
+      "start": 1778.82,
+      "end": 1788.92,
+      "lines": [
+        "Here, just to tell the devotees that even they",
+        "are engaged . . . that Hanumān become engaged in"
+      ]
+    },
+    {
+      "index": 231,
+      "start": 1788.84,
+      "end": 1796.38,
+      "lines": [
+        "fighting with Rāvaṇa, but he became the greatest",
+        "devotee of Lord Rāmacandra. Arjuna also became"
+      ]
+    },
+    {
+      "index": 232,
+      "start": 1796.3,
+      "end": 1804.414,
+      "lines": [
+        "engaged with, in fighting with the Kauravas,",
+        "and he is the greatest. ''Bhakto 'si priyo 'si"
+      ]
+    },
+    {
+      "index": 233,
+      "start": 1804.355,
+      "end": 1811.6,
+      "lines": [
+        "me (BG 4.3). Kṛṣṇa gives certificate to him:",
+        "\"You are My dear friend, priyo 'si bhakto 'si.\""
+      ]
+    },
+    {
+      "index": 234,
+      "start": 1811.6,
+      "end": 1820.923,
+      "lines": [
+        "Similarly, we can do everything for Kṛṣṇa.",
+        "Lord Caitanya Mahāprabhu says:"
+      ]
+    },
+    {
+      "index": 235,
+      "start": 1820.923,
+      "end": 1827.018,
+      "lines": [
+        "āmāra ajñāya guru hañā tara ei deśa yāre kaha,",
+        "tāre kaha 'kṛṣṇa'-upadeśa (CC Madhya 7.128) Yāre"
+      ]
+    },
+    {
+      "index": 236,
+      "start": 1826.958,
+      "end": 1831.8,
+      "lines": [
+        "dekha tāre kaha kṛṣṇa . . . everyone,",
+        "we can do that. There is no difficulty."
+      ]
+    },
+    {
+      "index": 237,
+      "start": 1831.74,
+      "end": 1837.86,
+      "lines": [
+        "Prāṇair arthair dhiyā vācā (SB 10.22.35).",
+        "Any . . . somebody can dedicate his life,"
+      ]
+    },
+    {
+      "index": 238,
+      "start": 1837.86,
+      "end": 1844.66,
+      "lines": [
+        "somebody can dedicate his money,",
+        "somebody can dedicate his intelligence,"
+      ]
+    },
+    {
+      "index": 239,
+      "start": 1844.66,
+      "end": 1849.82,
+      "lines": [
+        "somebody can dedicate his words.",
+        "So it is not at all difficulty."
+      ]
+    },
+    {
+      "index": 240,
+      "start": 1849.82,
+      "end": 1859.02,
+      "lines": [
+        "In this way, simply by accepting the process of",
+        "Kṛṣṇa consciousness, one develops the daivī sampat,"
+      ]
+    },
+    {
+      "index": 241,
+      "start": 1859.02,
+      "end": 1867.04,
+      "lines": [
+        "divine quality. Yasyāsti bhaktir bhagavaty akiñcanā",
+        "sarvair guṇair tatra samāsate surāḥ."
+      ]
+    },
+    {
+      "index": 242,
+      "start": 1867.04,
+      "end": 1876.98,
+      "lines": [
+        "As soon as one becomes devotee,",
+        "with all the divinely, godly qualities one becomes"
+      ]
+    },
+    {
+      "index": 243,
+      "start": 1876.9,
+      "end": 1889.853,
+      "lines": [
+        "developed. yasyāsti bhaktir bhagavaty akiñcanā",
+        "sarvair guṇair tatra samāsate surāḥ harāv abhaktasya"
+      ]
+    },
+    {
+      "index": 244,
+      "start": 1889.793,
+      "end": 1897.5,
+      "lines": [
+        "kuto mahad-guṇā mano-rathenāsati dhāvato bahiḥ",
+        "(SB 5.18.12) Because people are not devotees of"
+      ]
+    },
+    {
+      "index": 245,
+      "start": 1897.42,
+      "end": 1907.0,
+      "lines": [
+        "God, therefore despite all education,",
+        "all advancement of scientific knowledge,"
+      ]
+    },
+    {
+      "index": 246,
+      "start": 1907.0,
+      "end": 1914.46,
+      "lines": [
+        "still they are dealing like cats and dogs.",
+        "They are not peaceful. The peace cannot be attained"
+      ]
+    },
+    {
+      "index": 247,
+      "start": 1914.38,
+      "end": 1921.056,
+      "lines": [
+        "without Kṛṣṇa consciousness.",
+        "Ahaṁ hi sarva-yajñānāṁ bhoktā ca prabhur eva ca"
+      ]
+    },
+    {
+      "index": 248,
+      "start": 1920.996,
+      "end": 1929.44,
+      "lines": [
+        "(BG 9.24). Simply by practicing Kṛṣṇa consciousness",
+        "there can be peace, there can be prosperity,"
+      ]
+    },
+    {
+      "index": 249,
+      "start": 1929.44,
+      "end": 1936.76,
+      "lines": [
+        "there can be happiness. Otherwise,",
+        "we shall be entangled. It is clearly mentioned"
+      ]
+    },
+    {
+      "index": 250,
+      "start": 1936.68,
+      "end": 1945.28,
+      "lines": [
+        "here by Kṛṣṇa, daivī sampad vimokṣāya.",
+        "And daivī sampat means, the example is Arjuna."
+      ]
+    },
+    {
+      "index": 251,
+      "start": 1945.28,
+      "end": 1951.225,
+      "lines": [
+        "He immediately takes up, Arjuna:",
+        "mā śucaḥ. \"You are . . . you are already developed"
+      ]
+    },
+    {
+      "index": 252,
+      "start": 1951.225,
+      "end": 1957.186,
+      "lines": [
+        "with daivī, daivī sampat.\"",
+        "Mā śucaḥ'': \"You haven't got to worry.\" ''Mā śucaḥ"
+      ]
+    },
+    {
+      "index": 253,
+      "start": 1957.146,
+      "end": 1965.0,
+      "lines": [
+        "sampadaṁ daivīm abhijāto 'si.",
+        "Abhijāto 'si: \"From the birth you are born devotee;"
+      ]
+    },
+    {
+      "index": 254,
+      "start": 1965.0,
+      "end": 1969.876,
+      "lines": [
+        "therefore daivī sampat.",
+        "You are born devotee.\" The Pāṇḍava,"
+      ]
+    },
+    {
+      "index": 255,
+      "start": 1969.56,
+      "end": 1975.96,
+      "lines": [
+        "whole Pāṇḍava family, they are devotees.",
+        "Therefore, simply if you become devotee of Lord"
+      ]
+    },
+    {
+      "index": 256,
+      "start": 1975.88,
+      "end": 1982.36,
+      "lines": [
+        "Kṛṣṇa, then you acquire all the daivī sampat,",
+        "and then your life is successful."
+      ]
+    },
+    {
+      "index": 257,
+      "start": 1982.36,
+      "end": 1989.568,
+      "lines": [
+        "You become. In another place also Kṛṣṇa says,",
+        "in the Fourth Chapter, that janma karma me divyam"
+      ]
+    },
+    {
+      "index": 258,
+      "start": 1989.508,
+      "end": 1997.68,
+      "lines": [
+        "(BG 4.9). Without daivī sampat nobody can understand",
+        "Kṛṣṇa."
+      ]
+    },
+    {
+      "index": 259,
+      "start": 1997.68,
+      "end": 2000.84,
+      "lines": [
+        "Without daivī sampat. Both ways.",
+        "If you try to understand Kṛṣṇa,"
+      ]
+    },
+    {
+      "index": 260,
+      "start": 2000.84,
+      "end": 2011.76,
+      "lines": [
+        "then automatically the daivī sampat will be developed;",
+        "or by developing daivī sampat you can understand"
+      ]
+    },
+    {
+      "index": 261,
+      "start": 2011.68,
+      "end": 2021.14,
+      "lines": [
+        "Kṛṣṇa. But that is very difficult.",
+        "Better you touch the electric and you become electrified."
+      ]
+    },
+    {
+      "index": 262,
+      "start": 2021.14,
+      "end": 2029.8,
+      "lines": [
+        "Simply by. Simply by māṁ ca yo 'vyabhicārena bhakti-yogena",
+        "sevate (BG 14.26). That Kṛṣṇa advised."
+      ]
+    },
+    {
+      "index": 263,
+      "start": 2029.8,
+      "end": 2037.42,
+      "lines": [
+        "Simply avyabhicāreṇa, pure devotional service.",
+        "If you engage yourself in pure devotional service"
+      ]
+    },
+    {
+      "index": 264,
+      "start": 2037.34,
+      "end": 2042.096,
+      "lines": [
+        "to Kṛṣṇa,",
+        "then sa guṇān samatītyaitān brahma-bhūyāya kal"
+      ]
+    },
+    {
+      "index": 265,
+      "start": 2042.036,
+      "end": 2048.48,
+      "lines": [
+        ". . . (BG 14.26), immediately you become elevated",
+        "to the position of Brahman. These things are described"
+      ]
+    },
+    {
+      "index": 266,
+      "start": 2048.4,
+      "end": 2057.14,
+      "lines": [
+        "very nicely, explained in the Bhagavad-gītā.",
+        "Our only propaganda is that you try to avoid these"
+      ]
+    },
+    {
+      "index": 267,
+      "start": 2057.06,
+      "end": 2066.716,
+      "lines": [
+        "four principles of sinful life:",
+        "illicit sex, meat-eating, gambling and intoxication."
+      ]
+    },
+    {
+      "index": 268,
+      "start": 2066.716,
+      "end": 2072.682,
+      "lines": [
+        "And chant Hare Kṛṣṇa and read Bhagavad-gītā—your",
+        "life is successful. Thank you very much."
+      ]
+    },
+    {
+      "index": 269,
+      "start": 2072.682,
+      "end": 2079.5,
+      "lines": [
+        "(break) . . .",
+        "on this subject. Yes. Bhagavad-gītā teaches us"
+      ]
+    },
+    {
+      "index": 270,
+      "start": 2079.44,
+      "end": 2081.933,
+      "lines": [
+        "that one should treat a piece of gold .",
+        ". . Prabhupāda: Hmm? . . . a piece of gold and"
+      ]
+    },
+    {
+      "index": 271,
+      "start": 2081.873,
+      "end": 2083.738,
+      "lines": [
+        "a piece of stone alike. Is it practically considered?",
+        "Prabhupāda: Where it is stated?"
+      ]
+    },
+    {
+      "index": 272,
+      "start": 2083.369,
+      "end": 2092.045,
+      "lines": [
+        "One should treat a piece of gold",
+        "and a piece of stone . . ."
+      ]
+    },
+    {
+      "index": 273,
+      "start": 2092.045,
+      "end": 2102.84,
+      "lines": [
+        "Prabhupāda:",
+        "Where it is stated?"
+      ]
+    },
+    {
+      "index": 274,
+      "start": 2102.84,
+      "end": 2107.564,
+      "lines": [
+        "In the Bhagavad-gītā. Prabhupāda:",
+        "Where? You recite the śloka''."
+      ]
+    },
+    {
+      "index": 275,
+      "start": 2107.564,
+      "end": 2113.19,
+      "lines": [
+        "Well, I can't . . . Prabhupāda:",
+        "That's all."
+      ]
+    },
+    {
+      "index": 276,
+      "start": 2113.19,
+      "end": 2120.07,
+      "lines": [
+        "This is not question. If you have no clear idea,",
+        "where the question?"
+      ]
+    },
+    {
+      "index": 277,
+      "start": 2120.07,
+      "end": 2129.73,
+      "lines": [
+        "Where it is stated?",
+        "Do you . . . are practically can do that—a piece"
+      ]
+    },
+    {
+      "index": 278,
+      "start": 2129.65,
+      "end": 2143.4,
+      "lines": [
+        "of gold and piece of stone, the same thing?",
+        "There is a verse, sama-loṣṭrāśma-kāñcanaḥ (BG 6.8)."
+      ]
+    },
+    {
+      "index": 279,
+      "start": 2143.4,
+      "end": 2153.481,
+      "lines": [
+        "So that is very advanced stage,",
+        "when one knows that everything is made of"
+      ]
+    },
+    {
+      "index": 280,
+      "start": 2153.481,
+      "end": 2158.744,
+      "lines": [
+        "matter, so what is the value?",
+        "Why you can't give more value to the stone,"
+      ]
+    },
+    {
+      "index": 281,
+      "start": 2158.704,
+      "end": 2170.599,
+      "lines": [
+        "because originally everything is made of matter?",
+        "There is one thing, paṇḍitāh sama-darśinaḥ (BG"
+      ]
+    },
+    {
+      "index": 282,
+      "start": 2170.539,
+      "end": 2182.2,
+      "lines": [
+        "5.18). But that is when one has attained a very",
+        "perfectional stage, not for the ordinary man."
+      ]
+    },
+    {
+      "index": 283,
+      "start": 2182.2,
+      "end": 2189.92,
+      "lines": [
+        "Ordinary man, you cannot say that,",
+        "\"I treat a piece of stone and piece of gold the"
+      ]
+    },
+    {
+      "index": 284,
+      "start": 2189.84,
+      "end": 2198.2,
+      "lines": [
+        "same way.\" Then why don't you take a piece of stone?",
+        "Can you say? Suppose if you have gone to a,"
+      ]
+    },
+    {
+      "index": 285,
+      "start": 2198.12,
+      "end": 2206.64,
+      "lines": [
+        "purchasing to a goldsmith shop.",
+        "So I say: \"Sir, you take this ornament made of"
+      ]
+    },
+    {
+      "index": 286,
+      "start": 2206.56,
+      "end": 2212.866,
+      "lines": [
+        "stone and you pay me the price of gold,\" would",
+        "you agree? Then there is no such ."
+      ]
+    },
+    {
+      "index": 287,
+      "start": 2212.807,
+      "end": 2223.39,
+      "lines": [
+        ". . It must be practical.",
+        "In the practical life that is very higher stage."
+      ]
+    },
+    {
+      "index": 288,
+      "start": 2223.39,
+      "end": 2227.406,
+      "lines": [
+        "Those who do not care either for .",
+        ". . just like"
+      ]
+    },
+    {
+      "index": 289,
+      "start": 2227.406,
+      "end": 2236.03,
+      "lines": [
+        "Sanatāna Gosvāmī. Sanatāna Goswāmī was (in) Vṛndāvana.",
+        "He was chanting Hare Kṛṣṇa, Hare Kṛṣṇa,"
+      ]
+    },
+    {
+      "index": 290,
+      "start": 2235.95,
+      "end": 2242.26,
+      "lines": [
+        "always.",
+        "Then, one brāhmin, he was very poor—perhaps you"
+      ]
+    },
+    {
+      "index": 291,
+      "start": 2242.18,
+      "end": 2251.06,
+      "lines": [
+        "know this story—he worshiped Lord Śiva,",
+        "and when Lord Śiva was pleased,"
+      ]
+    },
+    {
+      "index": 292,
+      "start": 2251.06,
+      "end": 2255.58,
+      "lines": [
+        "then he wanted to take him .",
+        ". . give him some benediction."
+      ]
+    },
+    {
+      "index": 293,
+      "start": 2255.58,
+      "end": 2263.02,
+      "lines": [
+        "So, \"What do you want?\" So he said:",
+        "\"Give me the best thing, so I shall be the greatest"
+      ]
+    },
+    {
+      "index": 294,
+      "start": 2262.94,
+      "end": 2268.48,
+      "lines": [
+        "of all.\"",
+        "That he said: \"Oh, I haven't got such thing,"
+      ]
+    },
+    {
+      "index": 295,
+      "start": 2268.48,
+      "end": 2275.58,
+      "lines": [
+        "but if you want, you go to Sanatāna Goswāmī.\" \"Where",
+        "is Sanatāna Gosvāmī?\" \"Vṛndāvana.\" So when he went"
+      ]
+    },
+    {
+      "index": 296,
+      "start": 2275.5,
+      "end": 2284.84,
+      "lines": [
+        "there, so he had a touchstone.",
+        "The touchstone was kept with the garbage."
+      ]
+    },
+    {
+      "index": 297,
+      "start": 2284.84,
+      "end": 2288.36,
+      "lines": [
+        "And he asked him, \"All right,",
+        "you take that. You are poor man."
+      ]
+    },
+    {
+      "index": 298,
+      "start": 2288.36,
+      "end": 2294.84,
+      "lines": [
+        "You take the stone, and if you touch this stone",
+        "with iron, it will turn into gold."
+      ]
+    },
+    {
+      "index": 299,
+      "start": 2294.84,
+      "end": 2302.3,
+      "lines": [
+        "You take this. Find out in that garbage.\" So he",
+        "took it and went away. So on the street he began"
+      ]
+    },
+    {
+      "index": 300,
+      "start": 2302.22,
+      "end": 2311.28,
+      "lines": [
+        "to think that, \"Lord Śiva advised me that 'He has",
+        "the best thing."
+      ]
+    },
+    {
+      "index": 301,
+      "start": 2311.28,
+      "end": 2320.28,
+      "lines": [
+        "You go there.' But he has given me this stone—it",
+        "is very nice—but why did he keep it with the garbage?"
+      ]
+    },
+    {
+      "index": 302,
+      "start": 2320.28,
+      "end": 2328.54,
+      "lines": [
+        "He has not delivered me the best thing.\" So he",
+        "returned back. So when he returned back,"
+      ]
+    },
+    {
+      "index": 303,
+      "start": 2328.54,
+      "end": 2333.34,
+      "lines": [
+        "then Sanatāna Goswāmī . . . he said:",
+        "\"Sir, I . . . I . . . this is very nice,"
+      ]
+    },
+    {
+      "index": 304,
+      "start": 2333.34,
+      "end": 2338.84,
+      "lines": [
+        "but I don't think this is the best thing,",
+        "because Lord Śiva said me that you have the best"
+      ]
+    },
+    {
+      "index": 305,
+      "start": 2338.76,
+      "end": 2344.36,
+      "lines": [
+        "thing. If it is the best thing,",
+        "why did you keep it with the garbage?\""
+      ]
+    },
+    {
+      "index": 306,
+      "start": 2344.36,
+      "end": 2348.48,
+      "lines": [
+        "So Sanatāna Goswāmī smiled and said:",
+        "\"Yes, it is not the best thing,"
+      ]
+    },
+    {
+      "index": 307,
+      "start": 2348.48,
+      "end": 2354.48,
+      "lines": [
+        "but for you it was the best thing.",
+        "You want more than this, more valuable?\" \"Yes,"
+      ]
+    },
+    {
+      "index": 308,
+      "start": 2354.48,
+      "end": 2361.14,
+      "lines": [
+        "sir. For that purpose I came.\" \"Then take this",
+        "stone and throw in the Yamunā.\" So he threw it"
+      ]
+    },
+    {
+      "index": 309,
+      "start": 2361.06,
+      "end": 2372.146,
+      "lines": [
+        "and, \"Sit down, chant Hare Kṛṣṇa.\"",
+        "You see? Those who are actually attached,"
+      ]
+    },
+    {
+      "index": 310,
+      "start": 2372.146,
+      "end": 2379.64,
+      "lines": [
+        "sarvopādhi-vinirmuktaṁ tat-paratvena nirmalam (CC",
+        "Madhya 19.170), for them it is equally valuable."
+      ]
+    },
+    {
+      "index": 311,
+      "start": 2379.64,
+      "end": 2389.02,
+      "lines": [
+        "Not for ordinary men. So we cannot jump to the",
+        "highest position. That is not possible."
+      ]
+    },
+    {
+      "index": 312,
+      "start": 2389.02,
+      "end": 2395.18,
+      "lines": [
+        "Therefore we have to go abhayaṁ sattva-saṁśuddhiḥ.",
+        "This process is recommended."
+      ]
+    },
+    {
+      "index": 313,
+      "start": 2395.18,
+      "end": 2404.648,
+      "lines": [
+        "Kṛṣṇa says, and Kṛṣṇa says also this.",
+        "So actually, Kṛṣṇa says ultimately,"
+      ]
+    },
+    {
+      "index": 314,
+      "start": 2404.648,
+      "end": 2409.76,
+      "lines": [
+        "sarva-guhyatamam, \"The most confidential knowledge",
+        "I am giving you:"
+      ]
+    },
+    {
+      "index": 315,
+      "start": 2409.76,
+      "end": 2416.84,
+      "lines": [
+        "sarva dharmān parityajya mām ekaṁ śaraṇam (BG 18.66).",
+        "This is the most confidential.\""
+      ]
+    },
+    {
+      "index": 316,
+      "start": 2416.84,
+      "end": 2429.46,
+      "lines": [
+        "So, so long we are not able to come to the platform",
+        "of thinking the gold and the stone on the equal"
+      ]
+    },
+    {
+      "index": 317,
+      "start": 2429.38,
+      "end": 2437.94,
+      "lines": [
+        "value, we have to follow these rules and regulation.",
+        "But that is the highest consideration."
+      ]
+    },
+    {
+      "index": 318,
+      "start": 2437.94,
+      "end": 2446.63,
+      "lines": [
+        "Just like Sanatāna Goswāmī, he didn't care for",
+        "this touchstone. Not for the ordinary man."
+      ]
+    },
+    {
+      "index": 319,
+      "start": 2446.63,
+      "end": 2459.89,
+      "lines": [
+        "The ordinary man cannot make that all of a sudden;",
+        "therefore it is not for him."
+      ]
+    },
+    {
+      "index": 320,
+      "start": 2459.89,
+      "end": 2465.49,
+      "lines": [
+        "So what was the purpose of saying that Gītā says",
+        "sama-loṣṭrāśma-kāñcanaḥ (BG 6.8)?"
+      ]
+    },
+    {
+      "index": 321,
+      "start": 2465.49,
+      "end": 2469.51,
+      "lines": [
+        "Why did you raise this question?",
+        "What is the purpose?"
+      ]
+    },
+    {
+      "index": 322,
+      "start": 2469.51,
+      "end": 2474.41,
+      "lines": [
+        "We cannot raise, ordinary man,",
+        "but why did you raise this question?"
+      ]
+    },
+    {
+      "index": 323,
+      "start": 2474.41,
+      "end": 2482.103,
+      "lines": [
+        "What is the purpose? I think this is practical",
+        "for a householder. Prabhupāda:"
+      ]
+    },
+    {
+      "index": 324,
+      "start": 2482.103,
+      "end": 2487.63,
+      "lines": [
+        "But I don't think . . . then",
+        "where is the difference?"
+      ]
+    },
+    {
+      "index": 325,
+      "start": 2487.63,
+      "end": 2493.65,
+      "lines": [
+        "Therefore,",
+        "household luxury is allowed up to fiftieth year"
+      ]
+    },
+    {
+      "index": 326,
+      "start": 2493.57,
+      "end": 2501.93,
+      "lines": [
+        "in order to learn, pañcaśordhvaṁ vanaṁ vrajet.",
+        "That is Vedic system. Not to remain householder"
+      ]
+    },
+    {
+      "index": 327,
+      "start": 2501.85,
+      "end": 2510.73,
+      "lines": [
+        "until you are fired, you see,",
+        "or you are taken by death. Just like our big leaders:"
+      ]
+    },
+    {
+      "index": 328,
+      "start": 2510.73,
+      "end": 2518.69,
+      "lines": [
+        "they won't give up their householder's life unless",
+        "he is fired to death, or death takes him."
+      ]
+    },
+    {
+      "index": 329,
+      "start": 2518.69,
+      "end": 2529.13,
+      "lines": [
+        "That is not very good proposition.",
+        "My Guru Mahārāja used to say that this householder"
+      ]
+    },
+    {
+      "index": 330,
+      "start": 2529.05,
+      "end": 2537.85,
+      "lines": [
+        "life means it is a concession for sense gratification.",
+        "That's all. But our position is that we should"
+      ]
+    },
+    {
+      "index": 331,
+      "start": 2537.77,
+      "end": 2545.85,
+      "lines": [
+        "not continue sense gratification for all the life.",
+        "The sense gratification process is going on by"
+      ]
+    },
+    {
+      "index": 332,
+      "start": 2545.77,
+      "end": 2554.14,
+      "lines": [
+        "the hogs and dogs throughout the whole life,",
+        "but we should not be like hogs and dogs."
+      ]
+    },
+    {
+      "index": 333,
+      "start": 2554.14,
+      "end": 2559.74,
+      "lines": [
+        "We should cease at a certain time.",
+        "Pañcaśordhvaṁ vanaṁ vrajet. So far;"
+      ]
+    },
+    {
+      "index": 334,
+      "start": 2559.74,
+      "end": 2570.78,
+      "lines": [
+        "no more. That should be our motive.",
+        "Not that continue."
+      ]
+    },
+    {
+      "index": 335,
+      "start": 2570.78,
+      "end": 2576.16,
+      "lines": [
+        "That . . . that is Vedic way of life,",
+        "pravṛttiṁ-nivṛtti. So long pravṛtti,"
+      ]
+    },
+    {
+      "index": 336,
+      "start": 2576.16,
+      "end": 2583.66,
+      "lines": [
+        "attraction for household life,",
+        "and next nivṛtti: \"Now I shall be detached.\" But"
+      ]
+    },
+    {
+      "index": 337,
+      "start": 2583.58,
+      "end": 2589.4,
+      "lines": [
+        "the asuras, as it is said, pravṛttiṁ ca nivṛttiṁ",
+        "ca na vidur āsurāḥ janāḥ (BG 16.7)."
+      ]
+    },
+    {
+      "index": 338,
+      "start": 2589.4,
+      "end": 2598.27,
+      "lines": [
+        "And if you continue simply pravṛtti-mārga,",
+        "then you'll remain asura; you don't become deva."
+      ]
+    },
+    {
+      "index": 339,
+      "start": 2598.27,
+      "end": 2604.83,
+      "lines": [
+        "The whole process, Vedic system,",
+        "is even if we are asuras, gradually by practice,"
+      ]
+    },
+    {
+      "index": 340,
+      "start": 2604.83,
+      "end": 2612.85,
+      "lines": [
+        "by good association, by following the principles",
+        "of śāstra, we can become deva."
+      ]
+    },
+    {
+      "index": 341,
+      "start": 2612.85,
+      "end": 2620.61,
+      "lines": [
+        "So our this Kṛṣṇa consciousness movement,",
+        "actually we're doing that. These boys,"
+      ]
+    },
+    {
+      "index": 342,
+      "start": 2620.55,
+      "end": 2627.69,
+      "lines": [
+        "they are so . . . according to our śāstra,",
+        "they are born in asura families,"
+      ]
+    },
+    {
+      "index": 343,
+      "start": 2627.69,
+      "end": 2635.23,
+      "lines": [
+        "I say, (laughs) but they are coming deva.",
+        "And they have become devas. So that is not impossible."
+      ]
+    },
+    {
+      "index": 344,
+      "start": 2635.23,
+      "end": 2641.29,
+      "lines": [
+        "It doesn't matter,",
+        "janmana jāyate śūdraḥ saṅskarād bhaved dvijaḥ."
+      ]
+    },
+    {
+      "index": 345,
+      "start": 2641.29,
+      "end": 2646.37,
+      "lines": [
+        "Anyone can be born of lowborn,",
+        "śūdra-born, or lower than śūdra born,"
+      ]
+    },
+    {
+      "index": 346,
+      "start": 2646.37,
+      "end": 2652.344,
+      "lines": [
+        "but by this process, Kṛṣṇa consciousness,",
+        "''kirāta-hūṇāndhra-pulinda-pulkaśā ābhīra-śumbhā"
+      ]
+    },
+    {
+      "index": 347,
+      "start": 2652.304,
+      "end": 2662.036,
+      "lines": [
+        "yavanāḥ khasādayaḥ ye 'nye ca pāpā (SB 2.4.18)—more",
+        "than, still lower born—śudhyanti prabhaviṣṇave"
+      ]
+    },
+    {
+      "index": 348,
+      "start": 2661.996,
+      "end": 2668.9,
+      "lines": [
+        "namaḥ.",
+        "That is the wonderful, I mean to say,"
+      ]
+    },
+    {
+      "index": 349,
+      "start": 2668.82,
+      "end": 2677.14,
+      "lines": [
+        "power of the Supreme Lord. So we are trying to",
+        "bring everyone—Hindus, Muslims,"
+      ]
+    },
+    {
+      "index": 350,
+      "start": 2677.14,
+      "end": 2685.62,
+      "lines": [
+        "or mlecchas, Yavanas, Kirāta,",
+        "Hūṇa, Āndhras''—anyone come to Kṛṣṇa consciousness,"
+      ]
+    },
+    {
+      "index": 351,
+      "start": 2685.62,
+      "end": 2690.84,
+      "lines": [
+        "there is no limitation. We don't say,",
+        "\"No. Because you are born in this family,"
+      ]
+    },
+    {
+      "index": 352,
+      "start": 2690.84,
+      "end": 2694.485,
+      "lines": [
+        "you cannot take to Kṛṣṇa consciousness.\" Everyone",
+        "can"
+      ]
+    },
+    {
+      "index": 353,
+      "start": 2694.485,
+      "end": 2701.74,
+      "lines": [
+        "do. Just like in Africa they are also taking.",
+        "They are becoming Vaiṣṇava. So this is our main"
+      ]
+    },
+    {
+      "index": 354,
+      "start": 2701.66,
+      "end": 2710.047,
+      "lines": [
+        "business. This is the business of every Indian.",
+        "Caitanya Mahāprabhu said: bhārata-bhūmite manuṣya-janma"
+      ]
+    },
+    {
+      "index": 355,
+      "start": 2710.028,
+      "end": 2715.78,
+      "lines": [
+        "haila yāra ''janma sārthaka kari' kara para-upakāra",
+        "(CC Adi 9.41) Janma sārthaka kari."
+      ]
+    },
+    {
+      "index": 356,
+      "start": 2715.78,
+      "end": 2722.96,
+      "lines": [
+        "First of all we have to make our life perfect by",
+        "following these principles. Not that we shall remain"
+      ]
+    },
+    {
+      "index": 357,
+      "start": 2722.88,
+      "end": 2730.94,
+      "lines": [
+        "all along gṛhastha.",
+        "No. That is not Vedic injunction."
+      ]
+    },
+    {
+      "index": 358,
+      "start": 2730.94,
+      "end": 2736.32,
+      "lines": [
+        "At a certain age you must give up your gṛhastha''",
+        "life. Whatever is done is done."
+      ]
+    },
+    {
+      "index": 359,
+      "start": 2736.32,
+      "end": 2749.244,
+      "lines": [
+        "That's all. Finished.",
+        "That is Vedic civilization. Brahmacārī,"
+      ]
+    },
+    {
+      "index": 360,
+      "start": 2749.244,
+      "end": 2757.18,
+      "lines": [
+        "vānaprastha, uh . . . gṛhastha,",
+        "vānaprastha, then sannyāsa. Four orders of spiritual"
+      ]
+    },
+    {
+      "index": 361,
+      "start": 2757.1,
+      "end": 2769.62,
+      "lines": [
+        "life and four orders of material life,",
+        "brāhmaṇa, kṣatriya, vaiśya, śūdra."
+      ]
+    },
+    {
+      "index": 362,
+      "start": 2769.62,
+      "end": 2773.88,
+      "lines": [
+        "This is called varṇāśrama-dharma.",
+        "So India, it is specially practiced,"
+      ]
+    },
+    {
+      "index": 363,
+      "start": 2773.88,
+      "end": 2781.14,
+      "lines": [
+        "India, this bhārata-bhūmi.",
+        "Therefore bhārata-bhūmi is called puṇya-bhūmi."
+      ]
+    },
+    {
+      "index": 364,
+      "start": 2781.14,
+      "end": 2787.14,
+      "lines": [
+        "But we are giving up all these things.",
+        "We are becoming allured by something else."
+      ]
+    },
+    {
+      "index": 365,
+      "start": 2787.14,
+      "end": 2788.34,
+      "lines": [
+        "That is our misfortune. (end)"
+      ]
+    }
+  ]
+}
